@@ -91,7 +91,6 @@ def enviar_stream(sock, addr, dados: bytes, seq_ini: int) -> tuple[int, bool]:
         for t in range(MAX_TENT):
             sock.sendto(pkt, addr)
             
-            # Criamos um sub-loop com base no tempo para ignorar lixo no buffer
             deadline = time.time() + TIMEOUT_ACK
             while time.time() < deadline:
                 tempo_restante = deadline - time.time()
@@ -100,16 +99,11 @@ def enviar_stream(sock, addr, dados: bytes, seq_ini: int) -> tuple[int, bool]:
                 
                 resp = receber_pkt(sock, addr, timeout=tempo_restante)
                 if resp is None:
-                    # Deu timeout real (nenhum pacote chegou no tempo)
                     break
                 
-                # SE chegou o ACK que queríamos, sucesso!
                 if resp["tipo"] == TIPO_ACK and resp["seq_num"] == seq:
                     ok = True
                     break
-                
-                # Se chegou qualquer outra coisa (ex: GET repetido), o 'while' continua
-                # lendo o buffer até esvaziar ou dar o tempo do timeout.
             
             if ok:
                 break
@@ -162,13 +156,11 @@ def servir_sessao(sock, addr, request_raw: bytes):
 
         inicio = time.perf_counter()
         
-        # 1. Envia o Header HTTP usando a função enviar_stream
         seq, ok = enviar_stream(sock, addr, header, 1)
         if not ok:
             log("  Falha ao enviar header")
             return
 
-        # 2. Abre e lê o arquivo de uma vez só
         try:
             with open(arquivo, "rb") as f:
                 conteudo_arquivo = f.read()
@@ -176,7 +168,6 @@ def servir_sessao(sock, addr, request_raw: bytes):
             log(f"  Erro ao ler arquivo: {e}")
             return
 
-        # 3. Envia todo o conteúdo do arquivo usando enviar_stream (ela cuida dos pacotes e sequências)
         seq, ok_corpo = enviar_stream(sock, addr, conteudo_arquivo, seq)
         if not ok_corpo:
             log(f"  Falha corpo seq={seq}")
@@ -187,7 +178,6 @@ def servir_sessao(sock, addr, request_raw: bytes):
         throughput = (bytes_env * 8) / (duracao * 1_000_000) if duracao > 0 else 0
         log(f"  -> 200 OK | {caminho} | {bytes_env}B | {duracao:.4f}s | {throughput:.4f} Mbps")
 
-        # 4. Envia o sinalizador de término
         enviar_fin(sock, addr, seq)
 
     except Exception as e:
