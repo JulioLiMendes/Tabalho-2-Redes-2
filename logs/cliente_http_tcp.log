@@ -1,0 +1,524 @@
+[17:27:12.492983] [HTTP-TCP-CLI] === Exec 1 | Cenario A | /arquivo_100kb.bin ===
+[17:27:12.515359] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (6.58ms, 1 tent)
+[17:27:12.543626] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0245s | 33.4130 Mbps
+[17:27:12.546664] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0311s
+[01:01:01.918307] [HTTP-TCP-CLI] === Exec 1 | Cenario A | /arquivo_100kb.bin ===
+[01:01:01.979830] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (53.54ms, 1 tent)
+[01:01:02.078912] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0534s | 15.3332 Mbps
+[01:01:02.082680] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1070s
+[01:01:03.723359] [HTTP-TCP-CLI] === Exec 2 | Cenario A | /arquivo_100kb.bin ===
+[01:01:03.754664] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (23.55ms, 1 tent)
+[01:01:03.815197] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0469s | 17.4581 Mbps
+[01:01:03.818593] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0705s
+[01:01:05.431814] [HTTP-TCP-CLI] === Exec 3 | Cenario A | /arquivo_100kb.bin ===
+[01:01:05.479361] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (27.98ms, 1 tent)
+[01:01:05.544662] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0477s | 17.1602 Mbps
+[01:01:05.547930] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0757s
+[01:01:07.171484] [HTTP-TCP-CLI] === Exec 4 | Cenario A | /arquivo_100kb.bin ===
+[01:01:07.234561] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (55.45ms, 1 tent)
+[01:01:07.295997] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0476s | 17.2099 Mbps
+[01:01:07.299087] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1031s
+[01:01:08.937679] [HTTP-TCP-CLI] === Exec 5 | Cenario A | /arquivo_100kb.bin ===
+[01:01:08.975640] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.93ms, 1 tent)
+[01:01:09.048152] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0570s | 14.3641 Mbps
+[01:01:09.051599] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0710s
+[01:01:10.715287] [HTTP-TCP-CLI] === Exec 6 | Cenario A | /arquivo_100kb.bin ===
+[01:01:10.747047] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (24.16ms, 1 tent)
+[01:01:10.812127] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0480s | 17.0615 Mbps
+[01:01:10.815268] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0722s
+[01:01:12.438789] [HTTP-TCP-CLI] === Exec 7 | Cenario A | /arquivo_100kb.bin ===
+[01:01:12.460673] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.17ms, 1 tent)
+[01:01:12.526806] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0472s | 17.3436 Mbps
+[01:01:12.530022] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0614s
+[01:01:14.157974] [HTTP-TCP-CLI] === Exec 8 | Cenario A | /arquivo_100kb.bin ===
+[01:01:14.180117] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.31ms, 1 tent)
+[01:01:14.247878] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0470s | 17.4377 Mbps
+[01:01:14.251454] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0613s
+[01:01:15.963614] [HTTP-TCP-CLI] === Exec 9 | Cenario A | /arquivo_100kb.bin ===
+[01:01:16.000919] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (29.83ms, 1 tent)
+[01:01:16.067188] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0471s | 17.3794 Mbps
+[01:01:16.070553] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0770s
+[01:01:17.698485] [HTTP-TCP-CLI] === Exec 10 | Cenario A | /arquivo_100kb.bin ===
+[01:01:17.720027] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.05ms, 1 tent)
+[01:01:17.792776] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0470s | 17.4423 Mbps
+[01:01:17.796145] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0610s
+[01:04:16.535297] [HTTP-TCP-CLI] === Exec 1 | Cenario A | /arquivo_500kb.bin ===
+[01:04:16.557435] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.73ms, 1 tent)
+[01:04:16.752106] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.1350s | 30.3296 Mbps
+[01:04:16.798934] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1498s
+[01:04:18.443761] [HTTP-TCP-CLI] === Exec 2 | Cenario A | /arquivo_500kb.bin ===
+[01:04:18.466007] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.87ms, 1 tent)
+[01:04:18.584594] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0901s | 45.4386 Mbps
+[01:04:18.588301] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1040s
+[01:04:20.220344] [HTTP-TCP-CLI] === Exec 3 | Cenario A | /arquivo_500kb.bin ===
+[01:04:20.253494] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.79ms, 1 tent)
+[01:04:20.363767] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0910s | 45.0287 Mbps
+[01:04:20.367087] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1047s
+[01:04:22.013401] [HTTP-TCP-CLI] === Exec 4 | Cenario A | /arquivo_500kb.bin ===
+[01:04:22.035321] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.59ms, 1 tent)
+[01:04:22.193471] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.1143s | 35.8501 Mbps
+[01:04:22.197043] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1288s
+[01:04:23.833357] [HTTP-TCP-CLI] === Exec 5 | Cenario A | /arquivo_500kb.bin ===
+[01:04:23.856269] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.16ms, 1 tent)
+[01:04:23.978211] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0921s | 44.4892 Mbps
+[01:04:23.981654] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1062s
+[01:04:25.618608] [HTTP-TCP-CLI] === Exec 6 | Cenario A | /arquivo_500kb.bin ===
+[01:04:25.647962] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.08ms, 1 tent)
+[01:04:25.764609] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0918s | 44.6282 Mbps
+[01:04:25.768212] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1059s
+[01:04:27.401009] [HTTP-TCP-CLI] === Exec 7 | Cenario A | /arquivo_500kb.bin ===
+[01:04:27.423568] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.08ms, 1 tent)
+[01:04:27.548106] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0943s | 43.4572 Mbps
+[01:04:27.551669] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1083s
+[01:04:29.191569] [HTTP-TCP-CLI] === Exec 8 | Cenario A | /arquivo_500kb.bin ===
+[01:04:29.214929] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.79ms, 1 tent)
+[01:04:29.352697] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0929s | 44.0690 Mbps
+[01:04:29.356482] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1077s
+[01:04:31.002911] [HTTP-TCP-CLI] === Exec 9 | Cenario A | /arquivo_500kb.bin ===
+[01:04:31.025967] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.39ms, 1 tent)
+[01:04:31.178002] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0935s | 43.7851 Mbps
+[01:04:31.181766] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1079s
+[01:04:32.814807] [HTTP-TCP-CLI] === Exec 10 | Cenario A | /arquivo_500kb.bin ===
+[01:04:32.836512] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.20ms, 1 tent)
+[01:04:32.962740] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0952s | 43.0242 Mbps
+[01:04:32.966205] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1094s
+[01:07:32.350038] [HTTP-TCP-CLI] === Exec 1 | Cenario A | /arquivo_1mb.bin ===
+[01:07:32.371232] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.74ms, 1 tent)
+[01:07:32.603268] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1871s | 44.8236 Mbps
+[01:07:32.606644] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2009s
+[01:07:34.253807] [HTTP-TCP-CLI] === Exec 2 | Cenario A | /arquivo_1mb.bin ===
+[01:07:34.294561] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (29.68ms, 1 tent)
+[01:07:34.496697] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1848s | 45.3940 Mbps
+[01:07:34.500705] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2145s
+[01:07:36.132505] [HTTP-TCP-CLI] === Exec 3 | Cenario A | /arquivo_1mb.bin ===
+[01:07:36.154357] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.72ms, 1 tent)
+[01:07:36.376656] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1832s | 45.7911 Mbps
+[01:07:36.388101] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1969s
+[01:07:38.022790] [HTTP-TCP-CLI] === Exec 4 | Cenario A | /arquivo_1mb.bin ===
+[01:07:38.045124] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.95ms, 1 tent)
+[01:07:38.255526] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1749s | 47.9668 Mbps
+[01:07:38.258963] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1898s
+[01:07:39.888116] [HTTP-TCP-CLI] === Exec 5 | Cenario A | /arquivo_1mb.bin ===
+[01:07:39.910628] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.92ms, 1 tent)
+[01:07:40.118292] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1766s | 47.5085 Mbps
+[01:07:40.121747] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1905s
+[01:07:41.756897] [HTTP-TCP-CLI] === Exec 6 | Cenario A | /arquivo_1mb.bin ===
+[01:07:41.797155] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.83ms, 1 tent)
+[01:07:42.011776] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1812s | 46.2949 Mbps
+[01:07:42.015095] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1950s
+[01:07:43.652063] [HTTP-TCP-CLI] === Exec 7 | Cenario A | /arquivo_1mb.bin ===
+[01:07:43.674563] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.22ms, 1 tent)
+[01:07:43.886490] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1795s | 46.7244 Mbps
+[01:07:43.889724] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1938s
+[01:07:45.526848] [HTTP-TCP-CLI] === Exec 8 | Cenario A | /arquivo_1mb.bin ===
+[01:07:45.548755] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.19ms, 1 tent)
+[01:07:45.757899] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1762s | 47.6216 Mbps
+[01:07:45.761637] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1903s
+[01:07:47.397144] [HTTP-TCP-CLI] === Exec 9 | Cenario A | /arquivo_1mb.bin ===
+[01:07:47.423712] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.99ms, 1 tent)
+[01:07:47.637282] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1851s | 45.3082 Mbps
+[01:07:47.641049] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1991s
+[01:07:49.285315] [HTTP-TCP-CLI] === Exec 10 | Cenario A | /arquivo_1mb.bin ===
+[01:07:49.307418] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.19ms, 1 tent)
+[01:07:49.564828] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.2121s | 39.5462 Mbps
+[01:07:49.569207] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2263s
+[01:16:32.762656] [HTTP-TCP-CLI] === Exec 1 | Cenario A | /arquivo_100kb.bin ===
+[01:16:32.817328] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (47.11ms, 1 tent)
+[01:16:32.895731] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0503s | 16.2974 Mbps
+[01:16:32.899516] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0974s
+[01:16:34.549238] [HTTP-TCP-CLI] === Exec 2 | Cenario A | /arquivo_100kb.bin ===
+[01:16:34.572093] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.20ms, 1 tent)
+[01:16:34.683853] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0477s | 17.1810 Mbps
+[01:16:34.687213] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0619s
+[01:16:36.323057] [HTTP-TCP-CLI] === Exec 3 | Cenario A | /arquivo_100kb.bin ===
+[01:16:36.361366] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.84ms, 1 tent)
+[01:16:36.439692] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0471s | 17.3930 Mbps
+[01:16:36.442802] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0609s
+[01:16:38.082392] [HTTP-TCP-CLI] === Exec 4 | Cenario A | /arquivo_100kb.bin ===
+[01:16:38.105487] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.78ms, 1 tent)
+[01:16:38.181698] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0466s | 17.5727 Mbps
+[01:16:38.185108] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0604s
+[01:16:39.817590] [HTTP-TCP-CLI] === Exec 5 | Cenario A | /arquivo_100kb.bin ===
+[01:16:39.839505] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.12ms, 1 tent)
+[01:16:39.914839] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0472s | 17.3520 Mbps
+[01:16:39.918060] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0613s
+[01:16:41.579849] [HTTP-TCP-CLI] === Exec 6 | Cenario A | /arquivo_100kb.bin ===
+[01:16:41.602355] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.58ms, 1 tent)
+[01:16:41.694816] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0480s | 17.0794 Mbps
+[01:16:41.698087] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0625s
+[01:16:43.342027] [HTTP-TCP-CLI] === Exec 7 | Cenario A | /arquivo_100kb.bin ===
+[01:16:43.364436] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.07ms, 1 tent)
+[01:16:43.440791] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0471s | 17.4054 Mbps
+[01:16:43.444491] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0611s
+[01:16:45.111993] [HTTP-TCP-CLI] === Exec 8 | Cenario A | /arquivo_100kb.bin ===
+[01:16:45.133841] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.02ms, 1 tent)
+[01:16:45.210941] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0469s | 17.4650 Mbps
+[01:16:45.214214] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0609s
+[01:16:46.847944] [HTTP-TCP-CLI] === Exec 9 | Cenario A | /arquivo_100kb.bin ===
+[01:16:46.881271] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (23.99ms, 1 tent)
+[01:16:46.948573] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0473s | 17.3067 Mbps
+[01:16:46.952007] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0713s
+[01:16:48.597059] [HTTP-TCP-CLI] === Exec 10 | Cenario A | /arquivo_100kb.bin ===
+[01:16:48.619244] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.27ms, 1 tent)
+[01:16:48.697415] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0472s | 17.3387 Mbps
+[01:16:48.700669] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0615s
+[01:19:37.185571] [HTTP-TCP-CLI] === Exec 1 | Cenario A | /arquivo_100kb.bin ===
+[01:19:37.209315] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.82ms, 1 tent)
+[01:19:37.288178] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0473s | 17.3184 Mbps
+[01:19:37.291271] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0621s
+[01:19:38.923864] [HTTP-TCP-CLI] === Exec 2 | Cenario A | /arquivo_100kb.bin ===
+[01:19:38.948173] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.66ms, 1 tent)
+[01:19:39.025270] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0471s | 17.3919 Mbps
+[01:19:39.028611] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0618s
+[01:19:40.656131] [HTTP-TCP-CLI] === Exec 3 | Cenario A | /arquivo_100kb.bin ===
+[01:19:40.679202] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.24ms, 1 tent)
+[01:19:40.773017] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0472s | 17.3451 Mbps
+[01:19:40.776248] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0615s
+[01:19:42.410577] [HTTP-TCP-CLI] === Exec 4 | Cenario A | /arquivo_100kb.bin ===
+[01:19:42.433329] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.57ms, 1 tent)
+[01:19:42.510171] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0466s | 17.5700 Mbps
+[01:19:42.513661] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0612s
+[01:19:44.147255] [HTTP-TCP-CLI] === Exec 5 | Cenario A | /arquivo_100kb.bin ===
+[01:19:44.171393] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.47ms, 1 tent)
+[01:19:44.246848] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0473s | 17.3023 Mbps
+[01:19:44.249986] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0618s
+[01:19:45.886052] [HTTP-TCP-CLI] === Exec 6 | Cenario A | /arquivo_100kb.bin ===
+[01:19:45.909145] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.34ms, 1 tent)
+[01:19:45.998725] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0610s | 13.4244 Mbps
+[01:19:46.002210] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0754s
+[01:19:47.625199] [HTTP-TCP-CLI] === Exec 7 | Cenario A | /arquivo_100kb.bin ===
+[01:19:47.647908] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.79ms, 1 tent)
+[01:19:47.727418] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0476s | 17.2263 Mbps
+[01:19:47.730796] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0623s
+[01:19:49.364787] [HTTP-TCP-CLI] === Exec 8 | Cenario A | /arquivo_100kb.bin ===
+[01:19:49.402658] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (28.00ms, 1 tent)
+[01:19:49.464383] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0469s | 17.4637 Mbps
+[01:19:49.467657] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0749s
+[01:19:51.096801] [HTTP-TCP-CLI] === Exec 9 | Cenario A | /arquivo_100kb.bin ===
+[01:19:51.120430] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.62ms, 1 tent)
+[01:19:51.197560] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0472s | 17.3604 Mbps
+[01:19:51.200959] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0618s
+[01:19:52.833001] [HTTP-TCP-CLI] === Exec 10 | Cenario A | /arquivo_100kb.bin ===
+[01:19:52.868462] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (27.13ms, 1 tent)
+[01:19:52.943393] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.0580s | 14.1171 Mbps
+[01:19:52.946666] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.0852s
+[01:23:52.453521] [HTTP-TCP-CLI] === Exec 1 | Cenario A | /arquivo_500kb.bin ===
+[01:23:52.476655] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.23ms, 1 tent)
+[01:23:52.616187] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0895s | 45.7645 Mbps
+[01:23:52.619853] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1037s
+[01:23:54.251774] [HTTP-TCP-CLI] === Exec 2 | Cenario A | /arquivo_500kb.bin ===
+[01:23:54.278422] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.22ms, 1 tent)
+[01:23:54.401292] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0918s | 44.6229 Mbps
+[01:23:54.404909] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1060s
+[01:23:56.052092] [HTTP-TCP-CLI] === Exec 3 | Cenario A | /arquivo_500kb.bin ===
+[01:23:56.113009] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.35ms, 1 tent)
+[01:23:56.224167] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0954s | 42.9390 Mbps
+[01:23:56.228087] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1097s
+[01:23:57.865920] [HTTP-TCP-CLI] === Exec 4 | Cenario A | /arquivo_500kb.bin ===
+[01:23:57.889291] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.72ms, 1 tent)
+[01:23:58.026090] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.1060s | 38.6444 Mbps
+[01:23:58.029705] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1197s
+[01:23:59.667228] [HTTP-TCP-CLI] === Exec 5 | Cenario A | /arquivo_500kb.bin ===
+[01:23:59.737098] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.20ms, 1 tent)
+[01:23:59.862795] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.1116s | 36.6913 Mbps
+[01:23:59.866623] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1258s
+[01:24:01.501883] [HTTP-TCP-CLI] === Exec 6 | Cenario A | /arquivo_500kb.bin ===
+[01:24:01.526377] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.03ms, 1 tent)
+[01:24:01.654331] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0930s | 44.0420 Mbps
+[01:24:01.658405] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1070s
+[01:24:03.310555] [HTTP-TCP-CLI] === Exec 7 | Cenario A | /arquivo_500kb.bin ===
+[01:24:03.340496] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.56ms, 1 tent)
+[01:24:03.469393] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0910s | 45.0163 Mbps
+[01:24:03.473520] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1055s
+[01:24:05.106004] [HTTP-TCP-CLI] === Exec 8 | Cenario A | /arquivo_500kb.bin ===
+[01:24:05.138502] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (25.31ms, 1 tent)
+[01:24:05.254495] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0927s | 44.1999 Mbps
+[01:24:05.258291] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1180s
+[01:24:06.897168] [HTTP-TCP-CLI] === Exec 9 | Cenario A | /arquivo_500kb.bin ===
+[01:24:06.923180] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.87ms, 1 tent)
+[01:24:07.045646] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0899s | 45.5464 Mbps
+[01:24:07.049453] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1038s
+[01:24:08.684254] [HTTP-TCP-CLI] === Exec 10 | Cenario A | /arquivo_500kb.bin ===
+[01:24:08.710530] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.76ms, 1 tent)
+[01:24:08.843186] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.0892s | 45.9211 Mbps
+[01:24:08.847167] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1030s
+[01:28:19.077401] [HTTP-TCP-CLI] === Exec 1 | Cenario A | /arquivo_1mb.bin ===
+[01:28:19.102242] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.14ms, 1 tent)
+[01:28:19.324984] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1906s | 44.0102 Mbps
+[01:28:19.328571] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2047s
+[01:28:20.966419] [HTTP-TCP-CLI] === Exec 2 | Cenario A | /arquivo_1mb.bin ===
+[01:28:20.990504] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.50ms, 1 tent)
+[01:28:21.199745] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1703s | 49.2663 Mbps
+[01:28:21.203176] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1848s
+[01:28:22.840462] [HTTP-TCP-CLI] === Exec 3 | Cenario A | /arquivo_1mb.bin ===
+[01:28:22.864475] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.25ms, 1 tent)
+[01:28:23.069531] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1726s | 48.6115 Mbps
+[01:28:23.073112] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1868s
+[01:28:24.710230] [HTTP-TCP-CLI] === Exec 4 | Cenario A | /arquivo_1mb.bin ===
+[01:28:24.734098] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.05ms, 1 tent)
+[01:28:24.939455] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1748s | 47.9859 Mbps
+[01:28:24.942933] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1889s
+[01:28:26.579313] [HTTP-TCP-CLI] === Exec 5 | Cenario A | /arquivo_1mb.bin ===
+[01:28:26.603753] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.85ms, 1 tent)
+[01:28:26.806617] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1723s | 48.6959 Mbps
+[01:28:26.809753] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1861s
+[01:28:28.443241] [HTTP-TCP-CLI] === Exec 6 | Cenario A | /arquivo_1mb.bin ===
+[01:28:28.466753] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.06ms, 1 tent)
+[01:28:28.676185] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1786s | 46.9777 Mbps
+[01:28:28.679574] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1926s
+[01:28:30.316808] [HTTP-TCP-CLI] === Exec 7 | Cenario A | /arquivo_1mb.bin ===
+[01:28:30.342683] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.04ms, 1 tent)
+[01:28:30.550678] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1796s | 46.7047 Mbps
+[01:28:30.554081] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1937s
+[01:28:32.187639] [HTTP-TCP-CLI] === Exec 8 | Cenario A | /arquivo_1mb.bin ===
+[01:28:32.211810] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.59ms, 1 tent)
+[01:28:32.461181] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.2020s | 41.5354 Mbps
+[01:28:32.464365] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2155s
+[01:28:34.091561] [HTTP-TCP-CLI] === Exec 9 | Cenario A | /arquivo_1mb.bin ===
+[01:28:34.115584] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (13.88ms, 1 tent)
+[01:28:34.350891] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.2048s | 40.9515 Mbps
+[01:28:34.354195] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2187s
+[01:28:35.986797] [HTTP-TCP-CLI] === Exec 10 | Cenario A | /arquivo_1mb.bin ===
+[01:28:36.010857] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (14.11ms, 1 tent)
+[01:28:36.218319] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.1747s | 48.0210 Mbps
+[01:28:36.221531] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.1888s
+[01:33:02.734173] [HTTP-TCP-CLI] === Exec 1 | Cenario B | /arquivo_100kb.bin ===
+[01:33:02.796544] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.29ms, 1 tent)
+[01:33:03.059371] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2082s | 3.9356 Mbps
+[01:33:03.063266] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2624s
+[01:33:04.708408] [HTTP-TCP-CLI] === Exec 2 | Cenario B | /arquivo_100kb.bin ===
+[01:33:04.770146] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (53.99ms, 1 tent)
+[01:33:05.032363] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2078s | 3.9414 Mbps
+[01:33:05.037041] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2618s
+[01:33:06.679993] [HTTP-TCP-CLI] === Exec 3 | Cenario B | /arquivo_100kb.bin ===
+[01:33:06.745904] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (58.32ms, 1 tent)
+[01:33:07.008356] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2083s | 3.9336 Mbps
+[01:33:07.012363] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2666s
+[01:33:08.659125] [HTTP-TCP-CLI] === Exec 4 | Cenario B | /arquivo_100kb.bin ===
+[01:33:08.721490] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.02ms, 1 tent)
+[01:33:08.984460] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2080s | 3.9381 Mbps
+[01:33:08.989231] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2620s
+[01:33:10.631599] [HTTP-TCP-CLI] === Exec 5 | Cenario B | /arquivo_100kb.bin ===
+[01:33:12.703360] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (2064.11ms, 2 tent)
+[01:33:12.975418] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2078s | 3.9417 Mbps
+[01:33:12.979026] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 2.2719s
+[01:33:14.629139] [HTTP-TCP-CLI] === Exec 6 | Cenario B | /arquivo_100kb.bin ===
+[01:33:14.691272] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.30ms, 1 tent)
+[01:33:14.953460] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2082s | 3.9355 Mbps
+[01:33:14.957404] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2625s
+[01:33:16.610161] [HTTP-TCP-CLI] === Exec 7 | Cenario B | /arquivo_100kb.bin ===
+[01:33:16.672349] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.32ms, 1 tent)
+[01:33:16.934109] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2076s | 3.9463 Mbps
+[01:33:16.937924] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2619s
+[01:33:18.575468] [HTTP-TCP-CLI] === Exec 8 | Cenario B | /arquivo_100kb.bin ===
+[01:33:20.646293] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (2062.90ms, 2 tent)
+[01:33:20.908165] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2081s | 3.9372 Mbps
+[01:33:20.911788] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 2.2710s
+[01:33:22.559949] [HTTP-TCP-CLI] === Exec 9 | Cenario B | /arquivo_100kb.bin ===
+[01:33:22.621747] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.08ms, 1 tent)
+[01:33:22.886678] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2105s | 3.8910 Mbps
+[01:33:22.890502] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2646s
+[01:33:24.540772] [HTTP-TCP-CLI] === Exec 10 | Cenario B | /arquivo_100kb.bin ===
+[01:33:24.602700] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.38ms, 1 tent)
+[01:33:24.864687] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.2081s | 3.9366 Mbps
+[01:33:24.868162] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.2625s
+[01:38:34.188219] [HTTP-TCP-CLI] === Exec 1 | Cenario B | /arquivo_500kb.bin ===
+[01:38:34.250621] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.83ms, 1 tent)
+[01:38:34.633981] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3150s | 13.0019 Mbps
+[01:38:34.637822] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.3699s
+[01:38:36.272593] [HTTP-TCP-CLI] === Exec 2 | Cenario B | /arquivo_500kb.bin ===
+[01:38:36.334372] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (53.96ms, 1 tent)
+[01:38:36.715281] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3261s | 12.5605 Mbps
+[01:38:36.719066] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.3801s
+[01:38:38.353197] [HTTP-TCP-CLI] === Exec 3 | Cenario B | /arquivo_500kb.bin ===
+[01:38:38.415387] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.25ms, 1 tent)
+[01:38:38.785576] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3151s | 12.9980 Mbps
+[01:38:38.789511] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.3694s
+[01:38:40.422273] [HTTP-TCP-CLI] === Exec 4 | Cenario B | /arquivo_500kb.bin ===
+[01:38:40.485036] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.53ms, 1 tent)
+[01:38:40.869541] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3150s | 13.0014 Mbps
+[01:38:40.873069] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.3696s
+[01:38:42.525990] [HTTP-TCP-CLI] === Exec 5 | Cenario B | /arquivo_500kb.bin ===
+[01:38:42.587781] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.56ms, 1 tent)
+[01:38:42.956842] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3139s | 13.0482 Mbps
+[01:38:42.960173] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.3685s
+[01:38:44.595156] [HTTP-TCP-CLI] === Exec 6 | Cenario B | /arquivo_500kb.bin ===
+[01:38:44.657100] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.49ms, 1 tent)
+[01:38:45.028866] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3173s | 12.9109 Mbps
+[01:38:45.033149] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.3717s
+[01:38:46.672720] [HTTP-TCP-CLI] === Exec 7 | Cenario B | /arquivo_500kb.bin ===
+[01:38:46.735074] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.21ms, 1 tent)
+[01:38:47.105453] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3159s | 12.9682 Mbps
+[01:38:47.110018] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.3701s
+[01:38:48.745631] [HTTP-TCP-CLI] === Exec 8 | Cenario B | /arquivo_500kb.bin ===
+[01:38:48.807153] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.15ms, 1 tent)
+[01:38:49.177093] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3153s | 12.9919 Mbps
+[01:38:49.180980] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.3694s
+[01:38:50.814124] [HTTP-TCP-CLI] === Exec 9 | Cenario B | /arquivo_500kb.bin ===
+[01:38:52.885944] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (2064.30ms, 2 tent)
+[01:38:53.254830] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3144s | 13.0287 Mbps
+[01:38:53.258463] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 2.3787s
+[01:38:54.892639] [HTTP-TCP-CLI] === Exec 10 | Cenario B | /arquivo_500kb.bin ===
+[01:38:56.965112] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (2064.35ms, 2 tent)
+[01:38:57.338487] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.3191s | 12.8376 Mbps
+[01:38:57.342124] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 2.3834s
+[01:47:12.824398] [HTTP-TCP-CLI] === Exec 1 | Cenario B | /arquivo_1mb.bin ===
+[01:47:12.885984] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (53.95ms, 1 tent)
+[01:47:13.339738] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.3982s | 21.0648 Mbps
+[01:47:13.343359] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4522s
+[01:47:14.993431] [HTTP-TCP-CLI] === Exec 2 | Cenario B | /arquivo_1mb.bin ===
+[01:47:15.055870] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.73ms, 1 tent)
+[01:47:15.514804] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.4027s | 20.8286 Mbps
+[01:47:15.518142] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4575s
+[01:47:17.156753] [HTTP-TCP-CLI] === Exec 3 | Cenario B | /arquivo_1mb.bin ===
+[01:47:17.218852] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.15ms, 1 tent)
+[01:47:17.668953] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.3949s | 21.2437 Mbps
+[01:47:17.672398] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4490s
+[01:47:19.317426] [HTTP-TCP-CLI] === Exec 4 | Cenario B | /arquivo_1mb.bin ===
+[01:47:21.389153] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (2063.76ms, 2 tent)
+[01:47:21.854145] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.4002s | 20.9605 Mbps
+[01:47:21.857502] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 2.4640s
+[01:47:23.493546] [HTTP-TCP-CLI] === Exec 5 | Cenario B | /arquivo_1mb.bin ===
+[01:47:23.554830] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.15ms, 1 tent)
+[01:47:24.016155] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.4060s | 20.6640 Mbps
+[01:47:24.019634] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4601s
+[01:47:25.658260] [HTTP-TCP-CLI] === Exec 6 | Cenario B | /arquivo_1mb.bin ===
+[01:47:25.719979] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (53.84ms, 1 tent)
+[01:47:26.172289] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.3968s | 21.1422 Mbps
+[01:47:26.176391] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4506s
+[01:47:27.832352] [HTTP-TCP-CLI] === Exec 7 | Cenario B | /arquivo_1mb.bin ===
+[01:47:27.895177] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.80ms, 1 tent)
+[01:47:28.346486] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.3962s | 21.1704 Mbps
+[01:47:28.349898] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4510s
+[01:47:29.983321] [HTTP-TCP-CLI] === Exec 8 | Cenario B | /arquivo_1mb.bin ===
+[01:47:30.046389] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.62ms, 1 tent)
+[01:47:30.503317] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.4013s | 20.9020 Mbps
+[01:47:30.507029] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4560s
+[01:47:32.157192] [HTTP-TCP-CLI] === Exec 9 | Cenario B | /arquivo_1mb.bin ===
+[01:47:32.219012] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.22ms, 1 tent)
+[01:47:32.678199] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.4032s | 20.8049 Mbps
+[01:47:32.681481] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4574s
+[01:47:34.321163] [HTTP-TCP-CLI] === Exec 10 | Cenario B | /arquivo_1mb.bin ===
+[01:47:34.385285] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (54.88ms, 1 tent)
+[01:47:34.846655] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.4029s | 20.8190 Mbps
+[01:47:34.850110] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.4578s
+[02:00:20.394641] [HTTP-TCP-CLI] === Exec 1 | Cenario C | /arquivo_100kb.bin ===
+[02:00:20.506846] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.30ms, 1 tent)
+[02:00:21.032560] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4086s | 2.0050 Mbps
+[02:00:21.036128] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.5129s
+[02:00:22.669607] [HTTP-TCP-CLI] === Exec 2 | Cenario C | /arquivo_100kb.bin ===
+[02:00:24.790612] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (2113.50ms, 2 tent)
+[02:00:25.302606] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4076s | 2.0100 Mbps
+[02:00:25.306729] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 2.5211s
+[02:00:26.957499] [HTTP-TCP-CLI] === Exec 3 | Cenario C | /arquivo_100kb.bin ===
+[02:00:27.071642] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.33ms, 1 tent)
+[02:00:27.586118] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4083s | 2.0063 Mbps
+[02:00:27.591055] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.5126s
+[02:00:29.253506] [HTTP-TCP-CLI] === Exec 4 | Cenario C | /arquivo_100kb.bin ===
+[02:00:29.366213] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.60ms, 1 tent)
+[02:00:30.879580] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4079s | 2.0082 Mbps
+[02:00:30.883055] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.5125s
+[02:00:32.527639] [HTTP-TCP-CLI] === Exec 5 | Cenario C | /arquivo_100kb.bin ===
+[02:00:32.639221] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.03ms, 1 tent)
+[02:00:33.151326] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4079s | 2.0081 Mbps
+[02:00:33.155318] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.5120s
+[02:00:34.801169] [HTTP-TCP-CLI] === Exec 6 | Cenario C | /arquivo_100kb.bin ===
+[02:00:34.915114] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.41ms, 1 tent)
+[02:00:35.428322] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4079s | 2.0085 Mbps
+[02:00:35.431908] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.5123s
+[02:00:37.075072] [HTTP-TCP-CLI] === Exec 7 | Cenario C | /arquivo_100kb.bin ===
+[02:00:37.187206] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.55ms, 1 tent)
+[02:00:37.698923] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4075s | 2.0104 Mbps
+[02:00:37.702491] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.5120s
+[02:00:39.340818] [HTTP-TCP-CLI] === Exec 8 | Cenario C | /arquivo_100kb.bin ===
+[02:00:39.452784] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.45ms, 1 tent)
+[02:00:39.965301] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4087s | 2.0045 Mbps
+[02:00:39.969024] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.5131s
+[02:00:41.604627] [HTTP-TCP-CLI] === Exec 9 | Cenario C | /arquivo_100kb.bin ===
+[02:00:41.731220] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (118.45ms, 1 tent)
+[02:00:42.556452] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.7211s | 1.1361 Mbps
+[02:00:42.560152] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8395s
+[02:00:44.222436] [HTTP-TCP-CLI] === Exec 10 | Cenario C | /arquivo_100kb.bin ===
+[02:00:44.335479] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.44ms, 1 tent)
+[02:00:44.848554] [HTTP-TCP-CLI] HTTP: 200 | 102400B | 0.4088s | 2.0037 Mbps
+[02:00:44.852735] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.5133s
+[02:06:28.891064] [HTTP-TCP-CLI] === Exec 1 | Cenario C | /arquivo_500kb.bin ===
+[02:06:29.002871] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.02ms, 1 tent)
+[02:06:29.730363] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6220s | 6.5852 Mbps
+[02:06:29.735042] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7260s
+[02:06:31.374600] [HTTP-TCP-CLI] === Exec 2 | Cenario C | /arquivo_500kb.bin ===
+[02:06:31.487178] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (105.01ms, 1 tent)
+[02:06:32.659679] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.9346s | 4.3825 Mbps
+[02:06:32.663422] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 1.0396s
+[02:06:34.741713] [HTTP-TCP-CLI] === Exec 3 | Cenario C | /arquivo_500kb.bin ===
+[02:06:34.853946] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.06ms, 1 tent)
+[02:06:36.106400] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6140s | 6.6709 Mbps
+[02:06:36.110178] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7181s
+[02:06:37.754217] [HTTP-TCP-CLI] === Exec 4 | Cenario C | /arquivo_500kb.bin ===
+[02:06:37.866842] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.72ms, 1 tent)
+[02:06:38.598451] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6180s | 6.6278 Mbps
+[02:06:38.602762] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7227s
+[02:06:40.246386] [HTTP-TCP-CLI] === Exec 5 | Cenario C | /arquivo_500kb.bin ===
+[02:06:40.358635] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.41ms, 1 tent)
+[02:06:41.078475] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6150s | 6.6603 Mbps
+[02:06:41.082043] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7194s
+[02:06:42.722580] [HTTP-TCP-CLI] === Exec 6 | Cenario C | /arquivo_500kb.bin ===
+[02:06:42.835699] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.87ms, 1 tent)
+[02:06:43.561250] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6204s | 6.6019 Mbps
+[02:06:43.564971] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7253s
+[02:06:45.217350] [HTTP-TCP-CLI] === Exec 7 | Cenario C | /arquivo_500kb.bin ===
+[02:06:45.332038] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.79ms, 1 tent)
+[02:06:46.057748] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6195s | 6.6114 Mbps
+[02:06:46.067897] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7243s
+[02:06:47.737276] [HTTP-TCP-CLI] === Exec 8 | Cenario C | /arquivo_500kb.bin ===
+[02:06:47.849572] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.90ms, 1 tent)
+[02:06:48.570004] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6160s | 6.6488 Mbps
+[02:06:48.573903] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7210s
+[02:06:50.225055] [HTTP-TCP-CLI] === Exec 9 | Cenario C | /arquivo_500kb.bin ===
+[02:06:50.337836] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.26ms, 1 tent)
+[02:06:51.056482] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6140s | 6.6714 Mbps
+[02:06:51.060099] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7182s
+[02:06:52.691766] [HTTP-TCP-CLI] === Exec 10 | Cenario C | /arquivo_500kb.bin ===
+[02:06:52.804337] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.54ms, 1 tent)
+[02:06:53.529978] [HTTP-TCP-CLI] HTTP: 200 | 512000B | 0.6198s | 6.6090 Mbps
+[02:06:53.534036] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.7243s
+[02:18:45.824346] [HTTP-TCP-CLI] === Exec 1 | Cenario C | /arquivo_1mb.bin ===
+[02:18:45.937622] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (105.01ms, 1 tent)
+[02:18:46.805030] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7442s | 11.2714 Mbps
+[02:18:46.808371] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8492s
+[02:18:48.446432] [HTTP-TCP-CLI] === Exec 2 | Cenario C | /arquivo_1mb.bin ===
+[02:18:48.558696] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (105.13ms, 1 tent)
+[02:18:49.723140] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 1.0593s | 7.9194 Mbps
+[02:18:49.726545] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 1.1644s
+[02:18:51.363954] [HTTP-TCP-CLI] === Exec 3 | Cenario C | /arquivo_1mb.bin ===
+[02:18:51.475479] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.25ms, 1 tent)
+[02:18:52.319174] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7384s | 11.3606 Mbps
+[02:18:52.322357] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8426s
+[02:18:53.957852] [HTTP-TCP-CLI] === Exec 4 | Cenario C | /arquivo_1mb.bin ===
+[02:18:54.070764] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.87ms, 1 tent)
+[02:18:54.913478] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7377s | 11.3720 Mbps
+[02:18:54.916840] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8425s
+[02:18:56.554122] [HTTP-TCP-CLI] === Exec 5 | Cenario C | /arquivo_1mb.bin ===
+[02:18:56.667514] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.57ms, 1 tent)
+[02:18:58.531116] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7461s | 11.2436 Mbps
+[02:18:58.534466] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8507s
+[02:19:00.165896] [HTTP-TCP-CLI] === Exec 6 | Cenario C | /arquivo_1mb.bin ===
+[02:19:00.277691] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.48ms, 1 tent)
+[02:19:01.140346] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7575s | 11.0739 Mbps
+[02:19:01.143964] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8620s
+[02:19:02.778337] [HTTP-TCP-CLI] === Exec 7 | Cenario C | /arquivo_1mb.bin ===
+[02:19:02.891041] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (105.19ms, 1 tent)
+[02:19:03.738739] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7425s | 11.2980 Mbps
+[02:19:03.742144] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8477s
+[02:19:05.380611] [HTTP-TCP-CLI] === Exec 8 | Cenario C | /arquivo_1mb.bin ===
+[02:19:05.492577] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (104.36ms, 1 tent)
+[02:19:06.359424] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7615s | 11.0157 Mbps
+[02:19:06.363077] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8659s
+[02:19:08.002737] [HTTP-TCP-CLI] === Exec 9 | Cenario C | /arquivo_1mb.bin ===
+[02:19:08.115529] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (105.47ms, 1 tent)
+[02:19:09.980375] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7393s | 11.3468 Mbps
+[02:19:09.984155] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8448s
+[02:19:11.618985] [HTTP-TCP-CLI] === Exec 10 | Cenario C | /arquivo_1mb.bin ===
+[02:19:11.731434] [HTTP-TCP-CLI] DNS: webserver.local -> 172.20.0.10 (105.16ms, 1 tent)
+[02:19:12.594123] [HTTP-TCP-CLI] HTTP: 200 | 1048576B | 0.7399s | 11.3372 Mbps
+[02:19:12.597577] [HTTP-TCP-CLI] Tempo total (DNS+HTTP): 0.8451s

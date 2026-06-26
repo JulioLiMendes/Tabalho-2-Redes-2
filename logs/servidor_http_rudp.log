@@ -1,0 +1,1860 @@
+[17:26:52.799412] [HTTP-RUDP-SRV] Servidor HTTP/R-UDP em 172.20.0.10:5001
+[17:26:52.804347] [HTTP-RUDP-SRV] Aguardando SYN...
+[01:00:22.914201] [HTTP-RUDP-SRV] Servidor HTTP/R-UDP em 172.20.0.10:5001
+[01:00:22.941185] [HTTP-RUDP-SRV] Aguardando SYN...
+[01:01:20.373437] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 47661)
+[01:01:20.377025] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 47661)
+[01:01:20.392118] [HTTP-RUDP-SRV] ('172.20.0.20', 47661) | GET /arquivo_100kb.bin
+[01:01:20.526173] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:01:20.529628] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:01:20.545082] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:01:37.732781] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 45420)
+[01:01:37.736514] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 45420)
+[01:01:37.754319] [HTTP-RUDP-SRV] ('172.20.0.20', 45420) | GET /arquivo_100kb.bin
+[01:01:37.926774] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:01:37.930149] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:01:37.948093] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:01:55.145633] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 47748)
+[01:01:55.148988] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 47748)
+[01:01:55.169312] [HTTP-RUDP-SRV] ('172.20.0.20', 47748) | GET /arquivo_100kb.bin
+[01:01:55.371376] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:01:55.375224] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:01:55.394101] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:02:12.615164] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 39414)
+[01:02:12.618701] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 39414)
+[01:02:12.643222] [HTTP-RUDP-SRV] ('172.20.0.20', 39414) | GET /arquivo_100kb.bin
+[01:02:12.876307] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:02:12.879382] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:02:12.900471] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:02:30.158303] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 52188)
+[01:02:30.161868] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 52188)
+[01:02:30.189481] [HTTP-RUDP-SRV] ('172.20.0.20', 52188) | GET /arquivo_100kb.bin
+[01:02:30.431676] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:02:30.434686] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:02:30.458849] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:02:47.712768] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 37681)
+[01:02:47.717509] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 37681)
+[01:02:47.754298] [HTTP-RUDP-SRV] ('172.20.0.20', 37681) | GET /arquivo_100kb.bin
+[01:02:48.020899] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:02:48.024268] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:02:48.049953] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:03:05.305716] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 36352)
+[01:03:05.309741] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 36352)
+[01:03:05.337213] [HTTP-RUDP-SRV] ('172.20.0.20', 36352) | GET /arquivo_100kb.bin
+[01:03:05.611463] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:03:05.615026] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:03:05.649874] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:03:22.916135] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 58929)
+[01:03:22.919768] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 58929)
+[01:03:22.950011] [HTTP-RUDP-SRV] ('172.20.0.20', 58929) | GET /arquivo_100kb.bin
+[01:03:23.223716] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:03:23.227190] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:03:23.256303] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:03:40.522751] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 40824)
+[01:03:40.526269] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 40824)
+[01:03:40.561511] [HTTP-RUDP-SRV] ('172.20.0.20', 40824) | GET /arquivo_100kb.bin
+[01:03:40.847175] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:03:40.851177] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:03:40.886047] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:03:58.112773] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 38407)
+[01:03:58.116404] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 38407)
+[01:03:58.147741] [HTTP-RUDP-SRV] ('172.20.0.20', 38407) | GET /arquivo_100kb.bin
+[01:03:58.435715] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:03:58.439935] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:03:58.478566] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:04:35.565732] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 38492)
+[01:04:35.569275] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 38492)
+[01:04:35.601868] [HTTP-RUDP-SRV] ('172.20.0.20', 38492) | GET /arquivo_500kb.bin
+[01:04:35.884867] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:04:35.888262] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:04:35.921650] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:04:53.151609] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 42388)
+[01:04:53.154940] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 42388)
+[01:04:53.188144] [HTTP-RUDP-SRV] ('172.20.0.20', 42388) | GET /arquivo_500kb.bin
+[01:04:53.474421] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:04:53.477972] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:04:53.510586] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:05:10.738607] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 44211)
+[01:05:10.742433] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 44211)
+[01:05:10.788166] [HTTP-RUDP-SRV] ('172.20.0.20', 44211) | GET /arquivo_500kb.bin
+[01:05:11.070590] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:05:11.073978] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:05:11.107074] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:05:28.359353] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 51801)
+[01:05:28.363547] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 51801)
+[01:05:28.397361] [HTTP-RUDP-SRV] ('172.20.0.20', 51801) | GET /arquivo_500kb.bin
+[01:05:28.706619] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:05:28.710265] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:05:28.743052] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:05:45.974928] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 39107)
+[01:05:45.978905] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 39107)
+[01:05:46.012334] [HTTP-RUDP-SRV] ('172.20.0.20', 39107) | GET /arquivo_500kb.bin
+[01:05:46.294845] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:05:46.298172] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:05:46.330400] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:06:03.600252] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 49767)
+[01:06:03.603743] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 49767)
+[01:06:03.639746] [HTTP-RUDP-SRV] ('172.20.0.20', 49767) | GET /arquivo_500kb.bin
+[01:06:03.909370] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:06:03.912510] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:06:03.951109] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:06:21.169479] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 54557)
+[01:06:21.173010] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 54557)
+[01:06:21.206473] [HTTP-RUDP-SRV] ('172.20.0.20', 54557) | GET /arquivo_500kb.bin
+[01:06:21.506038] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:06:21.509311] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:06:21.541503] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:06:38.813053] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 51327)
+[01:06:38.816458] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 51327)
+[01:06:38.848876] [HTTP-RUDP-SRV] ('172.20.0.20', 51327) | GET /arquivo_500kb.bin
+[01:06:39.134039] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:06:39.137504] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:06:39.169099] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:06:56.405116] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 56356)
+[01:06:56.408657] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 56356)
+[01:06:56.440776] [HTTP-RUDP-SRV] ('172.20.0.20', 56356) | GET /arquivo_500kb.bin
+[01:06:56.712167] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:06:56.715498] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:06:56.748443] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:07:13.970243] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 46195)
+[01:07:13.973964] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 46195)
+[01:07:14.007329] [HTTP-RUDP-SRV] ('172.20.0.20', 46195) | GET /arquivo_500kb.bin
+[01:07:14.283661] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:07:14.286958] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:07:14.319574] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:15:58.185461] [HTTP-RUDP-SRV] Servidor HTTP/R-UDP em 172.20.0.10:5001
+[01:15:58.202512] [HTTP-RUDP-SRV] Aguardando SYN...
+[01:16:51.292090] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 51248)
+[01:16:51.302116] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 51248)
+[01:16:51.328845] [HTTP-RUDP-SRV] ('172.20.0.20', 51248) | GET /arquivo_100kb.bin
+[01:16:51.604746] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:16:51.609143] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:16:51.641714] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:17:08.870461] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 48529)
+[01:17:08.874200] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 48529)
+[01:17:08.907708] [HTTP-RUDP-SRV] ('172.20.0.20', 48529) | GET /arquivo_100kb.bin
+[01:17:09.207166] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:17:09.210629] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:17:09.244142] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:17:26.468280] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 33951)
+[01:17:26.472090] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 33951)
+[01:17:26.505355] [HTTP-RUDP-SRV] ('172.20.0.20', 33951) | GET /arquivo_100kb.bin
+[01:17:26.791019] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:17:26.794318] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:17:26.827037] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:17:44.048201] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 51102)
+[01:17:44.052388] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 51102)
+[01:17:44.095452] [HTTP-RUDP-SRV] ('172.20.0.20', 51102) | GET /arquivo_100kb.bin
+[01:17:44.371728] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:17:44.375353] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:17:44.408687] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:18:01.642718] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 37277)
+[01:18:01.646063] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 37277)
+[01:18:01.680421] [HTTP-RUDP-SRV] ('172.20.0.20', 37277) | GET /arquivo_100kb.bin
+[01:18:01.972726] [HTTP-RUDP-SRV]   FALHA seq=1
+[01:18:01.976009] [HTTP-RUDP-SRV]   Falha ao enviar header
+[01:18:02.009907] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:19:12.759513] [HTTP-RUDP-SRV] Servidor HTTP/R-UDP em 172.20.0.10:5001
+[01:19:12.763289] [HTTP-RUDP-SRV] Aguardando SYN...
+[01:19:55.503827] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 49192)
+[01:19:55.507578] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 49192)
+[01:19:55.540181] [HTTP-RUDP-SRV] ('172.20.0.20', 49192) | GET /arquivo_100kb.bin
+[01:19:58.580530] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:20:01.588565] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:20:04.596696] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:20:07.604557] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:20:10.610734] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:20:13.618268] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:20:16.624854] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:20:16.917957] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3431s | 0.0384 Mbps
+[01:20:16.931818] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:20:19.112585] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 45941)
+[01:20:19.116230] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 45941)
+[01:20:19.148849] [HTTP-RUDP-SRV] ('172.20.0.20', 45941) | GET /arquivo_100kb.bin
+[01:20:22.187231] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:20:25.194845] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:20:28.202630] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:20:31.210279] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:20:34.218112] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:20:37.226813] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:20:40.231782] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:20:40.512835] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3318s | 0.0384 Mbps
+[01:20:40.527147] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:20:42.729713] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 46476)
+[01:20:42.733549] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 46476)
+[01:20:42.767880] [HTTP-RUDP-SRV] ('172.20.0.20', 46476) | GET /arquivo_100kb.bin
+[01:20:45.808630] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:20:48.816743] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:20:51.823964] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:20:54.828652] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:20:57.835895] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:21:00.843884] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:21:03.850846] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:21:04.131101] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3263s | 0.0384 Mbps
+[01:21:04.144911] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:21:06.322046] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 57295)
+[01:21:06.325603] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 57295)
+[01:21:06.358645] [HTTP-RUDP-SRV] ('172.20.0.20', 57295) | GET /arquivo_100kb.bin
+[01:21:09.396883] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:21:12.402432] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:21:15.409377] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:21:18.417929] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:21:21.425322] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:21:24.434153] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:21:27.441108] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:21:27.724105] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3331s | 0.0384 Mbps
+[01:21:27.738418] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:21:29.938975] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 49587)
+[01:21:29.943650] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 49587)
+[01:21:29.988142] [HTTP-RUDP-SRV] ('172.20.0.20', 49587) | GET /arquivo_100kb.bin
+[01:21:33.038071] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:21:36.045920] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:21:39.053552] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:21:42.058951] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:21:45.066308] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:21:48.074412] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:21:51.078415] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:21:51.362493] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3302s | 0.0384 Mbps
+[01:21:51.376729] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:21:53.568078] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 55639)
+[01:21:53.571591] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 55639)
+[01:21:53.609004] [HTTP-RUDP-SRV] ('172.20.0.20', 55639) | GET /arquivo_100kb.bin
+[01:21:56.646935] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:21:59.654930] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:22:02.662336] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:22:05.670312] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:22:08.677606] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:22:11.682984] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:22:14.690252] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:22:14.970951] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3299s | 0.0384 Mbps
+[01:22:14.985185] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:22:17.162249] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 35090)
+[01:22:17.165791] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 35090)
+[01:22:17.198517] [HTTP-RUDP-SRV] ('172.20.0.20', 35090) | GET /arquivo_100kb.bin
+[01:22:20.235742] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:22:23.242437] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:22:26.250432] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:22:29.257911] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:22:32.265270] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:22:35.274435] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:22:38.282997] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:22:38.562514] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3305s | 0.0384 Mbps
+[01:22:38.576617] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:22:40.797576] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 54016)
+[01:22:40.801778] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 54016)
+[01:22:40.840179] [HTTP-RUDP-SRV] ('172.20.0.20', 54016) | GET /arquivo_100kb.bin
+[01:22:43.883294] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:22:46.891841] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:22:49.899152] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:22:52.906288] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:22:55.913557] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:22:58.921511] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:23:01.928418] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:23:02.210975] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3315s | 0.0384 Mbps
+[01:23:02.225022] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:23:04.413229] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 51200)
+[01:23:04.416657] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 51200)
+[01:23:04.448779] [HTTP-RUDP-SRV] ('172.20.0.20', 51200) | GET /arquivo_100kb.bin
+[01:23:07.485635] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:23:10.491223] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:23:13.498290] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:23:16.505497] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:23:19.512719] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:23:22.520678] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:23:25.527543] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:23:25.809807] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3297s | 0.0384 Mbps
+[01:23:25.823911] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:23:28.036981] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 50758)
+[01:23:28.041262] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 50758)
+[01:23:28.076159] [HTTP-RUDP-SRV] ('172.20.0.20', 50758) | GET /arquivo_100kb.bin
+[01:23:31.119114] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:23:34.126674] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:23:37.134061] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:23:40.139325] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:23:43.147425] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:23:46.155017] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:23:49.163041] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:23:49.445559] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 21.3326s | 0.0384 Mbps
+[01:23:49.459864] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:24:11.423363] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 37051)
+[01:24:11.426973] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 37051)
+[01:24:11.458874] [HTTP-RUDP-SRV] ('172.20.0.20', 37051) | GET /arquivo_500kb.bin
+[01:24:14.494301] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:24:17.502544] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:24:20.510223] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:24:23.518455] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:24:26.526545] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:24:29.534179] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:24:32.541548] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:24:33.892836] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4008s | 0.1829 Mbps
+[01:24:33.907167] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:24:36.083376] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 45505)
+[01:24:36.087091] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 45505)
+[01:24:36.118201] [HTTP-RUDP-SRV] ('172.20.0.20', 45505) | GET /arquivo_500kb.bin
+[01:24:39.155569] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:24:42.160610] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:24:45.167954] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:24:48.175504] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:24:51.183309] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:24:54.189699] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:24:57.195611] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:24:58.556122] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4068s | 0.1828 Mbps
+[01:24:58.570103] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:25:00.771785] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 52345)
+[01:25:00.775333] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 52345)
+[01:25:00.810570] [HTTP-RUDP-SRV] ('172.20.0.20', 52345) | GET /arquivo_500kb.bin
+[01:25:03.849001] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:25:06.856941] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:25:09.864322] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:25:12.870477] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:25:15.878536] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:25:18.886438] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:25:21.893745] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:25:23.245945] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4019s | 0.1828 Mbps
+[01:25:23.260082] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:25:25.457333] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 35460)
+[01:25:25.461130] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 35460)
+[01:25:25.492887] [HTTP-RUDP-SRV] ('172.20.0.20', 35460) | GET /arquivo_500kb.bin
+[01:25:28.530892] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:25:31.537698] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:25:34.544750] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:25:37.552562] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:25:40.558085] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:25:43.565026] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:25:46.572383] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:25:47.922086] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.3973s | 0.1829 Mbps
+[01:25:47.936320] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:25:50.117919] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 57657)
+[01:25:50.121560] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 57657)
+[01:25:50.154591] [HTTP-RUDP-SRV] ('172.20.0.20', 57657) | GET /arquivo_500kb.bin
+[01:25:53.192886] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:25:56.199947] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:25:59.207105] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:26:02.214997] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:26:05.222171] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:26:08.229836] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:26:11.234736] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:26:12.594740] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4077s | 0.1828 Mbps
+[01:26:12.608877] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:26:14.792576] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 57184)
+[01:26:14.796330] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 57184)
+[01:26:14.829979] [HTTP-RUDP-SRV] ('172.20.0.20', 57184) | GET /arquivo_500kb.bin
+[01:26:17.867586] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:26:20.875105] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:26:23.882255] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:26:26.889907] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:26:29.900075] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:26:32.907645] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:26:35.915465] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:26:37.286176] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4223s | 0.1827 Mbps
+[01:26:37.300164] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:26:39.485433] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 58556)
+[01:26:39.490001] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 58556)
+[01:26:39.524832] [HTTP-RUDP-SRV] ('172.20.0.20', 58556) | GET /arquivo_500kb.bin
+[01:26:42.565514] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:26:45.573377] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:26:48.580678] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:26:51.588016] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:26:54.594910] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:26:57.602507] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:27:00.609483] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:27:01.973717] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4120s | 0.1828 Mbps
+[01:27:01.987760] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:27:04.174308] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 60993)
+[01:27:04.177911] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 60993)
+[01:27:04.215141] [HTTP-RUDP-SRV] ('172.20.0.20', 60993) | GET /arquivo_500kb.bin
+[01:27:07.248309] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:27:10.252949] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:27:13.260663] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:27:16.268393] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:27:19.276183] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:27:22.283310] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:27:25.290057] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:27:26.666707] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4242s | 0.1827 Mbps
+[01:27:26.681222] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:27:28.877687] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 32982)
+[01:27:28.881468] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 32982)
+[01:27:28.913429] [HTTP-RUDP-SRV] ('172.20.0.20', 32982) | GET /arquivo_500kb.bin
+[01:27:31.950920] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:27:34.958476] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:27:37.966077] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:27:40.971237] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:27:43.978441] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:27:46.986489] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:27:49.993790] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:27:51.351937] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4069s | 0.1828 Mbps
+[01:27:51.365958] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:27:53.567746] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 46536)
+[01:27:53.571416] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 46536)
+[01:27:53.617474] [HTTP-RUDP-SRV] ('172.20.0.20', 46536) | GET /arquivo_500kb.bin
+[01:27:56.669101] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:27:59.677170] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:28:02.684613] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:28:05.692319] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:28:08.699604] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:28:11.705260] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:28:14.712227] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:28:16.068098] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 22.4055s | 0.1828 Mbps
+[01:28:16.082022] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:28:38.787233] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 34072)
+[01:28:38.790696] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 34072)
+[01:28:38.823218] [HTTP-RUDP-SRV] ('172.20.0.20', 34072) | GET /arquivo_1mb.bin
+[01:28:41.860952] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:28:44.868831] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:28:47.878817] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:28:50.893334] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:28:53.900244] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:28:56.907965] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:28:59.916383] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:29:02.803718] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9467s | 0.3503 Mbps
+[01:29:02.818925] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:29:05.029085] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 49680)
+[01:29:05.033139] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 49680)
+[01:29:05.069350] [HTTP-RUDP-SRV] ('172.20.0.20', 49680) | GET /arquivo_1mb.bin
+[01:29:08.116001] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:29:11.121945] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:29:14.129647] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:29:17.136941] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:29:20.144346] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:29:23.151326] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:29:26.158079] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:29:29.025399] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9152s | 0.3508 Mbps
+[01:29:29.039832] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:29:31.244226] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 53954)
+[01:29:31.248154] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 53954)
+[01:29:31.282142] [HTTP-RUDP-SRV] ('172.20.0.20', 53954) | GET /arquivo_1mb.bin
+[01:29:34.324062] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:29:37.331959] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:29:40.337871] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:29:43.344788] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:29:46.352506] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:29:49.359798] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:29:52.366972] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:29:55.241226] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9227s | 0.3507 Mbps
+[01:29:55.255097] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:29:57.444671] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 40936)
+[01:29:57.448320] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 40936)
+[01:29:57.482289] [HTTP-RUDP-SRV] ('172.20.0.20', 40936) | GET /arquivo_1mb.bin
+[01:30:00.525899] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:30:03.534174] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:30:06.541774] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:30:09.549773] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:30:12.556055] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:30:15.563623] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:30:18.571199] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:30:21.436590] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9162s | 0.3507 Mbps
+[01:30:21.450905] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:30:23.662893] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 34038)
+[01:30:23.666654] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 34038)
+[01:30:23.708548] [HTTP-RUDP-SRV] ('172.20.0.20', 34038) | GET /arquivo_1mb.bin
+[01:30:26.746089] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:30:29.753979] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:30:32.761552] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:30:35.768852] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:30:38.777191] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:30:41.782363] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:30:44.790335] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:30:47.654984] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9150s | 0.3508 Mbps
+[01:30:47.669000] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:30:49.847838] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 36083)
+[01:30:49.851999] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 36083)
+[01:30:49.888781] [HTTP-RUDP-SRV] ('172.20.0.20', 36083) | GET /arquivo_1mb.bin
+[01:30:52.924010] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:30:55.931902] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:30:58.939969] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:31:01.948180] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:31:04.955484] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:31:07.963266] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:31:10.968390] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:31:13.849356] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9311s | 0.3505 Mbps
+[01:31:13.863459] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:31:16.058456] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 38340)
+[01:31:16.062300] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 38340)
+[01:31:16.094986] [HTTP-RUDP-SRV] ('172.20.0.20', 38340) | GET /arquivo_1mb.bin
+[01:31:19.134274] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:31:22.141013] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:31:25.148493] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:31:28.156510] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:31:31.163804] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:31:34.171485] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:31:37.178780] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:31:40.041835] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9135s | 0.3508 Mbps
+[01:31:40.056068] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:31:42.255576] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 38603)
+[01:31:42.259212] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 38603)
+[01:31:42.297534] [HTTP-RUDP-SRV] ('172.20.0.20', 38603) | GET /arquivo_1mb.bin
+[01:31:45.329565] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:31:48.337183] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:31:51.344284] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:31:54.352538] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:31:57.359997] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:32:00.367390] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:32:03.374290] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:32:06.240824] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9150s | 0.3508 Mbps
+[01:32:06.255146] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:32:08.441067] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 60865)
+[01:32:08.444719] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 60865)
+[01:32:08.479178] [HTTP-RUDP-SRV] ('172.20.0.20', 60865) | GET /arquivo_1mb.bin
+[01:32:11.520789] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:32:14.528122] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:32:17.536116] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:32:20.543355] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:32:23.549886] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:32:26.558610] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:32:29.565834] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:32:32.427720] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9106s | 0.3508 Mbps
+[01:32:32.441834] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:32:34.658264] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 52907)
+[01:32:34.662350] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 52907)
+[01:32:34.708098] [HTTP-RUDP-SRV] ('172.20.0.20', 52907) | GET /arquivo_1mb.bin
+[01:32:37.752536] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:32:40.758483] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:32:43.763648] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:32:46.771720] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:32:49.779745] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:32:52.786681] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:32:55.793736] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:32:58.663446] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 23.9170s | 0.3507 Mbps
+[01:32:58.677788] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:33:27.506026] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 45447)
+[01:33:27.509876] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 45447)
+[01:33:27.565263] [HTTP-RUDP-SRV] ('172.20.0.20', 45447) | GET /arquivo_100kb.bin
+[01:33:30.582807] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:33:33.590044] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:33:36.597303] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:33:39.604737] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:33:42.608856] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:33:45.616760] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:33:48.624501] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:33:51.790697] [HTTP-RUDP-SRV]   Timeout/Invalido seq=4 tent 1/10
+[01:33:55.405004] [HTTP-RUDP-SRV]   Timeout/Invalido seq=16 tent 1/10
+[01:33:58.411940] [HTTP-RUDP-SRV]   Timeout/Invalido seq=16 tent 2/10
+[01:33:58.973198] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 31.3973s | 0.0261 Mbps
+[01:33:59.026982] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:34:01.255316] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 58259)
+[01:34:01.259538] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 58259)
+[01:34:01.315705] [HTTP-RUDP-SRV] ('172.20.0.20', 58259) | GET /arquivo_100kb.bin
+[01:34:04.346436] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:34:07.353243] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:34:10.359392] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:34:13.367623] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:34:16.375677] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:34:19.383470] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:34:22.390493] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:34:26.416142] [HTTP-RUDP-SRV]   Timeout/Invalido seq=21 tent 1/10
+[01:34:26.723200] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 25.3818s | 0.0323 Mbps
+[01:35:04.286538] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:35:04.290277] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 54435)
+[01:35:04.323231] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 54435)
+[01:35:04.378055] [HTTP-RUDP-SRV] ('172.20.0.20', 54435) | GET /arquivo_100kb.bin
+[01:35:07.395959] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:35:10.401799] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:35:13.408961] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:35:16.416148] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:35:19.423577] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:35:22.430969] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:35:25.438303] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:35:29.665953] [HTTP-RUDP-SRV]   Timeout/Invalido seq=25 tent 1/10
+[01:35:29.770809] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 25.3801s | 0.0323 Mbps
+[01:35:29.825586] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:35:32.054022] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 58433)
+[01:35:32.057614] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 58433)
+[01:35:35.119647] [HTTP-RUDP-SRV] ('172.20.0.20', 58433) | GET /arquivo_100kb.bin
+[01:35:38.129499] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:35:41.134242] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:35:44.141484] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:35:47.148580] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:35:50.155630] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:35:53.162806] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:35:56.170222] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:35:59.232158] [HTTP-RUDP-SRV]   Timeout/Invalido seq=2 tent 1/10
+[01:36:03.302622] [HTTP-RUDP-SRV]   Timeout/Invalido seq=23 tent 1/10
+[01:36:03.508945] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 28.3856s | 0.0289 Mbps
+[01:36:03.562851] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:36:05.777992] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 41379)
+[01:36:05.781525] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 41379)
+[01:36:05.836232] [HTTP-RUDP-SRV] ('172.20.0.20', 41379) | GET /arquivo_100kb.bin
+[01:36:08.852465] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:36:11.858169] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:36:14.865402] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:36:17.873229] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:36:20.880757] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:36:23.888838] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:36:26.895658] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:36:30.363788] [HTTP-RUDP-SRV]   Timeout/Invalido seq=10 tent 1/10
+[01:36:33.623654] [HTTP-RUDP-SRV]   Timeout/Invalido seq=15 tent 1/10
+[01:36:37.047228] [HTTP-RUDP-SRV]   Timeout/Invalido seq=23 tent 1/10
+[01:36:37.253715] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 31.4066s | 0.0261 Mbps
+[01:36:37.308559] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:36:39.521401] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 49400)
+[01:36:39.525715] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 49400)
+[01:36:39.580784] [HTTP-RUDP-SRV] ('172.20.0.20', 49400) | GET /arquivo_100kb.bin
+[01:36:42.594882] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:36:45.602319] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:36:48.609859] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:36:51.617429] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:36:54.625756] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:36:57.633786] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:37:00.640979] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:37:03.704404] [HTTP-RUDP-SRV]   Timeout/Invalido seq=2 tent 1/10
+[01:37:06.863148] [HTTP-RUDP-SRV]   Timeout/Invalido seq=5 tent 1/10
+[01:37:07.981314] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 28.3902s | 0.0289 Mbps
+[01:37:08.035973] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:37:10.257480] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 56600)
+[01:37:10.261416] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 56600)
+[01:37:10.316780] [HTTP-RUDP-SRV] ('172.20.0.20', 56600) | GET /arquivo_100kb.bin
+[01:37:13.333337] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:37:16.340958] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:37:19.348394] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:37:22.355759] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:37:25.363027] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:37:28.370232] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:37:31.377039] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:37:34.540033] [HTTP-RUDP-SRV]   Timeout/Invalido seq=4 tent 1/10
+[01:37:35.710070] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 25.3804s | 0.0323 Mbps
+[01:37:35.764348] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:37:37.982678] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 54763)
+[01:37:37.986246] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 54763)
+[01:37:38.041712] [HTTP-RUDP-SRV] ('172.20.0.20', 54763) | GET /arquivo_100kb.bin
+[01:37:41.066640] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:37:44.074003] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:37:47.081326] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:37:50.090197] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:37:53.097803] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:37:56.104564] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:37:59.111709] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:38:02.528658] [HTTP-RUDP-SRV]   Timeout/Invalido seq=9 tent 1/10
+[01:38:06.195081] [HTTP-RUDP-SRV]   Timeout/Invalido seq=22 tent 1/10
+[01:38:06.451835] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 28.3890s | 0.0289 Mbps
+[01:38:06.505986] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:38:08.717169] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 39669)
+[01:38:08.721245] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 39669)
+[01:38:08.776382] [HTTP-RUDP-SRV] ('172.20.0.20', 39669) | GET /arquivo_100kb.bin
+[01:38:11.790586] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:38:14.798141] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:38:17.805012] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:38:20.812568] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:38:23.820454] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:38:26.828365] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:38:29.836175] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:38:31.159877] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 22.3727s | 0.0366 Mbps
+[01:38:31.213938] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:38:59.977821] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 35193)
+[01:38:59.981610] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 35193)
+[01:39:00.036913] [HTTP-RUDP-SRV] ('172.20.0.20', 35193) | GET /arquivo_500kb.bin
+[01:39:03.055371] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:39:06.062632] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:39:09.070034] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:39:12.075324] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:39:15.083039] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:39:18.090305] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:39:21.097328] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:39:26.341771] [HTTP-RUDP-SRV]   Timeout/Invalido seq=45 tent 1/10
+[01:39:31.992948] [HTTP-RUDP-SRV]   Timeout/Invalido seq=97 tent 1/10
+[01:39:35.407804] [HTTP-RUDP-SRV]   Timeout/Invalido seq=105 tent 1/10
+[01:39:39.232113] [HTTP-RUDP-SRV]   Timeout/Invalido seq=121 tent 1/10
+[01:39:39.541943] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 39.4924s | 0.1037 Mbps
+[01:39:39.596001] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:39:41.814144] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 58569)
+[01:39:41.817986] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 58569)
+[01:39:41.873172] [HTTP-RUDP-SRV] ('172.20.0.20', 58569) | GET /arquivo_500kb.bin
+[01:39:44.889936] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:39:47.897698] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:39:50.904489] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:39:53.912353] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:39:56.920088] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:39:59.927237] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:40:02.934156] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:40:07.075752] [HTTP-RUDP-SRV]   Timeout/Invalido seq=23 tent 1/10
+[01:40:10.485783] [HTTP-RUDP-SRV]   Timeout/Invalido seq=31 tent 1/10
+[01:40:14.408256] [HTTP-RUDP-SRV]   Timeout/Invalido seq=49 tent 1/10
+[01:40:20.060106] [HTTP-RUDP-SRV]   Timeout/Invalido seq=101 tent 1/10
+[01:40:23.270935] [HTTP-RUDP-SRV]   Timeout/Invalido seq=105 tent 1/10
+[01:40:26.532920] [HTTP-RUDP-SRV]   Timeout/Invalido seq=110 tent 1/10
+[01:40:27.405744] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 45.5220s | 0.0900 Mbps
+[01:40:27.460277] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:40:29.676565] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 52292)
+[01:40:29.680950] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 52292)
+[01:40:29.737071] [HTTP-RUDP-SRV] ('172.20.0.20', 52292) | GET /arquivo_500kb.bin
+[01:40:32.765629] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:40:35.773222] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:40:38.781642] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:40:41.786144] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:40:44.794009] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:40:47.801495] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:40:50.809127] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:40:54.837557] [HTTP-RUDP-SRV]   Timeout/Invalido seq=21 tent 1/10
+[01:40:58.250327] [HTTP-RUDP-SRV]   Timeout/Invalido seq=29 tent 1/10
+[01:41:01.611780] [HTTP-RUDP-SRV]   Timeout/Invalido seq=36 tent 1/10
+[01:41:05.532695] [HTTP-RUDP-SRV]   Timeout/Invalido seq=54 tent 1/10
+[01:41:09.258132] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 39.4987s | 0.1037 Mbps
+[01:41:09.312128] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:41:11.545306] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 41726)
+[01:41:11.549087] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 41726)
+[01:41:11.604238] [HTTP-RUDP-SRV] ('172.20.0.20', 41726) | GET /arquivo_500kb.bin
+[01:41:14.625013] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:41:17.632944] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:41:20.640909] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:41:23.648239] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:41:26.656109] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:41:29.663629] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:41:32.670949] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:41:36.748901] [HTTP-RUDP-SRV]   Timeout/Invalido seq=22 tent 1/10
+[01:41:40.057378] [HTTP-RUDP-SRV]   Timeout/Invalido seq=28 tent 1/10
+[01:41:44.434967] [HTTP-RUDP-SRV]   Timeout/Invalido seq=55 tent 1/10
+[01:41:48.354000] [HTTP-RUDP-SRV]   Timeout/Invalido seq=73 tent 1/10
+[01:41:51.360948] [HTTP-RUDP-SRV]   Timeout/Invalido seq=73 tent 2/10
+[01:41:56.098887] [HTTP-RUDP-SRV]   Timeout/Invalido seq=107 tent 1/10
+[01:41:59.461974] [HTTP-RUDP-SRV]   Timeout/Invalido seq=114 tent 1/10
+[01:42:02.826132] [HTTP-RUDP-SRV]   Timeout/Invalido seq=121 tent 1/10
+[01:42:03.136020] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 51.5169s | 0.0795 Mbps
+[01:42:40.684503] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:42:40.688240] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 60932)
+[01:42:40.722911] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 60932)
+[01:42:40.777752] [HTTP-RUDP-SRV] ('172.20.0.20', 60932) | GET /arquivo_500kb.bin
+[01:42:43.796686] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:42:46.804116] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:42:49.811365] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:42:52.818421] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:42:55.825568] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:42:58.833222] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:43:01.840187] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:43:04.846912] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 8/10
+[01:43:10.090764] [HTTP-RUDP-SRV]   Timeout/Invalido seq=45 tent 1/10
+[01:43:13.250101] [HTTP-RUDP-SRV]   Timeout/Invalido seq=48 tent 1/10
+[01:43:17.070143] [HTTP-RUDP-SRV]   Timeout/Invalido seq=64 tent 1/10
+[01:43:22.215532] [HTTP-RUDP-SRV]   Timeout/Invalido seq=106 tent 1/10
+[01:43:25.886516] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 1/10
+[01:43:26.298796] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 45.5081s | 0.0900 Mbps
+[01:43:26.352814] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:43:28.564560] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 53306)
+[01:43:28.568547] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 53306)
+[01:43:28.623103] [HTTP-RUDP-SRV] ('172.20.0.20', 53306) | GET /arquivo_500kb.bin
+[01:43:31.647373] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:43:34.654331] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:43:37.661542] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:43:40.666824] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:43:43.674391] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:43:46.681849] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:43:49.688665] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:43:54.220807] [HTTP-RUDP-SRV]   Timeout/Invalido seq=31 tent 1/10
+[01:43:57.584213] [HTTP-RUDP-SRV]   Timeout/Invalido seq=38 tent 1/10
+[01:44:00.998154] [HTTP-RUDP-SRV]   Timeout/Invalido seq=46 tent 1/10
+[01:44:04.157508] [HTTP-RUDP-SRV]   Timeout/Invalido seq=49 tent 1/10
+[01:44:07.978984] [HTTP-RUDP-SRV]   Timeout/Invalido seq=65 tent 1/10
+[01:44:13.632420] [HTTP-RUDP-SRV]   Timeout/Invalido seq=117 tent 1/10
+[01:44:16.741313] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 1/10
+[01:44:19.798697] [HTTP-RUDP-SRV]   Timeout/Invalido seq=120 tent 1/10
+[01:44:22.805922] [HTTP-RUDP-SRV]   Timeout/Invalido seq=120 tent 2/10
+[01:44:23.167311] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 54.5283s | 0.0751 Mbps
+[01:44:23.221301] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:44:25.443380] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 43158)
+[01:44:25.447002] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 43158)
+[01:44:25.501760] [HTTP-RUDP-SRV] ('172.20.0.20', 43158) | GET /arquivo_500kb.bin
+[01:44:28.521091] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:44:31.528250] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:44:34.535830] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:44:37.542803] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:44:40.548126] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:44:43.556159] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:44:46.563284] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:44:51.048239] [HTTP-RUDP-SRV]   Timeout/Invalido seq=30 tent 1/10
+[01:44:54.410686] [HTTP-RUDP-SRV]   Timeout/Invalido seq=37 tent 1/10
+[01:44:58.180266] [HTTP-RUDP-SRV]   Timeout/Invalido seq=52 tent 1/10
+[01:45:01.236173] [HTTP-RUDP-SRV]   Timeout/Invalido seq=53 tent 1/10
+[01:45:04.648955] [HTTP-RUDP-SRV]   Timeout/Invalido seq=61 tent 1/10
+[01:45:07.656006] [HTTP-RUDP-SRV]   Timeout/Invalido seq=61 tent 2/10
+[01:45:10.863864] [HTTP-RUDP-SRV]   Timeout/Invalido seq=65 tent 1/10
+[01:45:13.870897] [HTTP-RUDP-SRV]   Timeout/Invalido seq=65 tent 2/10
+[01:45:17.081034] [HTTP-RUDP-SRV]   Timeout/Invalido seq=69 tent 1/10
+[01:45:20.291557] [HTTP-RUDP-SRV]   Timeout/Invalido seq=73 tent 1/10
+[01:45:23.400008] [HTTP-RUDP-SRV]   Timeout/Invalido seq=75 tent 1/10
+[01:45:26.054837] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 60.5421s | 0.0677 Mbps
+[01:45:26.109045] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:45:28.339773] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 40555)
+[01:45:28.343739] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 40555)
+[01:45:28.398857] [HTTP-RUDP-SRV] ('172.20.0.20', 40555) | GET /arquivo_500kb.bin
+[01:45:31.416690] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:45:34.424076] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:45:37.431247] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:45:40.436668] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:45:43.443846] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:45:46.450498] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:45:49.457495] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:45:52.927645] [HTTP-RUDP-SRV]   Timeout/Invalido seq=10 tent 1/10
+[01:45:55.935146] [HTTP-RUDP-SRV]   Timeout/Invalido seq=10 tent 2/10
+[01:46:00.871132] [HTTP-RUDP-SRV]   Timeout/Invalido seq=48 tent 1/10
+[01:46:05.657064] [HTTP-RUDP-SRV]   Timeout/Invalido seq=83 tent 1/10
+[01:46:09.580963] [HTTP-RUDP-SRV]   Timeout/Invalido seq=101 tent 1/10
+[01:46:10.910542] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 42.5021s | 0.0964 Mbps
+[01:46:10.964631] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:46:15.191958] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 59027)
+[01:46:15.195580] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 59027)
+[01:46:15.250516] [HTTP-RUDP-SRV] ('172.20.0.20', 59027) | GET /arquivo_500kb.bin
+[01:46:18.277469] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:46:21.284314] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:46:24.291659] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:46:27.301769] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:46:30.309281] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:46:33.317214] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:46:36.324147] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:46:39.743704] [HTTP-RUDP-SRV]   Timeout/Invalido seq=9 tent 1/10
+[01:46:42.748387] [HTTP-RUDP-SRV]   Timeout/Invalido seq=9 tent 2/10
+[01:46:45.856728] [HTTP-RUDP-SRV]   Timeout/Invalido seq=11 tent 1/10
+[01:46:49.927596] [HTTP-RUDP-SRV]   Timeout/Invalido seq=32 tent 1/10
+[01:46:53.289491] [HTTP-RUDP-SRV]   Timeout/Invalido seq=39 tent 1/10
+[01:46:56.652182] [HTTP-RUDP-SRV]   Timeout/Invalido seq=46 tent 1/10
+[01:47:00.777111] [HTTP-RUDP-SRV]   Timeout/Invalido seq=68 tent 1/10
+[01:47:03.936788] [HTTP-RUDP-SRV]   Timeout/Invalido seq=71 tent 1/10
+[01:47:08.572191] [HTTP-RUDP-SRV]   Timeout/Invalido seq=103 tent 1/10
+[01:47:09.803659] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 54.5324s | 0.0751 Mbps
+[01:47:09.857751] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:47:37.489484] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 56644)
+[01:47:37.493338] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 56644)
+[01:47:37.549029] [HTTP-RUDP-SRV] ('172.20.0.20', 56644) | GET /arquivo_1mb.bin
+[01:47:40.566958] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:47:43.574956] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:47:46.581706] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:47:49.590014] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:47:52.597722] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:47:55.605260] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:47:58.613351] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:48:03.609378] [HTTP-RUDP-SRV]   Timeout/Invalido seq=40 tent 1/10
+[01:48:06.768413] [HTTP-RUDP-SRV]   Timeout/Invalido seq=43 tent 1/10
+[01:48:09.775725] [HTTP-RUDP-SRV]   Timeout/Invalido seq=43 tent 2/10
+[01:48:12.882195] [HTTP-RUDP-SRV]   Timeout/Invalido seq=45 tent 1/10
+[01:48:15.939717] [HTTP-RUDP-SRV]   Timeout/Invalido seq=46 tent 1/10
+[01:48:20.016590] [HTTP-RUDP-SRV]   Timeout/Invalido seq=67 tent 1/10
+[01:48:23.380780] [HTTP-RUDP-SRV]   Timeout/Invalido seq=74 tent 1/10
+[01:48:26.540563] [HTTP-RUDP-SRV]   Timeout/Invalido seq=77 tent 1/10
+[01:48:30.567816] [HTTP-RUDP-SRV]   Timeout/Invalido seq=97 tent 1/10
+[01:48:33.574638] [HTTP-RUDP-SRV]   Timeout/Invalido seq=97 tent 2/10
+[01:48:36.734126] [HTTP-RUDP-SRV]   Timeout/Invalido seq=100 tent 1/10
+[01:48:40.197103] [HTTP-RUDP-SRV]   Timeout/Invalido seq=109 tent 1/10
+[01:48:43.715277] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 1/10
+[01:48:49.437053] [HTTP-RUDP-SRV]   Timeout/Invalido seq=172 tent 1/10
+[01:48:52.751145] [HTTP-RUDP-SRV]   Timeout/Invalido seq=178 tent 1/10
+[01:48:56.272048] [HTTP-RUDP-SRV]   Timeout/Invalido seq=188 tent 1/10
+[01:48:59.278843] [HTTP-RUDP-SRV]   Timeout/Invalido seq=188 tent 2/10
+[01:49:02.385639] [HTTP-RUDP-SRV]   Timeout/Invalido seq=190 tent 1/10
+[01:49:05.751880] [HTTP-RUDP-SRV]   Timeout/Invalido seq=197 tent 1/10
+[01:49:09.118675] [HTTP-RUDP-SRV]   Timeout/Invalido seq=204 tent 1/10
+[01:49:13.771247] [HTTP-RUDP-SRV]   Timeout/Invalido seq=236 tent 1/10
+[01:49:16.983123] [HTTP-RUDP-SRV]   Timeout/Invalido seq=240 tent 1/10
+[01:49:19.990170] [HTTP-RUDP-SRV]   Timeout/Invalido seq=240 tent 2/10
+[01:49:20.921265] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 103.3649s | 0.0812 Mbps
+[01:49:20.975451] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:49:23.187030] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 52008)
+[01:49:23.190984] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 52008)
+[01:49:23.246294] [HTTP-RUDP-SRV] ('172.20.0.20', 52008) | GET /arquivo_1mb.bin
+[01:49:26.268903] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:49:29.275569] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:49:32.282686] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:49:35.290246] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:49:38.297450] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:49:41.302854] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:49:44.309873] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:49:47.480961] [HTTP-RUDP-SRV]   Timeout/Invalido seq=4 tent 1/10
+[01:49:50.741015] [HTTP-RUDP-SRV]   Timeout/Invalido seq=9 tent 1/10
+[01:49:55.979798] [HTTP-RUDP-SRV]   Timeout/Invalido seq=53 tent 1/10
+[01:49:59.240373] [HTTP-RUDP-SRV]   Timeout/Invalido seq=58 tent 1/10
+[01:50:03.670976] [HTTP-RUDP-SRV]   Timeout/Invalido seq=86 tent 1/10
+[01:50:10.872187] [HTTP-RUDP-SRV]   Timeout/Invalido seq=168 tent 1/10
+[01:50:14.083794] [HTTP-RUDP-SRV]   Timeout/Invalido seq=172 tent 1/10
+[01:50:18.785900] [HTTP-RUDP-SRV]   Timeout/Invalido seq=205 tent 1/10
+[01:50:21.521093] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 58.2606s | 0.1440 Mbps
+[01:50:21.574923] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:50:23.786035] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 37901)
+[01:50:23.789697] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 37901)
+[01:50:23.844849] [HTTP-RUDP-SRV] ('172.20.0.20', 37901) | GET /arquivo_1mb.bin
+[01:50:26.863072] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:50:29.870493] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:50:32.877720] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:50:35.884595] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:50:38.891514] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:50:41.896248] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:50:44.903016] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:50:48.936814] [HTTP-RUDP-SRV]   Timeout/Invalido seq=21 tent 1/10
+[01:50:52.298168] [HTTP-RUDP-SRV]   Timeout/Invalido seq=28 tent 1/10
+[01:50:56.371024] [HTTP-RUDP-SRV]   Timeout/Invalido seq=49 tent 1/10
+[01:50:59.378081] [HTTP-RUDP-SRV]   Timeout/Invalido seq=49 tent 2/10
+[01:51:02.384986] [HTTP-RUDP-SRV]   Timeout/Invalido seq=49 tent 3/10
+[01:51:06.407551] [HTTP-RUDP-SRV]   Timeout/Invalido seq=69 tent 1/10
+[01:51:11.702152] [HTTP-RUDP-SRV]   Timeout/Invalido seq=114 tent 1/10
+[01:51:16.399893] [HTTP-RUDP-SRV]   Timeout/Invalido seq=147 tent 1/10
+[01:51:23.167485] [HTTP-RUDP-SRV]   Timeout/Invalido seq=220 tent 1/10
+[01:51:25.133636] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 61.2792s | 0.1369 Mbps
+[01:51:25.187564] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:51:27.404969] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 50089)
+[01:51:27.408871] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 50089)
+[01:51:27.464014] [HTTP-RUDP-SRV] ('172.20.0.20', 50089) | GET /arquivo_1mb.bin
+[01:51:30.484849] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:51:33.491529] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:51:36.498479] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:51:39.506335] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:51:42.511681] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:51:45.518594] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:51:48.525322] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:51:52.203528] [HTTP-RUDP-SRV]   Timeout/Invalido seq=14 tent 1/10
+[01:51:56.071399] [HTTP-RUDP-SRV]   Timeout/Invalido seq=31 tent 1/10
+[01:51:59.382554] [HTTP-RUDP-SRV]   Timeout/Invalido seq=37 tent 1/10
+[01:52:03.304106] [HTTP-RUDP-SRV]   Timeout/Invalido seq=55 tent 1/10
+[01:52:08.347684] [HTTP-RUDP-SRV]   Timeout/Invalido seq=95 tent 1/10
+[01:52:11.504248] [HTTP-RUDP-SRV]   Timeout/Invalido seq=98 tent 1/10
+[01:52:15.583704] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 1/10
+[01:52:19.152341] [HTTP-RUDP-SRV]   Timeout/Invalido seq=130 tent 1/10
+[01:52:22.823592] [HTTP-RUDP-SRV]   Timeout/Invalido seq=143 tent 1/10
+[01:52:26.855727] [HTTP-RUDP-SRV]   Timeout/Invalido seq=163 tent 1/10
+[01:52:30.426014] [HTTP-RUDP-SRV]   Timeout/Invalido seq=174 tent 1/10
+[01:52:36.934558] [HTTP-RUDP-SRV]   Timeout/Invalido seq=242 tent 1/10
+[01:52:40.041618] [HTTP-RUDP-SRV]   Timeout/Invalido seq=244 tent 1/10
+[01:52:40.766789] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 73.2923s | 0.1145 Mbps
+[01:52:40.820742] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:52:43.030022] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 53797)
+[01:52:43.033946] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 53797)
+[01:52:43.089212] [HTTP-RUDP-SRV] ('172.20.0.20', 53797) | GET /arquivo_1mb.bin
+[01:52:46.103877] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:52:49.111660] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:52:52.118728] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:52:55.126259] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:52:58.133332] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:53:01.141353] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:53:04.148439] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:53:07.572314] [HTTP-RUDP-SRV]   Timeout/Invalido seq=9 tent 1/10
+[01:53:11.640229] [HTTP-RUDP-SRV]   Timeout/Invalido seq=30 tent 1/10
+[01:53:15.052731] [HTTP-RUDP-SRV]   Timeout/Invalido seq=38 tent 1/10
+[01:53:18.821220] [HTTP-RUDP-SRV]   Timeout/Invalido seq=53 tent 1/10
+[01:53:23.351822] [HTTP-RUDP-SRV]   Timeout/Invalido seq=83 tent 1/10
+[01:53:26.968969] [HTTP-RUDP-SRV]   Timeout/Invalido seq=95 tent 1/10
+[01:53:30.128384] [HTTP-RUDP-SRV]   Timeout/Invalido seq=98 tent 1/10
+[01:53:33.492641] [HTTP-RUDP-SRV]   Timeout/Invalido seq=105 tent 1/10
+[01:53:36.601633] [HTTP-RUDP-SRV]   Timeout/Invalido seq=107 tent 1/10
+[01:53:41.857086] [HTTP-RUDP-SRV]   Timeout/Invalido seq=151 tent 1/10
+[01:53:47.841838] [HTTP-RUDP-SRV]   Timeout/Invalido seq=209 tent 1/10
+[01:53:52.341510] [HTTP-RUDP-SRV]   Timeout/Invalido seq=238 tent 1/10
+[01:53:53.376111] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 70.2805s | 0.1194 Mbps
+[01:54:25.699238] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:54:27.925745] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 55416)
+[01:54:27.929248] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 55416)
+[01:54:27.984071] [HTTP-RUDP-SRV] ('172.20.0.20', 55416) | GET /arquivo_1mb.bin
+[01:54:31.000787] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:54:34.008081] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:54:37.015738] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:54:40.021369] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:54:43.028996] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:54:46.036725] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:54:49.044759] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:54:55.265744] [HTTP-RUDP-SRV]   Timeout/Invalido seq=64 tent 1/10
+[01:54:58.475767] [HTTP-RUDP-SRV]   Timeout/Invalido seq=68 tent 1/10
+[01:55:01.787269] [HTTP-RUDP-SRV]   Timeout/Invalido seq=74 tent 1/10
+[01:55:07.349666] [HTTP-RUDP-SRV]   Timeout/Invalido seq=124 tent 1/10
+[01:55:10.456702] [HTTP-RUDP-SRV]   Timeout/Invalido seq=126 tent 1/10
+[01:55:14.128651] [HTTP-RUDP-SRV]   Timeout/Invalido seq=139 tent 1/10
+[01:55:18.469620] [HTTP-RUDP-SRV]   Timeout/Invalido seq=165 tent 1/10
+[01:55:22.402488] [HTTP-RUDP-SRV]   Timeout/Invalido seq=183 tent 1/10
+[01:55:25.666459] [HTTP-RUDP-SRV]   Timeout/Invalido seq=188 tent 1/10
+[01:55:29.187163] [HTTP-RUDP-SRV]   Timeout/Invalido seq=198 tent 1/10
+[01:55:32.450973] [HTTP-RUDP-SRV]   Timeout/Invalido seq=203 tent 1/10
+[01:55:35.612335] [HTTP-RUDP-SRV]   Timeout/Invalido seq=206 tent 1/10
+[01:55:40.677595] [HTTP-RUDP-SRV]   Timeout/Invalido seq=246 tent 1/10
+[01:55:43.838672] [HTTP-RUDP-SRV]   Timeout/Invalido seq=249 tent 1/10
+[01:55:44.306079] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 76.3155s | 0.1099 Mbps
+[01:55:44.360355] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:55:46.574413] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 54950)
+[01:55:46.578128] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 54950)
+[01:55:46.632870] [HTTP-RUDP-SRV] ('172.20.0.20', 54950) | GET /arquivo_1mb.bin
+[01:55:49.653815] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:55:52.661888] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:55:55.669136] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:55:58.676469] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:56:01.683723] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:56:04.691297] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:56:07.698292] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:56:12.334834] [HTTP-RUDP-SRV]   Timeout/Invalido seq=33 tent 1/10
+[01:56:19.937974] [HTTP-RUDP-SRV]   Timeout/Invalido seq=123 tent 1/10
+[01:56:23.148838] [HTTP-RUDP-SRV]   Timeout/Invalido seq=127 tent 1/10
+[01:56:26.564802] [HTTP-RUDP-SRV]   Timeout/Invalido seq=135 tent 1/10
+[01:56:29.673319] [HTTP-RUDP-SRV]   Timeout/Invalido seq=137 tent 1/10
+[01:56:33.192336] [HTTP-RUDP-SRV]   Timeout/Invalido seq=147 tent 1/10
+[01:56:37.995536] [HTTP-RUDP-SRV]   Timeout/Invalido seq=182 tent 1/10
+[01:56:41.050540] [HTTP-RUDP-SRV]   Timeout/Invalido seq=183 tent 1/10
+[01:56:45.753191] [HTTP-RUDP-SRV]   Timeout/Invalido seq=216 tent 1/10
+[01:56:49.068953] [HTTP-RUDP-SRV]   Timeout/Invalido seq=222 tent 1/10
+[01:56:52.436721] [HTTP-RUDP-SRV]   Timeout/Invalido seq=229 tent 1/10
+[01:56:56.164503] [HTTP-RUDP-SRV]   Timeout/Invalido seq=243 tent 1/10
+[01:56:59.171529] [HTTP-RUDP-SRV]   Timeout/Invalido seq=243 tent 2/10
+[01:56:59.949216] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 73.3042s | 0.1144 Mbps
+[01:57:00.003521] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:57:02.228890] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 55955)
+[01:57:02.232573] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 55955)
+[01:57:02.287621] [HTTP-RUDP-SRV] ('172.20.0.20', 55955) | GET /arquivo_1mb.bin
+[01:57:05.306990] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:57:08.314556] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:57:11.320043] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:57:14.327184] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:57:17.334500] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:57:20.341764] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:57:23.348445] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:57:26.721955] [HTTP-RUDP-SRV]   Timeout/Invalido seq=8 tent 1/10
+[01:57:31.450939] [HTTP-RUDP-SRV]   Timeout/Invalido seq=42 tent 1/10
+[01:57:34.560140] [HTTP-RUDP-SRV]   Timeout/Invalido seq=44 tent 1/10
+[01:57:37.923195] [HTTP-RUDP-SRV]   Timeout/Invalido seq=51 tent 1/10
+[01:57:41.944128] [HTTP-RUDP-SRV]   Timeout/Invalido seq=71 tent 1/10
+[01:57:45.306559] [HTTP-RUDP-SRV]   Timeout/Invalido seq=78 tent 1/10
+[01:57:49.433000] [HTTP-RUDP-SRV]   Timeout/Invalido seq=100 tent 1/10
+[01:57:53.358491] [HTTP-RUDP-SRV]   Timeout/Invalido seq=118 tent 1/10
+[01:57:56.365395] [HTTP-RUDP-SRV]   Timeout/Invalido seq=118 tent 2/10
+[01:58:00.139385] [HTTP-RUDP-SRV]   Timeout/Invalido seq=133 tent 1/10
+[01:58:03.607234] [HTTP-RUDP-SRV]   Timeout/Invalido seq=142 tent 1/10
+[01:58:07.588745] [HTTP-RUDP-SRV]   Timeout/Invalido seq=161 tent 1/10
+[01:58:11.106051] [HTTP-RUDP-SRV]   Timeout/Invalido seq=171 tent 1/10
+[01:58:14.215154] [HTTP-RUDP-SRV]   Timeout/Invalido seq=173 tent 1/10
+[01:58:18.297577] [HTTP-RUDP-SRV]   Timeout/Invalido seq=194 tent 1/10
+[01:58:21.406590] [HTTP-RUDP-SRV]   Timeout/Invalido seq=196 tent 1/10
+[01:58:24.567049] [HTTP-RUDP-SRV]   Timeout/Invalido seq=199 tent 1/10
+[01:58:28.241712] [HTTP-RUDP-SRV]   Timeout/Invalido seq=212 tent 1/10
+[01:58:32.227357] [HTTP-RUDP-SRV]   Timeout/Invalido seq=231 tent 1/10
+[01:58:36.213716] [HTTP-RUDP-SRV]   Timeout/Invalido seq=250 tent 1/10
+[01:58:36.629980] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 94.3329s | 0.0889 Mbps
+[01:58:36.684126] [HTTP-RUDP-SRV] Sessao encerrada
+
+[01:58:38.912481] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 49900)
+[01:58:38.916609] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 49900)
+[01:58:38.971674] [HTTP-RUDP-SRV] ('172.20.0.20', 49900) | GET /arquivo_1mb.bin
+[01:58:41.982942] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[01:58:44.989030] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[01:58:47.995918] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[01:58:51.003236] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[01:58:54.011511] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[01:58:57.018925] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[01:59:00.023309] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[01:59:03.449245] [HTTP-RUDP-SRV]   Timeout/Invalido seq=9 tent 1/10
+[01:59:06.911144] [HTTP-RUDP-SRV]   Timeout/Invalido seq=18 tent 1/10
+[01:59:09.968627] [HTTP-RUDP-SRV]   Timeout/Invalido seq=19 tent 1/10
+[01:59:13.479408] [HTTP-RUDP-SRV]   Timeout/Invalido seq=29 tent 1/10
+[01:59:16.891620] [HTTP-RUDP-SRV]   Timeout/Invalido seq=37 tent 1/10
+[01:59:21.624534] [HTTP-RUDP-SRV]   Timeout/Invalido seq=71 tent 1/10
+[01:59:24.631450] [HTTP-RUDP-SRV]   Timeout/Invalido seq=71 tent 2/10
+[01:59:27.689016] [HTTP-RUDP-SRV]   Timeout/Invalido seq=72 tent 1/10
+[01:59:32.067855] [HTTP-RUDP-SRV]   Timeout/Invalido seq=99 tent 1/10
+[01:59:35.380597] [HTTP-RUDP-SRV]   Timeout/Invalido seq=105 tent 1/10
+[01:59:38.847078] [HTTP-RUDP-SRV]   Timeout/Invalido seq=114 tent 1/10
+[01:59:42.056575] [HTTP-RUDP-SRV]   Timeout/Invalido seq=118 tent 1/10
+[01:59:45.216479] [HTTP-RUDP-SRV]   Timeout/Invalido seq=121 tent 1/10
+[01:59:49.245527] [HTTP-RUDP-SRV]   Timeout/Invalido seq=141 tent 1/10
+[01:59:52.661596] [HTTP-RUDP-SRV]   Timeout/Invalido seq=149 tent 1/10
+[01:59:55.822198] [HTTP-RUDP-SRV]   Timeout/Invalido seq=152 tent 1/10
+[01:59:58.828927] [HTTP-RUDP-SRV]   Timeout/Invalido seq=152 tent 2/10
+[02:00:03.836806] [HTTP-RUDP-SRV]   Timeout/Invalido seq=191 tent 1/10
+[02:00:07.974060] [HTTP-RUDP-SRV]   Timeout/Invalido seq=213 tent 1/10
+[02:00:12.732674] [HTTP-RUDP-SRV]   Timeout/Invalido seq=247 tent 1/10
+[02:00:16.100269] [HTTP-RUDP-SRV]   Timeout/Invalido seq=254 tent 1/10
+[02:00:16.309111] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 97.3364s | 0.0862 Mbps
+[02:00:16.363900] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:00:47.596725] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 40960)
+[02:00:47.600447] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 40960)
+[02:00:47.705936] [HTTP-RUDP-SRV] ('172.20.0.20', 40960) | GET /arquivo_100kb.bin
+[02:00:50.715479] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:00:53.723613] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:00:56.730643] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:00:59.737545] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:01:02.745102] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:01:05.752328] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:01:08.759247] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:01:11.382439] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 23.6724s | 0.0346 Mbps
+[02:01:11.486290] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:01:13.752082] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 57374)
+[02:01:13.755760] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 57374)
+[02:01:16.867777] [HTTP-RUDP-SRV] ('172.20.0.20', 57374) | GET /arquivo_100kb.bin
+[02:01:19.878170] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:01:22.885029] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:01:25.892380] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:01:28.899861] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:01:31.907743] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:01:34.915432] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:01:37.922629] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:01:42.341390] [HTTP-RUDP-SRV]   Timeout/Invalido seq=15 tent 1/10
+[02:01:45.852042] [HTTP-RUDP-SRV]   Timeout/Invalido seq=20 tent 1/10
+[02:01:46.560001] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 29.6879s | 0.0276 Mbps
+[02:01:46.664342] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:01:48.951483] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 51056)
+[02:01:48.955296] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 51056)
+[02:01:49.060484] [HTTP-RUDP-SRV] ('172.20.0.20', 51056) | GET /arquivo_100kb.bin
+[02:01:52.071392] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:01:55.076842] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:01:58.085692] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:02:01.093250] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:02:04.100808] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:02:07.105975] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:02:10.113354] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:02:14.131300] [HTTP-RUDP-SRV]   Timeout/Invalido seq=11 tent 1/10
+[02:02:17.440304] [HTTP-RUDP-SRV]   Timeout/Invalido seq=14 tent 1/10
+[02:02:21.051383] [HTTP-RUDP-SRV]   Timeout/Invalido seq=20 tent 1/10
+[02:02:24.662126] [HTTP-RUDP-SRV]   Timeout/Invalido seq=26 tent 1/10
+[02:02:24.766308] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 35.7008s | 0.0229 Mbps
+[02:02:24.870726] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:02:27.134932] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 48366)
+[02:02:27.140164] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 48366)
+[02:02:27.246238] [HTTP-RUDP-SRV] ('172.20.0.20', 48366) | GET /arquivo_100kb.bin
+[02:02:30.257485] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:02:33.264671] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:02:36.271399] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:02:39.278474] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:02:42.283240] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:02:45.290485] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:02:48.297639] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:02:51.715930] [HTTP-RUDP-SRV]   Timeout/Invalido seq=5 tent 1/10
+[02:02:54.823231] [HTTP-RUDP-SRV]   Timeout/Invalido seq=6 tent 1/10
+[02:02:58.936332] [HTTP-RUDP-SRV]   Timeout/Invalido seq=17 tent 1/10
+[02:03:02.346052] [HTTP-RUDP-SRV]   Timeout/Invalido seq=21 tent 1/10
+[02:03:05.755722] [HTTP-RUDP-SRV]   Timeout/Invalido seq=25 tent 1/10
+[02:03:05.960363] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 38.7091s | 0.0212 Mbps
+[02:03:06.064583] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:03:08.336974] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 52799)
+[02:03:08.342133] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 52799)
+[02:03:08.447443] [HTTP-RUDP-SRV] ('172.20.0.20', 52799) | GET /arquivo_100kb.bin
+[02:03:11.455546] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:03:14.462726] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:03:17.469385] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:03:20.477735] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:03:23.485991] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:03:26.493332] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:03:29.500159] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:03:34.726021] [HTTP-RUDP-SRV]   Timeout/Invalido seq=23 tent 1/10
+[02:03:37.934413] [HTTP-RUDP-SRV]   Timeout/Invalido seq=25 tent 1/10
+[02:03:38.140339] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 29.6885s | 0.0276 Mbps
+[02:03:38.245490] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:03:40.522867] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 53180)
+[02:03:40.526793] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 53180)
+[02:03:40.631721] [HTTP-RUDP-SRV] ('172.20.0.20', 53180) | GET /arquivo_100kb.bin
+[02:03:43.641780] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:03:46.649192] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:03:49.656758] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:03:52.664054] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:03:55.670784] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:03:58.678043] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:04:01.686461] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:04:06.108512] [HTTP-RUDP-SRV]   Timeout/Invalido seq=15 tent 1/10
+[02:04:09.217114] [HTTP-RUDP-SRV]   Timeout/Invalido seq=16 tent 1/10
+[02:04:12.423457] [HTTP-RUDP-SRV]   Timeout/Invalido seq=18 tent 1/10
+[02:04:13.334699] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 32.6987s | 0.0251 Mbps
+[02:04:45.769504] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:04:48.031670] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 46252)
+[02:04:48.036015] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 46252)
+[02:04:48.142375] [HTTP-RUDP-SRV] ('172.20.0.20', 46252) | GET /arquivo_100kb.bin
+[02:04:51.169170] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:04:54.176503] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:04:57.183489] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:05:00.190778] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:05:03.195256] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:05:06.203719] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:05:09.210881] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:05:12.825016] [HTTP-RUDP-SRV]   Timeout/Invalido seq=7 tent 1/10
+[02:05:16.134437] [HTTP-RUDP-SRV]   Timeout/Invalido seq=10 tent 1/10
+[02:05:17.850383] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 29.6881s | 0.0276 Mbps
+[02:05:50.286402] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:05:52.548071] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 40938)
+[02:05:52.552424] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 40938)
+[02:05:52.658802] [HTTP-RUDP-SRV] ('172.20.0.20', 40938) | GET /arquivo_100kb.bin
+[02:05:55.670335] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:05:58.677550] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:06:01.684663] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:06:04.691440] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:06:07.699033] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:06:10.703777] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:06:13.712125] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:06:16.824279] [HTTP-RUDP-SRV]   Timeout/Invalido seq=2 tent 1/10
+[02:06:19.931827] [HTTP-RUDP-SRV]   Timeout/Invalido seq=3 tent 1/10
+[02:06:23.242668] [HTTP-RUDP-SRV]   Timeout/Invalido seq=6 tent 1/10
+[02:06:25.362889] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_100kb.bin | 102400B | 32.6986s | 0.0251 Mbps
+[02:06:25.467155] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:06:56.965002] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 45324)
+[02:06:56.968966] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 45324)
+[02:06:57.073897] [HTTP-RUDP-SRV] ('172.20.0.20', 45324) | GET /arquivo_500kb.bin
+[02:07:00.085096] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:07:03.092670] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:07:06.100117] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:07:09.108190] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:07:12.113246] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:07:15.120416] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:07:18.127687] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:07:22.753758] [HTTP-RUDP-SRV]   Timeout/Invalido seq=17 tent 1/10
+[02:07:27.774642] [HTTP-RUDP-SRV]   Timeout/Invalido seq=37 tent 1/10
+[02:07:32.294525] [HTTP-RUDP-SRV]   Timeout/Invalido seq=52 tent 1/10
+[02:07:36.309243] [HTTP-RUDP-SRV]   Timeout/Invalido seq=62 tent 1/10
+[02:07:40.120145] [HTTP-RUDP-SRV]   Timeout/Invalido seq=70 tent 1/10
+[02:07:43.934981] [HTTP-RUDP-SRV]   Timeout/Invalido seq=78 tent 1/10
+[02:07:47.244663] [HTTP-RUDP-SRV]   Timeout/Invalido seq=81 tent 1/10
+[02:07:50.453372] [HTTP-RUDP-SRV]   Timeout/Invalido seq=83 tent 1/10
+[02:07:54.065637] [HTTP-RUDP-SRV]   Timeout/Invalido seq=89 tent 1/10
+[02:07:57.072782] [HTTP-RUDP-SRV]   Timeout/Invalido seq=89 tent 2/10
+[02:08:01.899296] [HTTP-RUDP-SRV]   Timeout/Invalido seq=107 tent 1/10
+[02:08:03.925019] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 66.8489s | 0.0613 Mbps
+[02:08:04.029701] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:08:06.295410] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 57284)
+[02:08:06.299127] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 57284)
+[02:08:06.404023] [HTTP-RUDP-SRV] ('172.20.0.20', 57284) | GET /arquivo_500kb.bin
+[02:08:09.413756] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:08:12.419431] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:08:15.424302] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:08:18.431895] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:08:21.439200] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:08:24.444267] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:08:27.451260] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:08:30.458047] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 8/10
+[02:08:33.575939] [HTTP-RUDP-SRV]   Timeout/Invalido seq=2 tent 1/10
+[02:08:36.784325] [HTTP-RUDP-SRV]   Timeout/Invalido seq=4 tent 1/10
+[02:08:40.594255] [HTTP-RUDP-SRV]   Timeout/Invalido seq=12 tent 1/10
+[02:08:43.802260] [HTTP-RUDP-SRV]   Timeout/Invalido seq=14 tent 1/10
+[02:08:46.909978] [HTTP-RUDP-SRV]   Timeout/Invalido seq=15 tent 1/10
+[02:08:50.923475] [HTTP-RUDP-SRV]   Timeout/Invalido seq=25 tent 1/10
+[02:08:56.751209] [HTTP-RUDP-SRV]   Timeout/Invalido seq=53 tent 1/10
+[02:09:01.068236] [HTTP-RUDP-SRV]   Timeout/Invalido seq=66 tent 1/10
+[02:09:04.680548] [HTTP-RUDP-SRV]   Timeout/Invalido seq=72 tent 1/10
+[02:09:08.595667] [HTTP-RUDP-SRV]   Timeout/Invalido seq=81 tent 1/10
+[02:09:11.802240] [HTTP-RUDP-SRV]   Timeout/Invalido seq=83 tent 1/10
+[02:09:16.423874] [HTTP-RUDP-SRV]   Timeout/Invalido seq=99 tent 1/10
+[02:09:19.732837] [HTTP-RUDP-SRV]   Timeout/Invalido seq=102 tent 1/10
+[02:09:22.739967] [HTTP-RUDP-SRV]   Timeout/Invalido seq=102 tent 2/10
+[02:09:25.270131] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 78.8657s | 0.0519 Mbps
+[02:09:25.374427] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:09:27.666326] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 45016)
+[02:09:27.670412] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 45016)
+[02:09:27.774991] [HTTP-RUDP-SRV] ('172.20.0.20', 45016) | GET /arquivo_500kb.bin
+[02:09:30.784753] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:09:33.792200] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:09:36.800118] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:09:39.805828] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:09:42.811014] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:09:45.818728] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:09:48.825896] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:09:55.969166] [HTTP-RUDP-SRV]   Timeout/Invalido seq=42 tent 1/10
+[02:10:01.696592] [HTTP-RUDP-SRV]   Timeout/Invalido seq=69 tent 1/10
+[02:10:05.711957] [HTTP-RUDP-SRV]   Timeout/Invalido seq=79 tent 1/10
+[02:10:10.027125] [HTTP-RUDP-SRV]   Timeout/Invalido seq=92 tent 1/10
+[02:10:14.649382] [HTTP-RUDP-SRV]   Timeout/Invalido seq=108 tent 1/10
+[02:10:17.655032] [HTTP-RUDP-SRV]   Timeout/Invalido seq=108 tent 2/10
+[02:10:19.578903] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 51.8027s | 0.0791 Mbps
+[02:10:19.682916] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:10:21.939736] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 48340)
+[02:10:21.943447] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 48340)
+[02:10:22.047926] [HTTP-RUDP-SRV] ('172.20.0.20', 48340) | GET /arquivo_500kb.bin
+[02:10:25.057642] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:10:28.065342] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:10:31.072716] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:10:34.080339] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:10:37.087428] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:10:40.094354] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:10:43.101296] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:10:46.318124] [HTTP-RUDP-SRV]   Timeout/Invalido seq=3 tent 1/10
+[02:10:50.029811] [HTTP-RUDP-SRV]   Timeout/Invalido seq=10 tent 1/10
+[02:10:58.676870] [HTTP-RUDP-SRV]   Timeout/Invalido seq=66 tent 1/10
+[02:11:03.400394] [HTTP-RUDP-SRV]   Timeout/Invalido seq=83 tent 1/10
+[02:11:06.811458] [HTTP-RUDP-SRV]   Timeout/Invalido seq=87 tent 1/10
+[02:11:11.937685] [HTTP-RUDP-SRV]   Timeout/Invalido seq=108 tent 1/10
+[02:11:15.045437] [HTTP-RUDP-SRV]   Timeout/Invalido seq=109 tent 1/10
+[02:11:16.868288] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 54.8175s | 0.0747 Mbps
+[02:11:16.972296] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:11:19.235071] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 56070)
+[02:11:19.238770] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 56070)
+[02:11:19.343219] [HTTP-RUDP-SRV] ('172.20.0.20', 56070) | GET /arquivo_500kb.bin
+[02:11:22.352561] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:11:25.359968] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:11:28.367098] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:11:31.374779] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:11:34.379601] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:11:37.386787] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:11:40.389256] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:11:43.706797] [HTTP-RUDP-SRV]   Timeout/Invalido seq=4 tent 1/10
+[02:11:46.814155] [HTTP-RUDP-SRV]   Timeout/Invalido seq=5 tent 1/10
+[02:11:50.525511] [HTTP-RUDP-SRV]   Timeout/Invalido seq=12 tent 1/10
+[02:11:54.539444] [HTTP-RUDP-SRV]   Timeout/Invalido seq=22 tent 1/10
+[02:12:00.870481] [HTTP-RUDP-SRV]   Timeout/Invalido seq=55 tent 1/10
+[02:12:03.978246] [HTTP-RUDP-SRV]   Timeout/Invalido seq=56 tent 1/10
+[02:12:07.994379] [HTTP-RUDP-SRV]   Timeout/Invalido seq=66 tent 1/10
+[02:12:11.402392] [HTTP-RUDP-SRV]   Timeout/Invalido seq=70 tent 1/10
+[02:12:14.510061] [HTTP-RUDP-SRV]   Timeout/Invalido seq=71 tent 1/10
+[02:12:18.929458] [HTTP-RUDP-SRV]   Timeout/Invalido seq=85 tent 1/10
+[02:12:23.650912] [HTTP-RUDP-SRV]   Timeout/Invalido seq=102 tent 1/10
+[02:12:27.163041] [HTTP-RUDP-SRV]   Timeout/Invalido seq=107 tent 1/10
+[02:12:30.877112] [HTTP-RUDP-SRV]   Timeout/Invalido seq=114 tent 1/10
+[02:12:33.884248] [HTTP-RUDP-SRV]   Timeout/Invalido seq=114 tent 2/10
+[02:12:37.092412] [HTTP-RUDP-SRV]   Timeout/Invalido seq=116 tent 1/10
+[02:12:38.208643] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 78.8643s | 0.0519 Mbps
+[02:12:38.313348] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:12:40.568483] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 55023)
+[02:12:40.572233] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 55023)
+[02:12:40.676918] [HTTP-RUDP-SRV] ('172.20.0.20', 55023) | GET /arquivo_500kb.bin
+[02:12:43.688306] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:12:46.695127] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:12:49.702590] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:12:52.709423] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:12:55.717299] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:12:58.724373] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:13:01.731384] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:13:05.050341] [HTTP-RUDP-SRV]   Timeout/Invalido seq=4 tent 1/10
+[02:13:11.073346] [HTTP-RUDP-SRV]   Timeout/Invalido seq=34 tent 1/10
+[02:13:14.382480] [HTTP-RUDP-SRV]   Timeout/Invalido seq=37 tent 1/10
+[02:13:17.692270] [HTTP-RUDP-SRV]   Timeout/Invalido seq=40 tent 1/10
+[02:13:21.404226] [HTTP-RUDP-SRV]   Timeout/Invalido seq=47 tent 1/10
+[02:13:25.418992] [HTTP-RUDP-SRV]   Timeout/Invalido seq=57 tent 1/10
+[02:13:29.131027] [HTTP-RUDP-SRV]   Timeout/Invalido seq=64 tent 1/10
+[02:13:32.138101] [HTTP-RUDP-SRV]   Timeout/Invalido seq=64 tent 2/10
+[02:13:36.354368] [HTTP-RUDP-SRV]   Timeout/Invalido seq=76 tent 1/10
+[02:13:39.462695] [HTTP-RUDP-SRV]   Timeout/Invalido seq=77 tent 1/10
+[02:13:42.770236] [HTTP-RUDP-SRV]   Timeout/Invalido seq=80 tent 1/10
+[02:13:50.017785] [HTTP-RUDP-SRV]   Timeout/Invalido seq=122 tent 1/10
+[02:13:50.526732] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 69.8465s | 0.0586 Mbps
+[02:13:50.630746] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:13:52.888002] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 53292)
+[02:13:52.891680] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 53292)
+[02:13:52.996843] [HTTP-RUDP-SRV] ('172.20.0.20', 53292) | GET /arquivo_500kb.bin
+[02:13:56.006479] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:13:59.015034] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:14:02.022201] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:14:05.030065] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:14:08.036975] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:14:11.041961] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:14:14.048969] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:14:17.365684] [HTTP-RUDP-SRV]   Timeout/Invalido seq=4 tent 1/10
+[02:14:21.178059] [HTTP-RUDP-SRV]   Timeout/Invalido seq=12 tent 1/10
+[02:14:24.788465] [HTTP-RUDP-SRV]   Timeout/Invalido seq=18 tent 1/10
+[02:14:27.795471] [HTTP-RUDP-SRV]   Timeout/Invalido seq=18 tent 2/10
+[02:14:31.406388] [HTTP-RUDP-SRV]   Timeout/Invalido seq=24 tent 1/10
+[02:14:36.729658] [HTTP-RUDP-SRV]   Timeout/Invalido seq=47 tent 1/10
+[02:14:40.338564] [HTTP-RUDP-SRV]   Timeout/Invalido seq=53 tent 1/10
+[02:14:44.051124] [HTTP-RUDP-SRV]   Timeout/Invalido seq=60 tent 1/10
+[02:14:47.864236] [HTTP-RUDP-SRV]   Timeout/Invalido seq=68 tent 1/10
+[02:14:51.072378] [HTTP-RUDP-SRV]   Timeout/Invalido seq=70 tent 1/10
+[02:14:54.683930] [HTTP-RUDP-SRV]   Timeout/Invalido seq=76 tent 1/10
+[02:14:57.993017] [HTTP-RUDP-SRV]   Timeout/Invalido seq=79 tent 1/10
+[02:15:03.723590] [HTTP-RUDP-SRV]   Timeout/Invalido seq=106 tent 1/10
+[02:15:07.033210] [HTTP-RUDP-SRV]   Timeout/Invalido seq=109 tent 1/10
+[02:15:10.239567] [HTTP-RUDP-SRV]   Timeout/Invalido seq=111 tent 1/10
+[02:15:11.860392] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 78.8638s | 0.0519 Mbps
+[02:15:11.964738] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:15:14.241115] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 44849)
+[02:15:14.244623] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 44849)
+[02:15:14.349384] [HTTP-RUDP-SRV] ('172.20.0.20', 44849) | GET /arquivo_500kb.bin
+[02:15:17.359360] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:15:20.366638] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:15:23.373739] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:15:26.381203] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:15:29.388572] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:15:32.396552] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:15:35.403425] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:15:38.720986] [HTTP-RUDP-SRV]   Timeout/Invalido seq=4 tent 1/10
+[02:15:45.248289] [HTTP-RUDP-SRV]   Timeout/Invalido seq=39 tent 1/10
+[02:15:49.061306] [HTTP-RUDP-SRV]   Timeout/Invalido seq=47 tent 1/10
+[02:15:53.681016] [HTTP-RUDP-SRV]   Timeout/Invalido seq=63 tent 1/10
+[02:15:59.610173] [HTTP-RUDP-SRV]   Timeout/Invalido seq=92 tent 1/10
+[02:16:04.939696] [HTTP-RUDP-SRV]   Timeout/Invalido seq=115 tent 1/10
+[02:16:08.350586] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 1/10
+[02:16:09.162575] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 54.8089s | 0.0747 Mbps
+[02:16:09.266835] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:16:11.522608] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 55997)
+[02:16:11.526269] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 55997)
+[02:16:11.631303] [HTTP-RUDP-SRV] ('172.20.0.20', 55997) | GET /arquivo_500kb.bin
+[02:16:14.641178] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:16:17.648591] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:16:20.655989] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:16:23.663004] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:16:26.670350] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:16:29.677674] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:16:32.684486] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:16:36.304182] [HTTP-RUDP-SRV]   Timeout/Invalido seq=7 tent 1/10
+[02:16:39.311221] [HTTP-RUDP-SRV]   Timeout/Invalido seq=7 tent 2/10
+[02:16:42.416618] [HTTP-RUDP-SRV]   Timeout/Invalido seq=8 tent 1/10
+[02:16:45.723834] [HTTP-RUDP-SRV]   Timeout/Invalido seq=11 tent 1/10
+[02:16:48.731047] [HTTP-RUDP-SRV]   Timeout/Invalido seq=11 tent 2/10
+[02:16:52.140308] [HTTP-RUDP-SRV]   Timeout/Invalido seq=15 tent 1/10
+[02:16:56.052667] [HTTP-RUDP-SRV]   Timeout/Invalido seq=24 tent 1/10
+[02:17:01.375765] [HTTP-RUDP-SRV]   Timeout/Invalido seq=47 tent 1/10
+[02:17:04.382437] [HTTP-RUDP-SRV]   Timeout/Invalido seq=47 tent 2/10
+[02:17:08.296226] [HTTP-RUDP-SRV]   Timeout/Invalido seq=56 tent 1/10
+[02:17:12.308577] [HTTP-RUDP-SRV]   Timeout/Invalido seq=66 tent 1/10
+[02:17:16.625774] [HTTP-RUDP-SRV]   Timeout/Invalido seq=79 tent 1/10
+[02:17:20.035553] [HTTP-RUDP-SRV]   Timeout/Invalido seq=83 tent 1/10
+[02:17:23.243836] [HTTP-RUDP-SRV]   Timeout/Invalido seq=85 tent 1/10
+[02:17:26.754512] [HTTP-RUDP-SRV]   Timeout/Invalido seq=90 tent 1/10
+[02:17:32.487299] [HTTP-RUDP-SRV]   Timeout/Invalido seq=117 tent 1/10
+[02:17:35.696319] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 1/10
+[02:17:39.107595] [HTTP-RUDP-SRV]   Timeout/Invalido seq=123 tent 1/10
+[02:17:39.514832] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 87.8815s | 0.0466 Mbps
+[02:17:39.619327] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:17:41.876191] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 53397)
+[02:17:41.879612] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 53397)
+[02:17:41.984348] [HTTP-RUDP-SRV] ('172.20.0.20', 53397) | GET /arquivo_500kb.bin
+[02:17:44.993918] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:17:48.000974] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:17:51.008569] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:17:54.015777] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:17:57.022957] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:18:00.030545] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:18:03.037306] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:18:09.374992] [HTTP-RUDP-SRV]   Timeout/Invalido seq=34 tent 1/10
+[02:18:12.480619] [HTTP-RUDP-SRV]   Timeout/Invalido seq=35 tent 1/10
+[02:18:15.588177] [HTTP-RUDP-SRV]   Timeout/Invalido seq=36 tent 1/10
+[02:18:20.912492] [HTTP-RUDP-SRV]   Timeout/Invalido seq=59 tent 1/10
+[02:18:24.725873] [HTTP-RUDP-SRV]   Timeout/Invalido seq=67 tent 1/10
+[02:18:28.035095] [HTTP-RUDP-SRV]   Timeout/Invalido seq=70 tent 1/10
+[02:18:32.656757] [HTTP-RUDP-SRV]   Timeout/Invalido seq=86 tent 1/10
+[02:18:36.268551] [HTTP-RUDP-SRV]   Timeout/Invalido seq=92 tent 1/10
+[02:18:42.607091] [HTTP-RUDP-SRV]   Timeout/Invalido seq=125 tent 1/10
+[02:18:42.812860] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_500kb.bin | 512000B | 60.8270s | 0.0673 Mbps
+[02:18:42.917185] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:19:15.343561] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 44556)
+[02:19:15.347467] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 44556)
+[02:19:15.452086] [HTTP-RUDP-SRV] ('172.20.0.20', 44556) | GET /arquivo_1mb.bin
+[02:19:18.458898] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:19:21.466008] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:19:24.473140] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:19:27.480341] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:19:30.487216] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:19:33.494461] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:19:36.501966] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:19:40.027452] [HTTP-RUDP-SRV]   Timeout/Invalido seq=6 tent 1/10
+[02:19:44.038830] [HTTP-RUDP-SRV]   Timeout/Invalido seq=16 tent 1/10
+[02:19:48.152282] [HTTP-RUDP-SRV]   Timeout/Invalido seq=27 tent 1/10
+[02:19:51.762990] [HTTP-RUDP-SRV]   Timeout/Invalido seq=33 tent 1/10
+[02:19:55.373513] [HTTP-RUDP-SRV]   Timeout/Invalido seq=39 tent 1/10
+[02:19:58.984808] [HTTP-RUDP-SRV]   Timeout/Invalido seq=45 tent 1/10
+[02:20:02.192954] [HTTP-RUDP-SRV]   Timeout/Invalido seq=47 tent 1/10
+[02:20:05.903142] [HTTP-RUDP-SRV]   Timeout/Invalido seq=54 tent 1/10
+[02:20:09.111492] [HTTP-RUDP-SRV]   Timeout/Invalido seq=56 tent 1/10
+[02:20:14.332498] [HTTP-RUDP-SRV]   Timeout/Invalido seq=78 tent 1/10
+[02:20:17.541078] [HTTP-RUDP-SRV]   Timeout/Invalido seq=80 tent 1/10
+[02:20:21.859131] [HTTP-RUDP-SRV]   Timeout/Invalido seq=93 tent 1/10
+[02:20:26.278361] [HTTP-RUDP-SRV]   Timeout/Invalido seq=107 tent 1/10
+[02:20:30.194774] [HTTP-RUDP-SRV]   Timeout/Invalido seq=116 tent 1/10
+[02:20:33.504411] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 1/10
+[02:20:37.521648] [HTTP-RUDP-SRV]   Timeout/Invalido seq=129 tent 1/10
+[02:20:41.740117] [HTTP-RUDP-SRV]   Timeout/Invalido seq=141 tent 1/10
+[02:20:45.150796] [HTTP-RUDP-SRV]   Timeout/Invalido seq=145 tent 1/10
+[02:20:48.359319] [HTTP-RUDP-SRV]   Timeout/Invalido seq=147 tent 1/10
+[02:20:53.895919] [HTTP-RUDP-SRV]   Timeout/Invalido seq=172 tent 1/10
+[02:20:58.523096] [HTTP-RUDP-SRV]   Timeout/Invalido seq=188 tent 1/10
+[02:21:01.732076] [HTTP-RUDP-SRV]   Timeout/Invalido seq=190 tent 1/10
+[02:21:06.258104] [HTTP-RUDP-SRV]   Timeout/Invalido seq=205 tent 1/10
+[02:21:09.670347] [HTTP-RUDP-SRV]   Timeout/Invalido seq=209 tent 1/10
+[02:21:13.688462] [HTTP-RUDP-SRV]   Timeout/Invalido seq=219 tent 1/10
+[02:21:17.100546] [HTTP-RUDP-SRV]   Timeout/Invalido seq=223 tent 1/10
+[02:21:20.613955] [HTTP-RUDP-SRV]   Timeout/Invalido seq=228 tent 1/10
+[02:21:23.823401] [HTTP-RUDP-SRV]   Timeout/Invalido seq=230 tent 1/10
+[02:21:27.134161] [HTTP-RUDP-SRV]   Timeout/Invalido seq=233 tent 1/10
+[02:21:30.343320] [HTTP-RUDP-SRV]   Timeout/Invalido seq=235 tent 1/10
+[02:21:34.263775] [HTTP-RUDP-SRV]   Timeout/Invalido seq=244 tent 1/10
+[02:21:37.675848] [HTTP-RUDP-SRV]   Timeout/Invalido seq=248 tent 1/10
+[02:21:41.188238] [HTTP-RUDP-SRV]   Timeout/Invalido seq=253 tent 1/10
+[02:21:41.698393] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 146.2509s | 0.0574 Mbps
+[02:21:41.802569] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:21:44.063133] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 51218)
+[02:21:44.066841] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 51218)
+[02:21:50.220089] [HTTP-RUDP-SRV] ('172.20.0.20', 51218) | GET /arquivo_1mb.bin
+[02:21:53.247920] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:21:56.255837] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:21:59.263038] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:22:02.270170] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:22:05.275084] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:22:08.281949] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:22:11.284440] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:22:14.406713] [HTTP-RUDP-SRV]   Timeout/Invalido seq=2 tent 1/10
+[02:22:18.620958] [HTTP-RUDP-SRV]   Timeout/Invalido seq=14 tent 1/10
+[02:22:21.929575] [HTTP-RUDP-SRV]   Timeout/Invalido seq=17 tent 1/10
+[02:22:25.540013] [HTTP-RUDP-SRV]   Timeout/Invalido seq=23 tent 1/10
+[02:22:28.647715] [HTTP-RUDP-SRV]   Timeout/Invalido seq=24 tent 1/10
+[02:22:31.754944] [HTTP-RUDP-SRV]   Timeout/Invalido seq=25 tent 1/10
+[02:22:36.877493] [HTTP-RUDP-SRV]   Timeout/Invalido seq=46 tent 1/10
+[02:22:40.788930] [HTTP-RUDP-SRV]   Timeout/Invalido seq=55 tent 1/10
+[02:22:45.307252] [HTTP-RUDP-SRV]   Timeout/Invalido seq=70 tent 1/10
+[02:22:48.414988] [HTTP-RUDP-SRV]   Timeout/Invalido seq=71 tent 1/10
+[02:22:52.228509] [HTTP-RUDP-SRV]   Timeout/Invalido seq=79 tent 1/10
+[02:22:56.042089] [HTTP-RUDP-SRV]   Timeout/Invalido seq=87 tent 1/10
+[02:22:59.553073] [HTTP-RUDP-SRV]   Timeout/Invalido seq=92 tent 1/10
+[02:23:03.164867] [HTTP-RUDP-SRV]   Timeout/Invalido seq=98 tent 1/10
+[02:23:07.484821] [HTTP-RUDP-SRV]   Timeout/Invalido seq=111 tent 1/10
+[02:23:13.016202] [HTTP-RUDP-SRV]   Timeout/Invalido seq=136 tent 1/10
+[02:23:17.135393] [HTTP-RUDP-SRV]   Timeout/Invalido seq=147 tent 1/10
+[02:23:20.344008] [HTTP-RUDP-SRV]   Timeout/Invalido seq=149 tent 1/10
+[02:23:23.957395] [HTTP-RUDP-SRV]   Timeout/Invalido seq=155 tent 1/10
+[02:23:27.672420] [HTTP-RUDP-SRV]   Timeout/Invalido seq=162 tent 1/10
+[02:23:33.820702] [HTTP-RUDP-SRV]   Timeout/Invalido seq=193 tent 1/10
+[02:23:36.828064] [HTTP-RUDP-SRV]   Timeout/Invalido seq=193 tent 2/10
+[02:23:42.468047] [HTTP-RUDP-SRV]   Timeout/Invalido seq=219 tent 1/10
+[02:23:45.576181] [HTTP-RUDP-SRV]   Timeout/Invalido seq=220 tent 1/10
+[02:23:49.597411] [HTTP-RUDP-SRV]   Timeout/Invalido seq=230 tent 1/10
+[02:23:53.009974] [HTTP-RUDP-SRV]   Timeout/Invalido seq=234 tent 1/10
+[02:23:56.523328] [HTTP-RUDP-SRV]   Timeout/Invalido seq=239 tent 1/10
+[02:23:59.935541] [HTTP-RUDP-SRV]   Timeout/Invalido seq=243 tent 1/10
+[02:24:03.449326] [HTTP-RUDP-SRV]   Timeout/Invalido seq=248 tent 1/10
+[02:24:04.468125] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 134.2323s | 0.0625 Mbps
+[02:24:36.901137] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:24:39.164357] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 43852)
+[02:24:39.168006] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 43852)
+[02:24:42.277416] [HTTP-RUDP-SRV] ('172.20.0.20', 43852) | GET /arquivo_1mb.bin
+[02:24:45.287070] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:24:48.295041] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:24:51.302143] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:24:54.309413] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:24:57.316549] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:25:00.323592] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:25:03.330332] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:25:06.335928] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 8/10
+[02:25:09.861197] [HTTP-RUDP-SRV]   Timeout/Invalido seq=6 tent 1/10
+[02:25:12.863943] [HTTP-RUDP-SRV]   Timeout/Invalido seq=6 tent 2/10
+[02:25:17.077860] [HTTP-RUDP-SRV]   Timeout/Invalido seq=18 tent 1/10
+[02:25:20.688445] [HTTP-RUDP-SRV]   Timeout/Invalido seq=24 tent 1/10
+[02:25:24.198942] [HTTP-RUDP-SRV]   Timeout/Invalido seq=29 tent 1/10
+[02:25:27.707951] [HTTP-RUDP-SRV]   Timeout/Invalido seq=34 tent 1/10
+[02:25:30.714618] [HTTP-RUDP-SRV]   Timeout/Invalido seq=34 tent 2/10
+[02:25:39.163135] [HTTP-RUDP-SRV]   Timeout/Invalido seq=88 tent 1/10
+[02:25:42.772403] [HTTP-RUDP-SRV]   Timeout/Invalido seq=94 tent 1/10
+[02:25:48.707493] [HTTP-RUDP-SRV]   Timeout/Invalido seq=123 tent 1/10
+[02:25:51.714684] [HTTP-RUDP-SRV]   Timeout/Invalido seq=123 tent 2/10
+[02:25:54.821047] [HTTP-RUDP-SRV]   Timeout/Invalido seq=124 tent 1/10
+[02:25:59.849435] [HTTP-RUDP-SRV]   Timeout/Invalido seq=144 tent 1/10
+[02:26:04.574137] [HTTP-RUDP-SRV]   Timeout/Invalido seq=161 tent 1/10
+[02:26:09.706776] [HTTP-RUDP-SRV]   Timeout/Invalido seq=182 tent 1/10
+[02:26:13.623763] [HTTP-RUDP-SRV]   Timeout/Invalido seq=191 tent 1/10
+[02:26:17.541962] [HTTP-RUDP-SRV]   Timeout/Invalido seq=200 tent 1/10
+[02:26:21.460434] [HTTP-RUDP-SRV]   Timeout/Invalido seq=209 tent 1/10
+[02:26:25.074252] [HTTP-RUDP-SRV]   Timeout/Invalido seq=215 tent 1/10
+[02:26:28.283262] [HTTP-RUDP-SRV]   Timeout/Invalido seq=217 tent 1/10
+[02:26:31.492596] [HTTP-RUDP-SRV]   Timeout/Invalido seq=219 tent 1/10
+[02:26:35.208688] [HTTP-RUDP-SRV]   Timeout/Invalido seq=226 tent 1/10
+[02:26:39.127986] [HTTP-RUDP-SRV]   Timeout/Invalido seq=235 tent 1/10
+[02:26:42.841747] [HTTP-RUDP-SRV]   Timeout/Invalido seq=242 tent 1/10
+[02:26:46.050888] [HTTP-RUDP-SRV]   Timeout/Invalido seq=244 tent 1/10
+[02:26:49.158346] [HTTP-RUDP-SRV]   Timeout/Invalido seq=245 tent 1/10
+[02:26:53.382720] [HTTP-RUDP-SRV]   Timeout/Invalido seq=257 tent 1/10
+[02:26:53.486817] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 131.2113s | 0.0639 Mbps
+[02:27:25.929727] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:27:28.191685] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 53409)
+[02:27:28.196095] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 53409)
+[02:27:28.300460] [HTTP-RUDP-SRV] ('172.20.0.20', 53409) | GET /arquivo_1mb.bin
+[02:27:31.310053] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:27:34.317541] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:27:37.324890] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:27:40.330199] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:27:43.337087] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:27:46.344054] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:27:49.350901] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:27:53.981964] [HTTP-RUDP-SRV]   Timeout/Invalido seq=17 tent 1/10
+[02:27:56.988688] [HTTP-RUDP-SRV]   Timeout/Invalido seq=17 tent 2/10
+[02:28:01.606007] [HTTP-RUDP-SRV]   Timeout/Invalido seq=33 tent 1/10
+[02:28:05.016129] [HTTP-RUDP-SRV]   Timeout/Invalido seq=37 tent 1/10
+[02:28:08.929845] [HTTP-RUDP-SRV]   Timeout/Invalido seq=46 tent 1/10
+[02:28:12.337472] [HTTP-RUDP-SRV]   Timeout/Invalido seq=50 tent 1/10
+[02:28:15.546117] [HTTP-RUDP-SRV]   Timeout/Invalido seq=52 tent 1/10
+[02:28:19.964312] [HTTP-RUDP-SRV]   Timeout/Invalido seq=66 tent 1/10
+[02:28:23.676448] [HTTP-RUDP-SRV]   Timeout/Invalido seq=73 tent 1/10
+[02:28:28.498071] [HTTP-RUDP-SRV]   Timeout/Invalido seq=91 tent 1/10
+[02:28:31.706454] [HTTP-RUDP-SRV]   Timeout/Invalido seq=93 tent 1/10
+[02:28:36.127091] [HTTP-RUDP-SRV]   Timeout/Invalido seq=107 tent 1/10
+[02:28:39.435173] [HTTP-RUDP-SRV]   Timeout/Invalido seq=110 tent 1/10
+[02:28:42.540524] [HTTP-RUDP-SRV]   Timeout/Invalido seq=111 tent 1/10
+[02:28:45.647844] [HTTP-RUDP-SRV]   Timeout/Invalido seq=112 tent 1/10
+[02:28:49.968168] [HTTP-RUDP-SRV]   Timeout/Invalido seq=125 tent 1/10
+[02:28:54.289244] [HTTP-RUDP-SRV]   Timeout/Invalido seq=138 tent 1/10
+[02:28:58.408479] [HTTP-RUDP-SRV]   Timeout/Invalido seq=149 tent 1/10
+[02:29:02.325966] [HTTP-RUDP-SRV]   Timeout/Invalido seq=158 tent 1/10
+[02:29:06.145327] [HTTP-RUDP-SRV]   Timeout/Invalido seq=166 tent 1/10
+[02:29:09.253035] [HTTP-RUDP-SRV]   Timeout/Invalido seq=167 tent 1/10
+[02:29:12.358608] [HTTP-RUDP-SRV]   Timeout/Invalido seq=168 tent 1/10
+[02:29:15.669033] [HTTP-RUDP-SRV]   Timeout/Invalido seq=171 tent 1/10
+[02:29:18.776918] [HTTP-RUDP-SRV]   Timeout/Invalido seq=172 tent 1/10
+[02:29:22.189165] [HTTP-RUDP-SRV]   Timeout/Invalido seq=176 tent 1/10
+[02:29:26.107250] [HTTP-RUDP-SRV]   Timeout/Invalido seq=185 tent 1/10
+[02:29:29.519921] [HTTP-RUDP-SRV]   Timeout/Invalido seq=189 tent 1/10
+[02:29:32.728972] [HTTP-RUDP-SRV]   Timeout/Invalido seq=191 tent 1/10
+[02:29:36.344027] [HTTP-RUDP-SRV]   Timeout/Invalido seq=197 tent 1/10
+[02:29:40.160438] [HTTP-RUDP-SRV]   Timeout/Invalido seq=205 tent 1/10
+[02:29:43.167533] [HTTP-RUDP-SRV]   Timeout/Invalido seq=205 tent 2/10
+[02:29:48.407227] [HTTP-RUDP-SRV]   Timeout/Invalido seq=227 tent 1/10
+[02:29:52.124539] [HTTP-RUDP-SRV]   Timeout/Invalido seq=234 tent 1/10
+[02:29:55.435372] [HTTP-RUDP-SRV]   Timeout/Invalido seq=237 tent 1/10
+[02:29:58.645211] [HTTP-RUDP-SRV]   Timeout/Invalido seq=239 tent 1/10
+[02:30:02.465854] [HTTP-RUDP-SRV]   Timeout/Invalido seq=247 tent 1/10
+[02:30:05.879710] [HTTP-RUDP-SRV]   Timeout/Invalido seq=251 tent 1/10
+[02:30:09.394593] [HTTP-RUDP-SRV]   Timeout/Invalido seq=256 tent 1/10
+[02:30:09.600818] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 161.3043s | 0.0520 Mbps
+[02:30:09.704947] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:30:11.966897] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 49376)
+[02:30:11.970686] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 49376)
+[02:30:12.075841] [HTTP-RUDP-SRV] ('172.20.0.20', 49376) | GET /arquivo_1mb.bin
+[02:30:15.086351] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:30:18.093427] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:30:21.100648] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:30:24.108365] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:30:27.115294] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:30:30.121496] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:30:33.129014] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:30:37.963203] [HTTP-RUDP-SRV]   Timeout/Invalido seq=19 tent 1/10
+[02:30:41.974882] [HTTP-RUDP-SRV]   Timeout/Invalido seq=29 tent 1/10
+[02:30:44.981754] [HTTP-RUDP-SRV]   Timeout/Invalido seq=29 tent 2/10
+[02:30:48.290917] [HTTP-RUDP-SRV]   Timeout/Invalido seq=32 tent 1/10
+[02:30:53.716352] [HTTP-RUDP-SRV]   Timeout/Invalido seq=56 tent 1/10
+[02:30:57.731978] [HTTP-RUDP-SRV]   Timeout/Invalido seq=66 tent 1/10
+[02:31:04.977515] [HTTP-RUDP-SRV]   Timeout/Invalido seq=108 tent 1/10
+[02:31:08.186512] [HTTP-RUDP-SRV]   Timeout/Invalido seq=110 tent 1/10
+[02:31:11.494671] [HTTP-RUDP-SRV]   Timeout/Invalido seq=113 tent 1/10
+[02:31:14.704049] [HTTP-RUDP-SRV]   Timeout/Invalido seq=115 tent 1/10
+[02:31:19.228079] [HTTP-RUDP-SRV]   Timeout/Invalido seq=130 tent 1/10
+[02:31:22.841121] [HTTP-RUDP-SRV]   Timeout/Invalido seq=136 tent 1/10
+[02:31:26.659513] [HTTP-RUDP-SRV]   Timeout/Invalido seq=144 tent 1/10
+[02:31:29.767065] [HTTP-RUDP-SRV]   Timeout/Invalido seq=145 tent 1/10
+[02:31:32.874945] [HTTP-RUDP-SRV]   Timeout/Invalido seq=146 tent 1/10
+[02:31:36.386850] [HTTP-RUDP-SRV]   Timeout/Invalido seq=151 tent 1/10
+[02:31:40.200946] [HTTP-RUDP-SRV]   Timeout/Invalido seq=159 tent 1/10
+[02:31:43.308701] [HTTP-RUDP-SRV]   Timeout/Invalido seq=160 tent 1/10
+[02:31:46.516846] [HTTP-RUDP-SRV]   Timeout/Invalido seq=162 tent 1/10
+[02:31:49.523483] [HTTP-RUDP-SRV]   Timeout/Invalido seq=162 tent 2/10
+[02:31:52.530577] [HTTP-RUDP-SRV]   Timeout/Invalido seq=162 tent 3/10
+[02:31:56.651742] [HTTP-RUDP-SRV]   Timeout/Invalido seq=173 tent 1/10
+[02:31:59.860928] [HTTP-RUDP-SRV]   Timeout/Invalido seq=175 tent 1/10
+[02:32:04.795134] [HTTP-RUDP-SRV]   Timeout/Invalido seq=194 tent 1/10
+[02:32:07.802016] [HTTP-RUDP-SRV]   Timeout/Invalido seq=194 tent 2/10
+[02:32:11.110945] [HTTP-RUDP-SRV]   Timeout/Invalido seq=197 tent 1/10
+[02:32:14.725038] [HTTP-RUDP-SRV]   Timeout/Invalido seq=203 tent 1/10
+[02:32:18.137108] [HTTP-RUDP-SRV]   Timeout/Invalido seq=207 tent 1/10
+[02:32:22.867820] [HTTP-RUDP-SRV]   Timeout/Invalido seq=224 tent 1/10
+[02:32:26.328607] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 134.2543s | 0.0625 Mbps
+[02:32:26.433161] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:32:31.715946] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 43549)
+[02:32:31.719702] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 43549)
+[02:32:31.824909] [HTTP-RUDP-SRV] ('172.20.0.20', 43549) | GET /arquivo_1mb.bin
+[02:32:34.834526] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:32:37.841548] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:32:40.847118] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:32:43.854609] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:32:46.861818] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:32:49.868821] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:32:52.876173] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:32:56.299051] [HTTP-RUDP-SRV]   Timeout/Invalido seq=5 tent 1/10
+[02:32:59.608109] [HTTP-RUDP-SRV]   Timeout/Invalido seq=8 tent 1/10
+[02:33:04.427229] [HTTP-RUDP-SRV]   Timeout/Invalido seq=26 tent 1/10
+[02:33:08.945172] [HTTP-RUDP-SRV]   Timeout/Invalido seq=41 tent 1/10
+[02:33:12.150590] [HTTP-RUDP-SRV]   Timeout/Invalido seq=43 tent 1/10
+[02:33:15.358859] [HTTP-RUDP-SRV]   Timeout/Invalido seq=45 tent 1/10
+[02:33:19.474404] [HTTP-RUDP-SRV]   Timeout/Invalido seq=56 tent 1/10
+[02:33:22.682840] [HTTP-RUDP-SRV]   Timeout/Invalido seq=58 tent 1/10
+[02:33:26.999891] [HTTP-RUDP-SRV]   Timeout/Invalido seq=71 tent 1/10
+[02:33:30.611948] [HTTP-RUDP-SRV]   Timeout/Invalido seq=77 tent 1/10
+[02:33:33.618948] [HTTP-RUDP-SRV]   Timeout/Invalido seq=77 tent 2/10
+[02:33:40.358117] [HTTP-RUDP-SRV]   Timeout/Invalido seq=114 tent 1/10
+[02:33:44.072627] [HTTP-RUDP-SRV]   Timeout/Invalido seq=121 tent 1/10
+[02:33:48.597151] [HTTP-RUDP-SRV]   Timeout/Invalido seq=136 tent 1/10
+[02:33:53.426980] [HTTP-RUDP-SRV]   Timeout/Invalido seq=154 tent 1/10
+[02:33:56.939868] [HTTP-RUDP-SRV]   Timeout/Invalido seq=159 tent 1/10
+[02:34:00.453380] [HTTP-RUDP-SRV]   Timeout/Invalido seq=164 tent 1/10
+[02:34:03.763563] [HTTP-RUDP-SRV]   Timeout/Invalido seq=167 tent 1/10
+[02:34:07.073755] [HTTP-RUDP-SRV]   Timeout/Invalido seq=170 tent 1/10
+[02:34:10.382850] [HTTP-RUDP-SRV]   Timeout/Invalido seq=173 tent 1/10
+[02:34:15.415934] [HTTP-RUDP-SRV]   Timeout/Invalido seq=193 tent 1/10
+[02:34:18.625126] [HTTP-RUDP-SRV]   Timeout/Invalido seq=195 tent 1/10
+[02:34:21.632329] [HTTP-RUDP-SRV]   Timeout/Invalido seq=195 tent 2/10
+[02:34:24.739764] [HTTP-RUDP-SRV]   Timeout/Invalido seq=196 tent 1/10
+[02:34:27.847284] [HTTP-RUDP-SRV]   Timeout/Invalido seq=197 tent 1/10
+[02:34:31.462174] [HTTP-RUDP-SRV]   Timeout/Invalido seq=203 tent 1/10
+[02:34:34.569763] [HTTP-RUDP-SRV]   Timeout/Invalido seq=204 tent 1/10
+[02:34:38.286062] [HTTP-RUDP-SRV]   Timeout/Invalido seq=211 tent 1/10
+[02:34:41.291072] [HTTP-RUDP-SRV]   Timeout/Invalido seq=211 tent 2/10
+[02:34:45.515303] [HTTP-RUDP-SRV]   Timeout/Invalido seq=223 tent 1/10
+[02:34:48.620720] [HTTP-RUDP-SRV]   Timeout/Invalido seq=224 tent 1/10
+[02:34:52.032812] [HTTP-RUDP-SRV]   Timeout/Invalido seq=228 tent 1/10
+[02:34:55.546267] [HTTP-RUDP-SRV]   Timeout/Invalido seq=233 tent 1/10
+[02:34:59.770692] [HTTP-RUDP-SRV]   Timeout/Invalido seq=245 tent 1/10
+[02:35:03.082975] [HTTP-RUDP-SRV]   Timeout/Invalido seq=248 tent 1/10
+[02:35:06.089792] [HTTP-RUDP-SRV]   Timeout/Invalido seq=248 tent 2/10
+[02:35:09.096669] [HTTP-RUDP-SRV]   Timeout/Invalido seq=248 tent 3/10
+[02:35:12.303905] [HTTP-RUDP-SRV]   Timeout/Invalido seq=250 tent 1/10
+[02:35:15.920060] [HTTP-RUDP-SRV]   Timeout/Invalido seq=256 tent 1/10
+[02:35:16.126432] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 164.3077s | 0.0511 Mbps
+[02:35:16.230817] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:35:20.497538] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 55125)
+[02:35:20.501487] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 55125)
+[02:35:20.605934] [HTTP-RUDP-SRV] ('172.20.0.20', 55125) | GET /arquivo_1mb.bin
+[02:35:23.616033] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:35:26.623263] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:35:29.630392] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:35:32.637711] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:35:35.645154] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:35:38.650687] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:35:41.655397] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:35:47.896244] [HTTP-RUDP-SRV]   Timeout/Invalido seq=33 tent 1/10
+[02:35:53.119968] [HTTP-RUDP-SRV]   Timeout/Invalido seq=55 tent 1/10
+[02:35:58.346264] [HTTP-RUDP-SRV]   Timeout/Invalido seq=77 tent 1/10
+[02:36:01.353614] [HTTP-RUDP-SRV]   Timeout/Invalido seq=77 tent 2/10
+[02:36:05.268420] [HTTP-RUDP-SRV]   Timeout/Invalido seq=86 tent 1/10
+[02:36:09.081683] [HTTP-RUDP-SRV]   Timeout/Invalido seq=94 tent 1/10
+[02:36:14.611360] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 1/10
+[02:36:17.618084] [HTTP-RUDP-SRV]   Timeout/Invalido seq=119 tent 2/10
+[02:36:22.040943] [HTTP-RUDP-SRV]   Timeout/Invalido seq=133 tent 1/10
+[02:36:27.071597] [HTTP-RUDP-SRV]   Timeout/Invalido seq=153 tent 1/10
+[02:36:30.584052] [HTTP-RUDP-SRV]   Timeout/Invalido seq=158 tent 1/10
+[02:36:34.705501] [HTTP-RUDP-SRV]   Timeout/Invalido seq=169 tent 1/10
+[02:36:37.914171] [HTTP-RUDP-SRV]   Timeout/Invalido seq=171 tent 1/10
+[02:36:41.628776] [HTTP-RUDP-SRV]   Timeout/Invalido seq=178 tent 1/10
+[02:36:45.243326] [HTTP-RUDP-SRV]   Timeout/Invalido seq=184 tent 1/10
+[02:36:48.250155] [HTTP-RUDP-SRV]   Timeout/Invalido seq=184 tent 2/10
+[02:36:51.356370] [HTTP-RUDP-SRV]   Timeout/Invalido seq=185 tent 1/10
+[02:36:54.664339] [HTTP-RUDP-SRV]   Timeout/Invalido seq=188 tent 1/10
+[02:36:57.671575] [HTTP-RUDP-SRV]   Timeout/Invalido seq=188 tent 2/10
+[02:37:02.808449] [HTTP-RUDP-SRV]   Timeout/Invalido seq=209 tent 1/10
+[02:37:06.220713] [HTTP-RUDP-SRV]   Timeout/Invalido seq=213 tent 1/10
+[02:37:09.836302] [HTTP-RUDP-SRV]   Timeout/Invalido seq=219 tent 1/10
+[02:37:14.566483] [HTTP-RUDP-SRV]   Timeout/Invalido seq=236 tent 1/10
+[02:37:18.284647] [HTTP-RUDP-SRV]   Timeout/Invalido seq=243 tent 1/10
+[02:37:19.812940] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 119.2089s | 0.0704 Mbps
+[02:37:19.918108] [HTTP-RUDP-SRV] Sessao encerrada
+
+[02:37:22.177281] [HTTP-RUDP-SRV] SYN de ('172.20.0.20', 48206)
+[02:37:22.181043] [HTTP-RUDP-SRV]   -> SYN-ACK para ('172.20.0.20', 48206)
+[02:37:25.292780] [HTTP-RUDP-SRV] ('172.20.0.20', 48206) | GET /arquivo_1mb.bin
+[02:37:28.302523] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 1/10
+[02:37:31.309488] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 2/10
+[02:37:34.316728] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 3/10
+[02:37:37.323895] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 4/10
+[02:37:40.329187] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 5/10
+[02:37:43.337187] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 6/10
+[02:37:46.343947] [HTTP-RUDP-SRV]   Timeout/Invalido seq=1 tent 7/10
+[02:37:50.473256] [HTTP-RUDP-SRV]   Timeout/Invalido seq=12 tent 1/10
+[02:37:53.581386] [HTTP-RUDP-SRV]   Timeout/Invalido seq=13 tent 1/10
+[02:37:58.703508] [HTTP-RUDP-SRV]   Timeout/Invalido seq=34 tent 1/10
+[02:38:02.214378] [HTTP-RUDP-SRV]   Timeout/Invalido seq=39 tent 1/10
+[02:38:06.833591] [HTTP-RUDP-SRV]   Timeout/Invalido seq=55 tent 1/10
+[02:38:10.645855] [HTTP-RUDP-SRV]   Timeout/Invalido seq=63 tent 1/10
+[02:38:14.963119] [HTTP-RUDP-SRV]   Timeout/Invalido seq=76 tent 1/10
+[02:38:17.970038] [HTTP-RUDP-SRV]   Timeout/Invalido seq=76 tent 2/10
+[02:38:21.683169] [HTTP-RUDP-SRV]   Timeout/Invalido seq=83 tent 1/10
+[02:38:28.224151] [HTTP-RUDP-SRV]   Timeout/Invalido seq=118 tent 1/10
+[02:38:31.433860] [HTTP-RUDP-SRV]   Timeout/Invalido seq=120 tent 1/10
+[02:38:35.452008] [HTTP-RUDP-SRV]   Timeout/Invalido seq=130 tent 1/10
+[02:38:38.661084] [HTTP-RUDP-SRV]   Timeout/Invalido seq=132 tent 1/10
+[02:38:41.665959] [HTTP-RUDP-SRV]   Timeout/Invalido seq=132 tent 2/10
+[02:38:45.684667] [HTTP-RUDP-SRV]   Timeout/Invalido seq=142 tent 1/10
+[02:38:48.691600] [HTTP-RUDP-SRV]   Timeout/Invalido seq=142 tent 2/10
+[02:38:52.103728] [HTTP-RUDP-SRV]   Timeout/Invalido seq=146 tent 1/10
+[02:38:55.110623] [HTTP-RUDP-SRV]   Timeout/Invalido seq=146 tent 2/10
+[02:38:59.940836] [HTTP-RUDP-SRV]   Timeout/Invalido seq=164 tent 1/10
+[02:39:04.062407] [HTTP-RUDP-SRV]   Timeout/Invalido seq=175 tent 1/10
+[02:39:07.272172] [HTTP-RUDP-SRV]   Timeout/Invalido seq=177 tent 1/10
+[02:39:10.479068] [HTTP-RUDP-SRV]   Timeout/Invalido seq=179 tent 1/10
+[02:39:13.688306] [HTTP-RUDP-SRV]   Timeout/Invalido seq=181 tent 1/10
+[02:39:17.100461] [HTTP-RUDP-SRV]   Timeout/Invalido seq=185 tent 1/10
+[02:39:20.613502] [HTTP-RUDP-SRV]   Timeout/Invalido seq=190 tent 1/10
+[02:39:25.242123] [HTTP-RUDP-SRV]   Timeout/Invalido seq=206 tent 1/10
+[02:39:28.350162] [HTTP-RUDP-SRV]   Timeout/Invalido seq=207 tent 1/10
+[02:39:32.066419] [HTTP-RUDP-SRV]   Timeout/Invalido seq=214 tent 1/10
+[02:39:35.579940] [HTTP-RUDP-SRV]   Timeout/Invalido seq=219 tent 1/10
+[02:39:39.904897] [HTTP-RUDP-SRV]   Timeout/Invalido seq=232 tent 1/10
+[02:39:43.416424] [HTTP-RUDP-SRV]   Timeout/Invalido seq=237 tent 1/10
+[02:39:47.436024] [HTTP-RUDP-SRV]   Timeout/Invalido seq=247 tent 1/10
+[02:39:48.558296] [HTTP-RUDP-SRV]   -> 200 OK | /arquivo_1mb.bin | 1048576B | 143.2696s | 0.0586 Mbps
+[02:39:48.662452] [HTTP-RUDP-SRV] Sessao encerrada
+

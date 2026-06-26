@@ -1,0 +1,512 @@
+[12:31:08.381939] [DNS] Zona carregada: 5 registros
+[12:31:08.387064] [DNS] Servidor DNS em 172.20.0.30:53
+[12:31:08.399145] [DNS] Aguardando consultas...
+[17:23:32.447883] [DNS] Zona carregada: 5 registros
+[17:23:32.462203] [DNS] Servidor DNS em 172.20.0.30:53
+[17:23:32.475706] [DNS] Aguardando consultas...
+[17:27:12.497717] [DNS] Query de ('172.20.0.20', 39518): 'webserver.local'
+[17:27:12.503935] [DNS]   -> webserver.local = 172.20.0.10
+[00:58:24.714073] [DNS] Zona carregada: 5 registros
+[00:58:24.776293] [DNS] Servidor DNS em 172.20.0.30:53
+[00:58:24.789024] [DNS] Aguardando consultas...
+[01:01:01.965366] [DNS] Query de ('172.20.0.20', 43084): 'webserver.local'
+[01:01:01.975422] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:03.746953] [DNS] Query de ('172.20.0.20', 34979): 'webserver.local'
+[01:01:03.750608] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:05.471280] [DNS] Query de ('172.20.0.20', 48081): 'webserver.local'
+[01:01:05.475219] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:07.225826] [DNS] Query de ('172.20.0.20', 33824): 'webserver.local'
+[01:01:07.230326] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:08.968234] [DNS] Query de ('172.20.0.20', 47021): 'webserver.local'
+[01:01:08.971668] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:10.729100] [DNS] Query de ('172.20.0.20', 38935): 'webserver.local'
+[01:01:10.742788] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:12.452709] [DNS] Query de ('172.20.0.20', 47700): 'webserver.local'
+[01:01:12.456434] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:14.171684] [DNS] Query de ('172.20.0.20', 53116): 'webserver.local'
+[01:01:14.175540] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:15.993066] [DNS] Query de ('172.20.0.20', 44357): 'webserver.local'
+[01:01:15.996786] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:17.712411] [DNS] Query de ('172.20.0.20', 41665): 'webserver.local'
+[01:01:17.715949] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:20.351508] [DNS] Query de ('172.20.0.20', 51125): 'webserver.local'
+[01:01:20.355700] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:37.711248] [DNS] Query de ('172.20.0.20', 55610): 'webserver.local'
+[01:01:37.715055] [DNS]   -> webserver.local = 172.20.0.10
+[01:01:55.121720] [DNS] Query de ('172.20.0.20', 59512): 'webserver.local'
+[01:01:55.126083] [DNS]   -> webserver.local = 172.20.0.10
+[01:02:12.585136] [DNS] Query de ('172.20.0.20', 37825): 'webserver.local'
+[01:02:12.589078] [DNS]   -> webserver.local = 172.20.0.10
+[01:02:30.125379] [DNS] Query de ('172.20.0.20', 57029): 'webserver.local'
+[01:02:30.129719] [DNS]   -> webserver.local = 172.20.0.10
+[01:02:47.674528] [DNS] Query de ('172.20.0.20', 60203): 'webserver.local'
+[01:02:47.677980] [DNS]   -> webserver.local = 172.20.0.10
+[01:03:05.254234] [DNS] Query de ('172.20.0.20', 50737): 'webserver.local'
+[01:03:05.258289] [DNS]   -> webserver.local = 172.20.0.10
+[01:03:22.882363] [DNS] Query de ('172.20.0.20', 40607): 'webserver.local'
+[01:03:22.886055] [DNS]   -> webserver.local = 172.20.0.10
+[01:03:40.488442] [DNS] Query de ('172.20.0.20', 57797): 'webserver.local'
+[01:03:40.491905] [DNS]   -> webserver.local = 172.20.0.10
+[01:03:58.076686] [DNS] Query de ('172.20.0.20', 40633): 'webserver.local'
+[01:03:58.080438] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:16.549419] [DNS] Query de ('172.20.0.20', 45089): 'webserver.local'
+[01:04:16.553545] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:18.457469] [DNS] Query de ('172.20.0.20', 55523): 'webserver.local'
+[01:04:18.460880] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:20.233981] [DNS] Query de ('172.20.0.20', 60517): 'webserver.local'
+[01:04:20.237306] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:22.027596] [DNS] Query de ('172.20.0.20', 43924): 'webserver.local'
+[01:04:22.031317] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:23.847256] [DNS] Query de ('172.20.0.20', 36752): 'webserver.local'
+[01:04:23.850930] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:25.632331] [DNS] Query de ('172.20.0.20', 38822): 'webserver.local'
+[01:04:25.635932] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:27.414783] [DNS] Query de ('172.20.0.20', 43170): 'webserver.local'
+[01:04:27.418447] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:29.205449] [DNS] Query de ('172.20.0.20', 42748): 'webserver.local'
+[01:04:29.209655] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:31.016713] [DNS] Query de ('172.20.0.20', 43118): 'webserver.local'
+[01:04:31.020741] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:32.828624] [DNS] Query de ('172.20.0.20', 40686): 'webserver.local'
+[01:04:32.832399] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:35.521671] [DNS] Query de ('172.20.0.20', 51349): 'webserver.local'
+[01:04:35.525276] [DNS]   -> webserver.local = 172.20.0.10
+[01:04:53.108561] [DNS] Query de ('172.20.0.20', 41343): 'webserver.local'
+[01:04:53.112309] [DNS]   -> webserver.local = 172.20.0.10
+[01:05:10.703545] [DNS] Query de ('172.20.0.20', 38160): 'webserver.local'
+[01:05:10.713895] [DNS]   -> webserver.local = 172.20.0.10
+[01:05:28.312309] [DNS] Query de ('172.20.0.20', 56464): 'webserver.local'
+[01:05:28.316373] [DNS]   -> webserver.local = 172.20.0.10
+[01:05:45.932191] [DNS] Query de ('172.20.0.20', 59466): 'webserver.local'
+[01:05:45.935642] [DNS]   -> webserver.local = 172.20.0.10
+[01:06:03.578298] [DNS] Query de ('172.20.0.20', 40400): 'webserver.local'
+[01:06:03.582361] [DNS]   -> webserver.local = 172.20.0.10
+[01:06:21.132985] [DNS] Query de ('172.20.0.20', 33066): 'webserver.local'
+[01:06:21.136474] [DNS]   -> webserver.local = 172.20.0.10
+[01:06:38.784118] [DNS] Query de ('172.20.0.20', 37201): 'webserver.local'
+[01:06:38.787684] [DNS]   -> webserver.local = 172.20.0.10
+[01:06:56.372344] [DNS] Query de ('172.20.0.20', 45910): 'webserver.local'
+[01:06:56.376394] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:13.937274] [DNS] Query de ('172.20.0.20', 34798): 'webserver.local'
+[01:07:13.940899] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:32.363610] [DNS] Query de ('172.20.0.20', 59314): 'webserver.local'
+[01:07:32.366886] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:34.283921] [DNS] Query de ('172.20.0.20', 58206): 'webserver.local'
+[01:07:34.287143] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:36.146269] [DNS] Query de ('172.20.0.20', 47374): 'webserver.local'
+[01:07:36.149621] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:38.036491] [DNS] Query de ('172.20.0.20', 37053): 'webserver.local'
+[01:07:38.041000] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:39.901826] [DNS] Query de ('172.20.0.20', 57364): 'webserver.local'
+[01:07:39.905161] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:41.788832] [DNS] Query de ('172.20.0.20', 48605): 'webserver.local'
+[01:07:41.792314] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:43.666247] [DNS] Query de ('172.20.0.20', 39490): 'webserver.local'
+[01:07:43.670017] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:45.540603] [DNS] Query de ('172.20.0.20', 55454): 'webserver.local'
+[01:07:45.544311] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:47.410884] [DNS] Query de ('172.20.0.20', 36004): 'webserver.local'
+[01:07:47.414474] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:49.299274] [DNS] Query de ('172.20.0.20', 40064): 'webserver.local'
+[01:07:49.302973] [DNS]   -> webserver.local = 172.20.0.10
+[01:07:52.167441] [DNS] Query de ('172.20.0.20', 54392): 'webserver.local'
+[01:07:52.171076] [DNS]   -> webserver.local = 172.20.0.10
+[01:08:24.409853] [DNS] Query de ('172.20.0.20', 35791): 'webserver.local'
+[01:08:24.413823] [DNS]   -> webserver.local = 172.20.0.10
+[01:13:22.678783] [DNS] Zona carregada: 5 registros
+[01:13:22.682487] [DNS] Servidor DNS em 172.20.0.30:53
+[01:13:22.697674] [DNS] Aguardando consultas...
+[01:16:32.807880] [DNS] Query de ('172.20.0.20', 55606): 'webserver.local'
+[01:16:32.812959] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:34.563487] [DNS] Query de ('172.20.0.20', 48145): 'webserver.local'
+[01:16:34.567243] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:36.354091] [DNS] Query de ('172.20.0.20', 57453): 'webserver.local'
+[01:16:36.357464] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:38.095985] [DNS] Query de ('172.20.0.20', 57632): 'webserver.local'
+[01:16:38.099354] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:39.831804] [DNS] Query de ('172.20.0.20', 39217): 'webserver.local'
+[01:16:39.835466] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:41.594029] [DNS] Query de ('172.20.0.20', 37235): 'webserver.local'
+[01:16:41.597572] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:43.355650] [DNS] Query de ('172.20.0.20', 51010): 'webserver.local'
+[01:16:43.359299] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:45.125663] [DNS] Query de ('172.20.0.20', 51057): 'webserver.local'
+[01:16:45.129338] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:46.871688] [DNS] Query de ('172.20.0.20', 44449): 'webserver.local'
+[01:16:46.875324] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:48.610547] [DNS] Query de ('172.20.0.20', 46555): 'webserver.local'
+[01:16:48.614501] [DNS]   -> webserver.local = 172.20.0.10
+[01:16:51.249075] [DNS] Query de ('172.20.0.20', 44975): 'webserver.local'
+[01:16:51.252982] [DNS]   -> webserver.local = 172.20.0.10
+[01:17:08.836158] [DNS] Query de ('172.20.0.20', 57677): 'webserver.local'
+[01:17:08.839450] [DNS]   -> webserver.local = 172.20.0.10
+[01:17:26.434268] [DNS] Query de ('172.20.0.20', 33720): 'webserver.local'
+[01:17:26.437584] [DNS]   -> webserver.local = 172.20.0.10
+[01:17:44.014669] [DNS] Query de ('172.20.0.20', 44095): 'webserver.local'
+[01:17:44.018165] [DNS]   -> webserver.local = 172.20.0.10
+[01:18:01.602462] [DNS] Query de ('172.20.0.20', 44401): 'webserver.local'
+[01:18:01.605955] [DNS]   -> webserver.local = 172.20.0.10
+[01:18:19.199576] [DNS] Query de ('172.20.0.20', 52168): 'webserver.local'
+[01:18:19.203086] [DNS]   -> webserver.local = 172.20.0.10
+[01:18:51.436428] [DNS] Query de ('172.20.0.20', 57961): 'webserver.local'
+[01:18:51.441037] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:37.199975] [DNS] Query de ('172.20.0.20', 51659): 'webserver.local'
+[01:19:37.204226] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:38.937783] [DNS] Query de ('172.20.0.20', 39044): 'webserver.local'
+[01:19:38.941932] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:40.669897] [DNS] Query de ('172.20.0.20', 57407): 'webserver.local'
+[01:19:40.673656] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:42.424234] [DNS] Query de ('172.20.0.20', 37984): 'webserver.local'
+[01:19:42.428287] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:44.161246] [DNS] Query de ('172.20.0.20', 43738): 'webserver.local'
+[01:19:44.165254] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:45.899678] [DNS] Query de ('172.20.0.20', 33843): 'webserver.local'
+[01:19:45.903628] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:47.639267] [DNS] Query de ('172.20.0.20', 46213): 'webserver.local'
+[01:19:47.643617] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:49.392655] [DNS] Query de ('172.20.0.20', 53693): 'webserver.local'
+[01:19:49.396454] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:51.110788] [DNS] Query de ('172.20.0.20', 60654): 'webserver.local'
+[01:19:51.114897] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:52.859532] [DNS] Query de ('172.20.0.20', 53571): 'webserver.local'
+[01:19:52.863514] [DNS]   -> webserver.local = 172.20.0.10
+[01:19:55.471048] [DNS] Query de ('172.20.0.20', 56980): 'webserver.local'
+[01:19:55.474685] [DNS]   -> webserver.local = 172.20.0.10
+[01:20:19.076759] [DNS] Query de ('172.20.0.20', 56818): 'webserver.local'
+[01:20:19.080387] [DNS]   -> webserver.local = 172.20.0.10
+[01:20:42.692234] [DNS] Query de ('172.20.0.20', 33479): 'webserver.local'
+[01:20:42.695871] [DNS]   -> webserver.local = 172.20.0.10
+[01:21:06.288926] [DNS] Query de ('172.20.0.20', 36209): 'webserver.local'
+[01:21:06.293021] [DNS]   -> webserver.local = 172.20.0.10
+[01:21:29.891946] [DNS] Query de ('172.20.0.20', 43447): 'webserver.local'
+[01:21:29.895418] [DNS]   -> webserver.local = 172.20.0.10
+[01:21:53.534065] [DNS] Query de ('172.20.0.20', 33443): 'webserver.local'
+[01:21:53.537945] [DNS]   -> webserver.local = 172.20.0.10
+[01:22:17.128945] [DNS] Query de ('172.20.0.20', 44172): 'webserver.local'
+[01:22:17.132654] [DNS]   -> webserver.local = 172.20.0.10
+[01:22:40.751282] [DNS] Query de ('172.20.0.20', 49635): 'webserver.local'
+[01:22:40.755276] [DNS]   -> webserver.local = 172.20.0.10
+[01:23:04.378937] [DNS] Query de ('172.20.0.20', 50576): 'webserver.local'
+[01:23:04.382851] [DNS]   -> webserver.local = 172.20.0.10
+[01:23:27.984234] [DNS] Query de ('172.20.0.20', 56492): 'webserver.local'
+[01:23:27.988182] [DNS]   -> webserver.local = 172.20.0.10
+[01:23:52.467204] [DNS] Query de ('172.20.0.20', 49480): 'webserver.local'
+[01:23:52.471098] [DNS]   -> webserver.local = 172.20.0.10
+[01:23:54.266072] [DNS] Query de ('172.20.0.20', 56101): 'webserver.local'
+[01:23:54.269706] [DNS]   -> webserver.local = 172.20.0.10
+[01:23:56.066639] [DNS] Query de ('172.20.0.20', 52122): 'webserver.local'
+[01:23:56.070492] [DNS]   -> webserver.local = 172.20.0.10
+[01:23:57.879579] [DNS] Query de ('172.20.0.20', 46814): 'webserver.local'
+[01:23:57.882852] [DNS]   -> webserver.local = 172.20.0.10
+[01:23:59.680873] [DNS] Query de ('172.20.0.20', 45303): 'webserver.local'
+[01:23:59.684729] [DNS]   -> webserver.local = 172.20.0.10
+[01:24:01.516158] [DNS] Query de ('172.20.0.20', 38774): 'webserver.local'
+[01:24:01.519764] [DNS]   -> webserver.local = 172.20.0.10
+[01:24:03.325028] [DNS] Query de ('172.20.0.20', 48998): 'webserver.local'
+[01:24:03.329131] [DNS]   -> webserver.local = 172.20.0.10
+[01:24:05.119559] [DNS] Query de ('172.20.0.20', 50726): 'webserver.local'
+[01:24:05.134429] [DNS]   -> webserver.local = 172.20.0.10
+[01:24:06.910990] [DNS] Query de ('172.20.0.20', 60490): 'webserver.local'
+[01:24:06.914470] [DNS]   -> webserver.local = 172.20.0.10
+[01:24:08.698304] [DNS] Query de ('172.20.0.20', 52015): 'webserver.local'
+[01:24:08.701569] [DNS]   -> webserver.local = 172.20.0.10
+[01:24:11.385927] [DNS] Query de ('172.20.0.20', 50241): 'webserver.local'
+[01:24:11.390256] [DNS]   -> webserver.local = 172.20.0.10
+[01:24:36.050834] [DNS] Query de ('172.20.0.20', 32975): 'webserver.local'
+[01:24:36.054567] [DNS]   -> webserver.local = 172.20.0.10
+[01:25:00.727790] [DNS] Query de ('172.20.0.20', 48806): 'webserver.local'
+[01:25:00.731901] [DNS]   -> webserver.local = 172.20.0.10
+[01:25:25.420266] [DNS] Query de ('172.20.0.20', 48102): 'webserver.local'
+[01:25:25.424214] [DNS]   -> webserver.local = 172.20.0.10
+[01:25:50.082097] [DNS] Query de ('172.20.0.20', 60088): 'webserver.local'
+[01:25:50.085680] [DNS]   -> webserver.local = 172.20.0.10
+[01:26:14.752059] [DNS] Query de ('172.20.0.20', 38181): 'webserver.local'
+[01:26:14.755717] [DNS]   -> webserver.local = 172.20.0.10
+[01:26:39.445621] [DNS] Query de ('172.20.0.20', 48974): 'webserver.local'
+[01:26:39.449089] [DNS]   -> webserver.local = 172.20.0.10
+[01:27:04.139928] [DNS] Query de ('172.20.0.20', 39054): 'webserver.local'
+[01:27:04.143362] [DNS]   -> webserver.local = 172.20.0.10
+[01:27:28.836377] [DNS] Query de ('172.20.0.20', 54675): 'webserver.local'
+[01:27:28.840449] [DNS]   -> webserver.local = 172.20.0.10
+[01:27:53.523447] [DNS] Query de ('172.20.0.20', 60900): 'webserver.local'
+[01:27:53.527564] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:19.091312] [DNS] Query de ('172.20.0.20', 38652): 'webserver.local'
+[01:28:19.094898] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:20.980245] [DNS] Query de ('172.20.0.20', 37753): 'webserver.local'
+[01:28:20.984283] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:22.854228] [DNS] Query de ('172.20.0.20', 35520): 'webserver.local'
+[01:28:22.857897] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:24.724273] [DNS] Query de ('172.20.0.20', 46502): 'webserver.local'
+[01:28:24.727815] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:26.593021] [DNS] Query de ('172.20.0.20', 50391): 'webserver.local'
+[01:28:26.596450] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:28.456861] [DNS] Query de ('172.20.0.20', 58224): 'webserver.local'
+[01:28:28.460364] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:30.330663] [DNS] Query de ('172.20.0.20', 42880): 'webserver.local'
+[01:28:30.334264] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:32.201403] [DNS] Query de ('172.20.0.20', 60555): 'webserver.local'
+[01:28:32.204658] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:34.104932] [DNS] Query de ('172.20.0.20', 45015): 'webserver.local'
+[01:28:34.108340] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:36.000352] [DNS] Query de ('172.20.0.20', 49027): 'webserver.local'
+[01:28:36.004055] [DNS]   -> webserver.local = 172.20.0.10
+[01:28:38.754493] [DNS] Query de ('172.20.0.20', 34672): 'webserver.local'
+[01:28:38.757708] [DNS]   -> webserver.local = 172.20.0.10
+[01:29:04.992847] [DNS] Query de ('172.20.0.20', 33380): 'webserver.local'
+[01:29:04.996360] [DNS]   -> webserver.local = 172.20.0.10
+[01:29:31.206431] [DNS] Query de ('172.20.0.20', 60262): 'webserver.local'
+[01:29:31.209957] [DNS]   -> webserver.local = 172.20.0.10
+[01:29:57.409231] [DNS] Query de ('172.20.0.20', 36711): 'webserver.local'
+[01:29:57.412878] [DNS]   -> webserver.local = 172.20.0.10
+[01:30:23.615606] [DNS] Query de ('172.20.0.20', 50811): 'webserver.local'
+[01:30:23.620024] [DNS]   -> webserver.local = 172.20.0.10
+[01:30:49.813502] [DNS] Query de ('172.20.0.20', 38792): 'webserver.local'
+[01:30:49.816956] [DNS]   -> webserver.local = 172.20.0.10
+[01:31:16.015928] [DNS] Query de ('172.20.0.20', 47577): 'webserver.local'
+[01:31:16.019466] [DNS]   -> webserver.local = 172.20.0.10
+[01:31:42.218329] [DNS] Query de ('172.20.0.20', 59244): 'webserver.local'
+[01:31:42.221827] [DNS]   -> webserver.local = 172.20.0.10
+[01:32:08.406068] [DNS] Query de ('172.20.0.20', 33648): 'webserver.local'
+[01:32:08.409914] [DNS]   -> webserver.local = 172.20.0.10
+[01:32:34.604347] [DNS] Query de ('172.20.0.20', 43664): 'webserver.local'
+[01:32:34.608220] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:02.788452] [DNS] Query de ('172.20.0.20', 43614): 'webserver.local'
+[01:33:02.792243] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:04.762414] [DNS] Query de ('172.20.0.20', 60682): 'webserver.local'
+[01:33:04.765891] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:06.737429] [DNS] Query de ('172.20.0.20', 50717): 'webserver.local'
+[01:33:06.741624] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:08.712973] [DNS] Query de ('172.20.0.20', 33401): 'webserver.local'
+[01:33:08.716544] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:12.694535] [DNS] Query de ('172.20.0.20', 41778): 'webserver.local'
+[01:33:12.698982] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:14.682985] [DNS] Query de ('172.20.0.20', 33773): 'webserver.local'
+[01:33:14.686884] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:16.664177] [DNS] Query de ('172.20.0.20', 41427): 'webserver.local'
+[01:33:16.668017] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:20.638338] [DNS] Query de ('172.20.0.20', 46132): 'webserver.local'
+[01:33:20.641972] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:22.613780] [DNS] Query de ('172.20.0.20', 52365): 'webserver.local'
+[01:33:22.617309] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:24.594549] [DNS] Query de ('172.20.0.20', 37414): 'webserver.local'
+[01:33:24.598509] [DNS]   -> webserver.local = 172.20.0.10
+[01:33:27.442822] [DNS] Query de ('172.20.0.20', 54491): 'webserver.local'
+[01:33:27.446450] [DNS]   -> webserver.local = 172.20.0.10
+[01:34:01.180977] [DNS] Query de ('172.20.0.20', 57309): 'webserver.local'
+[01:34:01.191547] [DNS]   -> webserver.local = 172.20.0.10
+[01:34:28.936534] [DNS] Query de ('172.20.0.20', 40239): 'webserver.local'
+[01:34:28.940642] [DNS]   -> webserver.local = 172.20.0.10
+[01:35:01.220669] [DNS] Query de ('172.20.0.20', 42846): 'webserver.local'
+[01:35:01.224564] [DNS]   -> webserver.local = 172.20.0.10
+[01:35:31.977411] [DNS] Query de ('172.20.0.20', 48238): 'webserver.local'
+[01:35:31.981395] [DNS]   -> webserver.local = 172.20.0.10
+[01:36:05.715893] [DNS] Query de ('172.20.0.20', 45965): 'webserver.local'
+[01:36:05.719435] [DNS]   -> webserver.local = 172.20.0.10
+[01:36:39.459165] [DNS] Query de ('172.20.0.20', 60597): 'webserver.local'
+[01:36:39.463007] [DNS]   -> webserver.local = 172.20.0.10
+[01:37:10.194297] [DNS] Query de ('172.20.0.20', 60747): 'webserver.local'
+[01:37:10.198213] [DNS]   -> webserver.local = 172.20.0.10
+[01:37:37.919294] [DNS] Query de ('172.20.0.20', 47482): 'webserver.local'
+[01:37:37.923509] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:08.654805] [DNS] Query de ('172.20.0.20', 60041): 'webserver.local'
+[01:38:08.659158] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:34.242225] [DNS] Query de ('172.20.0.20', 55787): 'webserver.local'
+[01:38:34.246636] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:36.326560] [DNS] Query de ('172.20.0.20', 46921): 'webserver.local'
+[01:38:36.329920] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:38.407079] [DNS] Query de ('172.20.0.20', 56960): 'webserver.local'
+[01:38:38.410858] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:40.476197] [DNS] Query de ('172.20.0.20', 46244): 'webserver.local'
+[01:38:40.480243] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:42.579806] [DNS] Query de ('172.20.0.20', 41234): 'webserver.local'
+[01:38:42.583824] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:44.649173] [DNS] Query de ('172.20.0.20', 58838): 'webserver.local'
+[01:38:44.653143] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:46.726442] [DNS] Query de ('172.20.0.20', 33235): 'webserver.local'
+[01:38:46.730215] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:48.799480] [DNS] Query de ('172.20.0.20', 53585): 'webserver.local'
+[01:38:48.803114] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:52.877872] [DNS] Query de ('172.20.0.20', 60212): 'webserver.local'
+[01:38:52.881989] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:56.956835] [DNS] Query de ('172.20.0.20', 56653): 'webserver.local'
+[01:38:56.960972] [DNS]   -> webserver.local = 172.20.0.10
+[01:38:59.915104] [DNS] Query de ('172.20.0.20', 48173): 'webserver.local'
+[01:38:59.919297] [DNS]   -> webserver.local = 172.20.0.10
+[01:39:41.752008] [DNS] Query de ('172.20.0.20', 42921): 'webserver.local'
+[01:39:41.756199] [DNS]   -> webserver.local = 172.20.0.10
+[01:40:29.614086] [DNS] Query de ('172.20.0.20', 39639): 'webserver.local'
+[01:40:29.617740] [DNS]   -> webserver.local = 172.20.0.10
+[01:41:11.469366] [DNS] Query de ('172.20.0.20', 41747): 'webserver.local'
+[01:41:11.473024] [DNS]   -> webserver.local = 172.20.0.10
+[01:42:05.339141] [DNS] Query de ('172.20.0.20', 36179): 'webserver.local'
+[01:42:05.343094] [DNS]   -> webserver.local = 172.20.0.10
+[01:42:37.621421] [DNS] Query de ('172.20.0.20', 47372): 'webserver.local'
+[01:42:37.625473] [DNS]   -> webserver.local = 172.20.0.10
+[01:43:28.501778] [DNS] Query de ('172.20.0.20', 38387): 'webserver.local'
+[01:43:28.505890] [DNS]   -> webserver.local = 172.20.0.10
+[01:44:25.380791] [DNS] Query de ('172.20.0.20', 41674): 'webserver.local'
+[01:44:25.384780] [DNS]   -> webserver.local = 172.20.0.10
+[01:45:28.277381] [DNS] Query de ('172.20.0.20', 58809): 'webserver.local'
+[01:45:28.281217] [DNS]   -> webserver.local = 172.20.0.10
+[01:46:15.129184] [DNS] Query de ('172.20.0.20', 55528): 'webserver.local'
+[01:46:15.133510] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:12.878374] [DNS] Query de ('172.20.0.20', 32782): 'webserver.local'
+[01:47:12.881788] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:15.047283] [DNS] Query de ('172.20.0.20', 53388): 'webserver.local'
+[01:47:15.051510] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:17.210518] [DNS] Query de ('172.20.0.20', 38279): 'webserver.local'
+[01:47:17.214214] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:21.380721] [DNS] Query de ('172.20.0.20', 33955): 'webserver.local'
+[01:47:21.384643] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:23.547125] [DNS] Query de ('172.20.0.20', 42785): 'webserver.local'
+[01:47:23.550776] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:25.712236] [DNS] Query de ('172.20.0.20', 36530): 'webserver.local'
+[01:47:25.715662] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:27.886486] [DNS] Query de ('172.20.0.20', 51703): 'webserver.local'
+[01:47:27.890637] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:30.037730] [DNS] Query de ('172.20.0.20', 43549): 'webserver.local'
+[01:47:30.041716] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:32.211221] [DNS] Query de ('172.20.0.20', 45563): 'webserver.local'
+[01:47:32.214868] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:34.376153] [DNS] Query de ('172.20.0.20', 43334): 'webserver.local'
+[01:47:34.380306] [DNS]   -> webserver.local = 172.20.0.10
+[01:47:37.425592] [DNS] Query de ('172.20.0.20', 43331): 'webserver.local'
+[01:47:37.429615] [DNS]   -> webserver.local = 172.20.0.10
+[01:49:23.125150] [DNS] Query de ('172.20.0.20', 47235): 'webserver.local'
+[01:49:23.129321] [DNS]   -> webserver.local = 172.20.0.10
+[01:50:23.723544] [DNS] Query de ('172.20.0.20', 43003): 'webserver.local'
+[01:50:23.727831] [DNS]   -> webserver.local = 172.20.0.10
+[01:51:27.342534] [DNS] Query de ('172.20.0.20', 43344): 'webserver.local'
+[01:51:27.346753] [DNS]   -> webserver.local = 172.20.0.10
+[01:52:42.967865] [DNS] Query de ('172.20.0.20', 47824): 'webserver.local'
+[01:52:42.971491] [DNS]   -> webserver.local = 172.20.0.10
+[01:53:55.576406] [DNS] Query de ('172.20.0.20', 37285): 'webserver.local'
+[01:53:55.580699] [DNS]   -> webserver.local = 172.20.0.10
+[01:54:27.863642] [DNS] Query de ('172.20.0.20', 37677): 'webserver.local'
+[01:54:27.867862] [DNS]   -> webserver.local = 172.20.0.10
+[01:55:46.512187] [DNS] Query de ('172.20.0.20', 52489): 'webserver.local'
+[01:55:46.516013] [DNS]   -> webserver.local = 172.20.0.10
+[01:57:02.158788] [DNS] Query de ('172.20.0.20', 52768): 'webserver.local'
+[01:57:02.162949] [DNS]   -> webserver.local = 172.20.0.10
+[01:58:38.839691] [DNS] Query de ('172.20.0.20', 43076): 'webserver.local'
+[01:58:38.843792] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:20.498877] [DNS] Query de ('172.20.0.20', 59835): 'webserver.local'
+[02:00:20.502611] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:24.782334] [DNS] Query de ('172.20.0.20', 41411): 'webserver.local'
+[02:00:24.786296] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:27.062194] [DNS] Query de ('172.20.0.20', 49510): 'webserver.local'
+[02:00:27.065963] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:29.357350] [DNS] Query de ('172.20.0.20', 42277): 'webserver.local'
+[02:00:29.361460] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:32.631670] [DNS] Query de ('172.20.0.20', 58189): 'webserver.local'
+[02:00:32.635161] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:34.905500] [DNS] Query de ('172.20.0.20', 55173): 'webserver.local'
+[02:00:34.909391] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:37.179053] [DNS] Query de ('172.20.0.20', 44875): 'webserver.local'
+[02:00:37.183131] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:39.444506] [DNS] Query de ('172.20.0.20', 56728): 'webserver.local'
+[02:00:39.448568] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:41.722827] [DNS] Query de ('172.20.0.20', 50113): 'webserver.local'
+[02:00:41.726697] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:44.326711] [DNS] Query de ('172.20.0.20', 56433): 'webserver.local'
+[02:00:44.330631] [DNS]   -> webserver.local = 172.20.0.10
+[02:00:47.483658] [DNS] Query de ('172.20.0.20', 48081): 'webserver.local'
+[02:00:47.487138] [DNS]   -> webserver.local = 172.20.0.10
+[02:01:13.639572] [DNS] Query de ('172.20.0.20', 50315): 'webserver.local'
+[02:01:13.643973] [DNS]   -> webserver.local = 172.20.0.10
+[02:01:48.839392] [DNS] Query de ('172.20.0.20', 42718): 'webserver.local'
+[02:01:48.843256] [DNS]   -> webserver.local = 172.20.0.10
+[02:02:27.022437] [DNS] Query de ('172.20.0.20', 34185): 'webserver.local'
+[02:02:27.026459] [DNS]   -> webserver.local = 172.20.0.10
+[02:03:08.221739] [DNS] Query de ('172.20.0.20', 60919): 'webserver.local'
+[02:03:08.226687] [DNS]   -> webserver.local = 172.20.0.10
+[02:03:40.411103] [DNS] Query de ('172.20.0.20', 41164): 'webserver.local'
+[02:03:40.414541] [DNS]   -> webserver.local = 172.20.0.10
+[02:04:15.597993] [DNS] Query de ('172.20.0.20', 53042): 'webserver.local'
+[02:04:15.601733] [DNS]   -> webserver.local = 172.20.0.10
+[02:04:47.920242] [DNS] Query de ('172.20.0.20', 56369): 'webserver.local'
+[02:04:47.924029] [DNS]   -> webserver.local = 172.20.0.10
+[02:05:20.105511] [DNS] Query de ('172.20.0.20', 47897): 'webserver.local'
+[02:05:20.109604] [DNS]   -> webserver.local = 172.20.0.10
+[02:05:52.436029] [DNS] Query de ('172.20.0.20', 59407): 'webserver.local'
+[02:05:52.439802] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:28.995004] [DNS] Query de ('172.20.0.20', 55345): 'webserver.local'
+[02:06:28.998591] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:31.478361] [DNS] Query de ('172.20.0.20', 49331): 'webserver.local'
+[02:06:31.482818] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:34.845718] [DNS] Query de ('172.20.0.20', 37705): 'webserver.local'
+[02:06:34.849327] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:37.858818] [DNS] Query de ('172.20.0.20', 41517): 'webserver.local'
+[02:06:37.863013] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:40.350727] [DNS] Query de ('172.20.0.20', 38011): 'webserver.local'
+[02:06:40.354522] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:42.826729] [DNS] Query de ('172.20.0.20', 38048): 'webserver.local'
+[02:06:42.831054] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:45.321686] [DNS] Query de ('172.20.0.20', 41122): 'webserver.local'
+[02:06:45.326022] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:47.841166] [DNS] Query de ('172.20.0.20', 42620): 'webserver.local'
+[02:06:47.845480] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:50.329409] [DNS] Query de ('172.20.0.20', 60026): 'webserver.local'
+[02:06:50.333101] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:52.795785] [DNS] Query de ('172.20.0.20', 50899): 'webserver.local'
+[02:06:52.799820] [DNS]   -> webserver.local = 172.20.0.10
+[02:06:56.853153] [DNS] Query de ('172.20.0.20', 52140): 'webserver.local'
+[02:06:56.856522] [DNS]   -> webserver.local = 172.20.0.10
+[02:08:06.182489] [DNS] Query de ('172.20.0.20', 46568): 'webserver.local'
+[02:08:06.186765] [DNS]   -> webserver.local = 172.20.0.10
+[02:09:27.548155] [DNS] Query de ('172.20.0.20', 59586): 'webserver.local'
+[02:09:27.552905] [DNS]   -> webserver.local = 172.20.0.10
+[02:10:21.827351] [DNS] Query de ('172.20.0.20', 60763): 'webserver.local'
+[02:10:21.831935] [DNS]   -> webserver.local = 172.20.0.10
+[02:11:19.122775] [DNS] Query de ('172.20.0.20', 47142): 'webserver.local'
+[02:11:19.127497] [DNS]   -> webserver.local = 172.20.0.10
+[02:12:40.455943] [DNS] Query de ('172.20.0.20', 59561): 'webserver.local'
+[02:12:40.460173] [DNS]   -> webserver.local = 172.20.0.10
+[02:13:52.776515] [DNS] Query de ('172.20.0.20', 39586): 'webserver.local'
+[02:13:52.780514] [DNS]   -> webserver.local = 172.20.0.10
+[02:15:14.114251] [DNS] Query de ('172.20.0.20', 38973): 'webserver.local'
+[02:15:14.118454] [DNS]   -> webserver.local = 172.20.0.10
+[02:16:11.410317] [DNS] Query de ('172.20.0.20', 52396): 'webserver.local'
+[02:16:11.414501] [DNS]   -> webserver.local = 172.20.0.10
+[02:17:41.764068] [DNS] Query de ('172.20.0.20', 42123): 'webserver.local'
+[02:17:41.768253] [DNS]   -> webserver.local = 172.20.0.10
+[02:18:45.928999] [DNS] Query de ('172.20.0.20', 36395): 'webserver.local'
+[02:18:45.933474] [DNS]   -> webserver.local = 172.20.0.10
+[02:18:48.550233] [DNS] Query de ('172.20.0.20', 45946): 'webserver.local'
+[02:18:48.554800] [DNS]   -> webserver.local = 172.20.0.10
+[02:18:51.467752] [DNS] Query de ('172.20.0.20', 46742): 'webserver.local'
+[02:18:51.471370] [DNS]   -> webserver.local = 172.20.0.10
+[02:18:54.061993] [DNS] Query de ('172.20.0.20', 60102): 'webserver.local'
+[02:18:54.066417] [DNS]   -> webserver.local = 172.20.0.10
+[02:18:56.658189] [DNS] Query de ('172.20.0.20', 41755): 'webserver.local'
+[02:18:56.662341] [DNS]   -> webserver.local = 172.20.0.10
+[02:19:00.269574] [DNS] Query de ('172.20.0.20', 56627): 'webserver.local'
+[02:19:00.273603] [DNS]   -> webserver.local = 172.20.0.10
+[02:19:02.882142] [DNS] Query de ('172.20.0.20', 56054): 'webserver.local'
+[02:19:02.886870] [DNS]   -> webserver.local = 172.20.0.10
+[02:19:05.484658] [DNS] Query de ('172.20.0.20', 40280): 'webserver.local'
+[02:19:05.488541] [DNS]   -> webserver.local = 172.20.0.10
+[02:19:08.106464] [DNS] Query de ('172.20.0.20', 38871): 'webserver.local'
+[02:19:08.111483] [DNS]   -> webserver.local = 172.20.0.10
+[02:19:11.722689] [DNS] Query de ('172.20.0.20', 58283): 'webserver.local'
+[02:19:11.727427] [DNS]   -> webserver.local = 172.20.0.10
+[02:19:15.215337] [DNS] Query de ('172.20.0.20', 38000): 'webserver.local'
+[02:19:15.219511] [DNS]   -> webserver.local = 172.20.0.10
+[02:21:43.951194] [DNS] Query de ('172.20.0.20', 33762): 'webserver.local'
+[02:21:43.955450] [DNS]   -> webserver.local = 172.20.0.10
+[02:24:06.724616] [DNS] Query de ('172.20.0.20', 58517): 'webserver.local'
+[02:24:06.729206] [DNS]   -> webserver.local = 172.20.0.10
+[02:24:39.052628] [DNS] Query de ('172.20.0.20', 42589): 'webserver.local'
+[02:24:39.056691] [DNS]   -> webserver.local = 172.20.0.10
+[02:26:55.743568] [DNS] Query de ('172.20.0.20', 46893): 'webserver.local'
+[02:26:55.747961] [DNS]   -> webserver.local = 172.20.0.10
+[02:27:28.079152] [DNS] Query de ('172.20.0.20', 34891): 'webserver.local'
+[02:27:28.083976] [DNS]   -> webserver.local = 172.20.0.10
+[02:30:11.855365] [DNS] Query de ('172.20.0.20', 40141): 'webserver.local'
+[02:30:11.858813] [DNS]   -> webserver.local = 172.20.0.10
+[02:32:28.596222] [DNS] Query de ('172.20.0.20', 49834): 'webserver.local'
+[02:32:28.600124] [DNS]   -> webserver.local = 172.20.0.10
+[02:35:20.385038] [DNS] Query de ('172.20.0.20', 51023): 'webserver.local'
+[02:35:20.389406] [DNS]   -> webserver.local = 172.20.0.10
+[02:37:22.065203] [DNS] Query de ('172.20.0.20', 35807): 'webserver.local'
+[02:37:22.069302] [DNS]   -> webserver.local = 172.20.0.10

@@ -1,0 +1,6 @@
+# hosts.txt — Arquivo de zona DNS local
+webserver.local    172.20.0.10
+www.local          172.20.0.10
+servidor.local     172.20.0.10
+cliente.local      172.20.0.20
+dns.local          172.20.0.30

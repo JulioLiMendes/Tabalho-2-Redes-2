@@ -1,0 +1,1923 @@
+[01:01:20.336499] [HTTP-RUDP-CLI] === Exec 1 | Cenario A | /arquivo_100kb.bin ===
+[01:01:20.359764] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.63ms, 1 tent)
+[01:01:20.377096] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:01:20.410606] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:01:20.414038] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:01:20.427239] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:01:20.441203] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:01:20.455573] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:01:20.470109] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:01:20.484595] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:01:20.501003] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:01:20.515905] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:01:35.545422] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:01:35.549258] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.1681s | 0.0000 Mbps | retrans=9
+[01:01:35.567396] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.1827s
+[01:01:37.697305] [HTTP-RUDP-CLI] === Exec 2 | Cenario A | /arquivo_100kb.bin ===
+[01:01:37.719230] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.34ms, 1 tent)
+[01:01:37.736584] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:01:37.778209] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:01:37.781443] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:01:37.800348] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:01:37.818543] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:01:37.838047] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:01:37.856622] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:01:37.875868] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:01:37.895991] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:01:37.916494] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:01:52.950723] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:01:52.956048] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.2176s | 0.0000 Mbps | retrans=9
+[01:01:52.977837] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.2319s
+[01:01:55.107766] [HTTP-RUDP-CLI] === Exec 3 | Cenario A | /arquivo_100kb.bin ===
+[01:01:55.130285] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.79ms, 1 tent)
+[01:01:55.149056] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:01:55.189898] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:01:55.193029] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:01:55.216614] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:01:55.241016] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:01:55.264452] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:01:55.288324] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:01:55.312169] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:01:55.336436] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:01:55.361135] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:02:10.401466] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:02:10.405509] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.2484s | 0.0000 Mbps | retrans=9
+[01:02:10.431584] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.2632s
+[01:02:12.571400] [HTTP-RUDP-CLI] === Exec 4 | Cenario A | /arquivo_100kb.bin ===
+[01:02:12.593834] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.37ms, 1 tent)
+[01:02:12.618763] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:02:12.662964] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:02:12.666502] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:02:12.694389] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:02:12.722651] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:02:12.750237] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:02:12.779158] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:02:12.807707] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:02:12.836690] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:02:12.865999] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:02:27.912689] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:02:27.918186] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.2853s | 0.0000 Mbps | retrans=9
+[01:02:27.951063] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.2997s
+[01:02:30.111593] [HTTP-RUDP-CLI] === Exec 5 | Cenario A | /arquivo_100kb.bin ===
+[01:02:30.133674] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.89ms, 1 tent)
+[01:02:30.161927] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:02:30.209344] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:02:30.212486] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:02:30.242161] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:02:30.271843] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:02:30.301653] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:02:30.331413] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:02:30.360860] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:02:30.390738] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:02:30.421520] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:02:45.474500] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:02:45.478492] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3016s | 0.0000 Mbps | retrans=9
+[01:02:45.511590] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3165s
+[01:02:47.660200] [HTTP-RUDP-CLI] === Exec 6 | Cenario A | /arquivo_100kb.bin ===
+[01:02:47.683887] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.97ms, 1 tent)
+[01:02:47.717605] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:02:47.771729] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:02:47.782051] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:02:47.815535] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:02:47.847482] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:02:47.881014] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:02:47.911842] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:02:47.945275] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:02:47.977240] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:02:48.010565] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:03:03.060764] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:03:03.064573] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3208s | 0.0000 Mbps | retrans=9
+[01:03:03.099195] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3348s
+[01:03:05.240419] [HTTP-RUDP-CLI] === Exec 7 | Cenario A | /arquivo_100kb.bin ===
+[01:03:05.263853] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.60ms, 1 tent)
+[01:03:05.309869] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:03:05.366855] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:03:05.370164] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:03:05.403322] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:03:05.436341] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:03:05.469060] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:03:05.500669] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:03:05.535540] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:03:05.568093] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:03:05.601266] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:03:20.655512] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:03:20.659105] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3468s | 0.0000 Mbps | retrans=9
+[01:03:20.691539] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3614s
+[01:03:22.868293] [HTTP-RUDP-CLI] === Exec 8 | Cenario A | /arquivo_100kb.bin ===
+[01:03:22.890104] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.22ms, 1 tent)
+[01:03:22.919862] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:03:22.979221] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:03:22.982648] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:03:23.015670] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:03:23.048894] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:03:23.080873] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:03:23.112607] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:03:23.146440] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:03:23.180359] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:03:23.213492] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:03:38.262994] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:03:38.266906] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3274s | 0.0000 Mbps | retrans=9
+[01:03:38.299535] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3416s
+[01:03:40.474551] [HTTP-RUDP-CLI] === Exec 9 | Cenario A | /arquivo_100kb.bin ===
+[01:03:40.496516] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.79ms, 1 tent)
+[01:03:40.526335] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:03:40.593243] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:03:40.596459] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:03:40.642151] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:03:40.674107] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:03:40.706376] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:03:40.737631] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:03:40.770449] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:03:40.802129] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:03:40.836809] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:03:55.885897] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:03:55.889727] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3446s | 0.0000 Mbps | retrans=9
+[01:03:55.922402] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3584s
+[01:03:58.062671] [HTTP-RUDP-CLI] === Exec 10 | Cenario A | /arquivo_100kb.bin ===
+[01:03:58.085990] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.24ms, 1 tent)
+[01:03:58.116481] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:03:58.182846] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:03:58.186287] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:03:58.219173] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:03:58.252883] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:03:58.287809] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:03:58.322216] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:03:58.356159] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:03:58.390159] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:03:58.425367] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:04:13.477471] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:04:13.481244] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3478s | 0.0000 Mbps | retrans=9
+[01:04:13.514596] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3620s
+[01:04:35.508053] [HTTP-RUDP-CLI] === Exec 1 | Cenario A | /arquivo_500kb.bin ===
+[01:04:35.529371] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.01ms, 1 tent)
+[01:04:35.569340] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:04:35.636587] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:04:35.639985] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:04:35.672631] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:04:35.706852] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:04:35.743410] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:04:35.776522] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:04:35.809911] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:04:35.841917] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:04:35.874464] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:04:50.922504] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:04:50.926299] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3412s | 0.0000 Mbps | retrans=9
+[01:04:50.958121] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3552s
+[01:04:53.094804] [HTTP-RUDP-CLI] === Exec 2 | Cenario A | /arquivo_500kb.bin ===
+[01:04:53.116941] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.25ms, 1 tent)
+[01:04:53.155004] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:04:53.225324] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:04:53.229249] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:04:53.265147] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:04:53.297757] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:04:53.330861] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:04:53.362189] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:04:53.393863] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:04:53.426289] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:04:53.464056] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:05:08.513484] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:05:08.517415] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3550s | 0.0000 Mbps | retrans=9
+[01:05:08.551589] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3693s
+[01:05:10.689600] [HTTP-RUDP-CLI] === Exec 3 | Cenario A | /arquivo_500kb.bin ===
+[01:05:10.718122] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (20.90ms, 1 tent)
+[01:05:10.742527] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:05:10.825344] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:05:10.828899] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:05:10.861872] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:05:10.895009] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:05:10.927295] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:05:10.961483] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:05:10.993990] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:05:11.027506] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:05:11.060290] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:05:26.108722] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:05:26.112259] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3416s | 0.0000 Mbps | retrans=9
+[01:05:26.145400] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3625s
+[01:05:28.298660] [HTTP-RUDP-CLI] === Exec 4 | Cenario A | /arquivo_500kb.bin ===
+[01:05:28.321459] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.45ms, 1 tent)
+[01:05:28.363664] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:05:28.436251] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:05:28.440666] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:05:28.495249] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:05:28.532056] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:05:28.565291] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:05:28.597924] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:05:28.630880] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:05:28.663189] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:05:28.696235] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:05:43.741723] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:05:43.745612] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3754s | 0.0000 Mbps | retrans=9
+[01:05:43.778665] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3899s
+[01:05:45.918532] [HTTP-RUDP-CLI] === Exec 5 | Cenario A | /arquivo_500kb.bin ===
+[01:05:45.940031] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.82ms, 1 tent)
+[01:05:45.978970] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:05:46.047360] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:05:46.050528] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:05:46.092807] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:05:46.124164] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:05:46.156235] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:05:46.188279] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:05:46.221662] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:05:46.253047] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:05:46.284585] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:06:01.330787] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:06:01.334289] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3486s | 0.0000 Mbps | retrans=9
+[01:06:01.371212] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3625s
+[01:06:03.537206] [HTTP-RUDP-CLI] === Exec 6 | Cenario A | /arquivo_500kb.bin ===
+[01:06:03.586557] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (42.01ms, 1 tent)
+[01:06:03.603843] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:06:03.672123] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:06:03.675414] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:06:03.706829] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:06:03.738273] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:06:03.769770] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:06:03.801352] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:06:03.834471] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:06:03.867681] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:06:03.899088] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:06:18.944618] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:06:18.948556] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3212s | 0.0000 Mbps | retrans=9
+[01:06:18.981202] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3632s
+[01:06:21.119132] [HTTP-RUDP-CLI] === Exec 7 | Cenario A | /arquivo_500kb.bin ===
+[01:06:21.141272] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.88ms, 1 tent)
+[01:06:21.173084] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:06:21.264410] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:06:21.267953] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:06:21.300494] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:06:21.332208] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:06:21.363382] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:06:21.399400] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:06:21.432576] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:06:21.464318] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:06:21.495668] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:06:36.550359] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:06:36.554417] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3629s | 0.0000 Mbps | retrans=9
+[01:06:36.587824] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3768s
+[01:06:38.765791] [HTTP-RUDP-CLI] === Exec 8 | Cenario A | /arquivo_500kb.bin ===
+[01:06:38.792161] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (18.58ms, 1 tent)
+[01:06:38.816531] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:06:38.887993] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:06:38.892384] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:06:38.927886] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:06:38.961771] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:06:38.995591] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:06:39.029850] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:06:39.061166] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:06:39.092114] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:06:39.123800] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:06:54.171009] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:06:54.174836] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3415s | 0.0000 Mbps | retrans=9
+[01:06:54.207139] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3601s
+[01:06:56.358607] [HTTP-RUDP-CLI] === Exec 9 | Cenario A | /arquivo_500kb.bin ===
+[01:06:56.381871] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.52ms, 1 tent)
+[01:06:56.408725] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:06:56.476060] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:06:56.479373] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:06:56.511836] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:06:56.543300] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:06:56.574629] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:06:56.605830] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:06:56.637451] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:06:56.669345] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:06:56.701940] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:07:11.747446] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:07:11.751465] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3263s | 0.0000 Mbps | retrans=9
+[01:07:11.784255] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3408s
+[01:07:13.923579] [HTTP-RUDP-CLI] === Exec 10 | Cenario A | /arquivo_500kb.bin ===
+[01:07:13.945096] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.13ms, 1 tent)
+[01:07:13.974042] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:07:14.043709] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:07:14.047190] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:07:14.079999] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:07:14.112570] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:07:14.144549] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:07:14.176107] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:07:14.208531] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:07:14.240023] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:07:14.273437] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:07:29.312457] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:07:29.316212] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3230s | 0.0000 Mbps | retrans=9
+[01:07:29.349201] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3371s
+[01:07:52.153337] [HTTP-RUDP-CLI] === Exec 1 | Cenario A | /arquivo_1mb.bin ===
+[01:07:52.176465] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.03ms, 1 tent)
+[01:07:55.194239] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[01:07:58.201177] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[01:08:01.208384] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[01:08:04.215347] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[01:08:07.222548] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[01:08:10.227542] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[01:08:13.234703] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[01:08:16.241588] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[01:08:19.248514] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[01:08:22.255585] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[01:08:22.259284] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[01:08:24.396210] [HTTP-RUDP-CLI] === Exec 2 | Cenario A | /arquivo_1mb.bin ===
+[01:08:24.417904] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.37ms, 1 tent)
+[01:08:27.450403] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[01:08:30.457560] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[01:16:51.235244] [HTTP-RUDP-CLI] === Exec 1 | Cenario A | /arquivo_100kb.bin ===
+[01:16:51.257091] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.41ms, 1 tent)
+[01:16:51.302188] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:16:51.365629] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:16:51.369073] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:16:51.400903] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:16:51.434262] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:16:51.467110] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:16:51.499846] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:16:51.531609] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:16:51.563061] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:16:51.594548] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:17:06.643557] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:17:06.647465] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3411s | 0.0000 Mbps | retrans=9
+[01:17:06.679365] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3555s
+[01:17:08.822277] [HTTP-RUDP-CLI] === Exec 2 | Cenario A | /arquivo_100kb.bin ===
+[01:17:08.844460] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.72ms, 1 tent)
+[01:17:08.874348] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:17:08.948558] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:17:08.951854] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:17:08.997146] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:17:09.030697] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:17:09.064016] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:17:09.097867] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:17:09.131130] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:17:09.165049] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:17:09.196879] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:17:24.242625] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:17:24.246317] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3530s | 0.0000 Mbps | retrans=9
+[01:17:24.279676] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3668s
+[01:17:26.420355] [HTTP-RUDP-CLI] === Exec 3 | Cenario A | /arquivo_100kb.bin ===
+[01:17:26.443083] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.72ms, 1 tent)
+[01:17:26.472160] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:17:26.541834] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:17:26.545325] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:17:26.578199] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:17:26.610041] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:17:26.643515] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:17:26.675763] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:17:26.708228] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:17:26.741740] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:17:26.780782] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:17:41.821861] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:17:41.825911] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3357s | 0.0000 Mbps | retrans=9
+[01:17:41.859144] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3494s
+[01:17:44.001020] [HTTP-RUDP-CLI] === Exec 4 | Cenario A | /arquivo_100kb.bin ===
+[01:17:44.023642] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.85ms, 1 tent)
+[01:17:44.052507] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:17:44.131376] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:17:44.134867] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:17:44.166753] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:17:44.198563] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:17:44.231737] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:17:44.264131] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:17:44.296769] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:17:44.329408] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:17:44.361220] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:17:59.410801] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:17:59.414677] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3415s | 0.0000 Mbps | retrans=9
+[01:17:59.448566] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3553s
+[01:18:01.588237] [HTTP-RUDP-CLI] === Exec 5 | Cenario A | /arquivo_100kb.bin ===
+[01:18:01.612261] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.12ms, 1 tent)
+[01:18:01.646203] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:18:01.716266] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:18:01.719590] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:18:01.752434] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:18:01.788043] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:18:01.826366] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:18:01.862818] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:18:01.896733] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:18:01.929423] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:18:01.962558] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:18:17.008515] [HTTP-RUDP-CLI]   Timeout aguardando resposta
+[01:18:17.012171] [HTTP-RUDP-CLI] HTTP: 0 | 0B | 15.3542s | 0.0000 Mbps | retrans=9
+[01:18:17.045618] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 15.3683s
+[01:18:19.185745] [HTTP-RUDP-CLI] === Exec 6 | Cenario A | /arquivo_100kb.bin ===
+[01:18:19.207814] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.03ms, 1 tent)
+[01:18:22.226091] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[01:18:25.233173] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[01:18:28.240046] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[01:18:31.246996] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[01:18:34.253953] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[01:18:37.260892] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[01:18:40.265733] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[01:18:43.272969] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[01:18:46.279691] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[01:18:49.286470] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[01:18:49.290030] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[01:18:51.422744] [HTTP-RUDP-CLI] === Exec 7 | Cenario A | /arquivo_100kb.bin ===
+[01:18:51.445019] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.97ms, 1 tent)
+[01:19:55.457449] [HTTP-RUDP-CLI] === Exec 1 | Cenario A | /arquivo_100kb.bin ===
+[01:19:55.480187] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.03ms, 1 tent)
+[01:19:55.507655] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:19:55.577043] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:19:58.581527] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:19:58.585307] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:19:58.618113] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:20:01.593070] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:20:04.597743] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:20:04.601372] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:20:04.634154] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:20:07.609050] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:20:10.612385] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:20:10.615760] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:20:10.658859] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:20:16.921772] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3978s | 0.0383 Mbps | retrans=9
+[01:20:16.925090] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.4118s
+[01:20:19.062873] [HTTP-RUDP-CLI] === Exec 2 | Cenario A | /arquivo_100kb.bin ===
+[01:20:19.085661] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.96ms, 1 tent)
+[01:20:19.116304] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:20:19.183722] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:20:22.190327] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:20:22.194005] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:20:22.227561] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:20:25.198986] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:20:28.205505] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:20:28.208885] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:20:28.240768] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:20:31.214560] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:20:34.218993] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:20:34.223191] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:20:34.257456] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:20:40.517073] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3849s | 0.0383 Mbps | retrans=9
+[01:20:40.520516] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.3989s
+[01:20:42.678158] [HTTP-RUDP-CLI] === Exec 3 | Cenario A | /arquivo_100kb.bin ===
+[01:20:42.702542] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.09ms, 1 tent)
+[01:20:42.733671] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:20:42.805090] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:20:45.811741] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:20:45.814927] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:20:45.847403] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:20:48.820448] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:20:51.826700] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:20:51.830073] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:20:51.862893] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:20:54.832566] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:20:57.838900] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:20:57.842280] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:20:57.873478] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:21:04.134849] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3825s | 0.0383 Mbps | retrans=9
+[01:21:04.138285] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.3966s
+[01:21:06.275304] [HTTP-RUDP-CLI] === Exec 4 | Cenario A | /arquivo_100kb.bin ===
+[01:21:06.297618] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.61ms, 1 tent)
+[01:21:06.325676] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:21:06.393339] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:21:09.399929] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:21:09.403094] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:21:09.436145] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:21:12.406036] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:21:15.410384] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:21:15.415519] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:21:15.449504] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:21:18.421732] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:21:21.425356] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:21:21.429418] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:21:21.463626] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:21:27.728355] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3859s | 0.0383 Mbps | retrans=9
+[01:21:27.732234] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.4005s
+[01:21:29.877456] [HTTP-RUDP-CLI] === Exec 5 | Cenario A | /arquivo_100kb.bin ===
+[01:21:29.924978] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.92ms, 1 tent)
+[01:21:29.943761] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:21:30.034575] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:21:33.041204] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:21:33.044679] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:21:33.077465] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:21:36.049956] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:21:39.053591] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:21:39.068856] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:21:39.102431] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:21:42.062721] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:21:45.066316] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:21:45.070343] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:21:45.104070] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:21:51.366683] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3989s | 0.0383 Mbps | retrans=9
+[01:21:51.370213] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.4128s
+[01:21:53.520459] [HTTP-RUDP-CLI] === Exec 6 | Cenario A | /arquivo_100kb.bin ===
+[01:21:53.544446] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.32ms, 1 tent)
+[01:21:53.571663] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:21:53.643401] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:21:56.646957] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:21:56.651285] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:21:56.684386] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:21:59.658761] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:22:02.664400] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:22:02.667699] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:22:02.700900] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:22:05.674203] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:22:08.680688] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:22:08.684113] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:22:08.716497] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:22:14.975101] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3867s | 0.0383 Mbps | retrans=9
+[01:22:14.978493] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.4010s
+[01:22:17.114968] [HTTP-RUDP-CLI] === Exec 7 | Cenario A | /arquivo_100kb.bin ===
+[01:22:17.136946] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.22ms, 1 tent)
+[01:22:17.165898] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:22:17.232324] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:22:20.238446] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:22:20.241821] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:22:20.275140] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:22:23.246994] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:22:26.254193] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:22:29.260767] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[01:22:29.264047] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:22:29.295918] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:22:32.272951] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:22:35.278435] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:22:35.282592] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:22:38.566524] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3817s | 0.0383 Mbps | retrans=9
+[01:22:38.570266] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.3959s
+[01:22:40.736880] [HTTP-RUDP-CLI] === Exec 8 | Cenario A | /arquivo_100kb.bin ===
+[01:22:40.769070] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.57ms, 1 tent)
+[01:22:40.801885] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:22:40.879772] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:22:43.884621] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:22:43.889214] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:22:43.926357] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:22:46.895738] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:22:49.900337] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:22:49.903693] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:22:49.936810] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:22:52.910031] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:22:55.916361] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:22:55.920177] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:22:55.954139] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:23:02.214988] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3850s | 0.0383 Mbps | retrans=9
+[01:23:02.218262] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.3996s
+[01:23:04.365104] [HTTP-RUDP-CLI] === Exec 9 | Cenario A | /arquivo_100kb.bin ===
+[01:23:04.388449] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.39ms, 1 tent)
+[01:23:04.416837] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:23:04.482213] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:23:07.485761] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:23:07.490014] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:23:07.522629] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:23:10.494878] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:23:13.501406] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:23:13.504597] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:23:13.539175] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:23:16.509240] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:23:19.514417] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:23:19.517766] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:23:19.551323] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:23:25.813792] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3798s | 0.0383 Mbps | retrans=9
+[01:23:25.817631] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.3942s
+[01:23:27.970060] [HTTP-RUDP-CLI] === Exec 10 | Cenario A | /arquivo_100kb.bin ===
+[01:23:27.999038] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.38ms, 1 tent)
+[01:23:28.041360] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:23:28.115619] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:23:31.119892] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:23:31.124124] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:23:31.167272] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:23:34.130596] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:23:37.137180] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:23:37.140708] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:23:37.174185] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:23:40.144066] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:23:43.152261] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:23:46.156749] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:23:46.160586] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:23:49.449809] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 21.3988s | 0.0383 Mbps | retrans=9
+[01:23:49.453537] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 21.4132s
+[01:24:11.372059] [HTTP-RUDP-CLI] === Exec 1 | Cenario A | /arquivo_500kb.bin ===
+[01:24:11.409265] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.84ms, 1 tent)
+[01:24:11.427108] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:24:11.492396] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:24:14.498235] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:24:14.501332] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:24:14.534029] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:24:17.506560] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:24:20.513143] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:24:20.517702] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:24:20.559850] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:24:23.522899] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:24:26.527479] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:24:26.531286] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:24:26.564661] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:24:33.897683] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4497s | 0.1825 Mbps | retrans=9
+[01:24:33.901659] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4646s
+[01:24:36.037021] [HTTP-RUDP-CLI] === Exec 2 | Cenario A | /arquivo_500kb.bin ===
+[01:24:36.059952] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.16ms, 1 tent)
+[01:24:36.087163] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:24:36.152229] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:24:39.158262] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:24:39.162517] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:24:39.196927] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:24:42.164507] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:24:45.170827] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:24:45.174723] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:24:45.208195] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:24:48.179739] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:24:51.186135] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:24:51.189844] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:24:51.223528] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:24:58.560396] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4561s | 0.1824 Mbps | retrans=9
+[01:24:58.563690] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4702s
+[01:25:00.714213] [HTTP-RUDP-CLI] === Exec 3 | Cenario A | /arquivo_500kb.bin ===
+[01:25:00.737187] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.51ms, 1 tent)
+[01:25:00.775404] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:25:00.845601] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:25:03.851588] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:25:03.854776] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:25:03.889321] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:25:06.860867] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:25:09.867326] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:25:09.870803] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:25:09.902955] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:25:12.875056] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:25:15.881772] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:25:15.885350] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:25:15.919956] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:25:23.250565] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4692s | 0.1823 Mbps | retrans=9
+[01:25:23.254105] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4837s
+[01:25:25.405673] [HTTP-RUDP-CLI] === Exec 4 | Cenario A | /arquivo_500kb.bin ===
+[01:25:25.433658] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.45ms, 1 tent)
+[01:25:25.461255] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:25:25.527213] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:25:28.532719] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:25:28.536090] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:25:28.568350] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:25:31.541434] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:25:34.548081] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:25:34.551457] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:25:34.584159] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:25:37.556728] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:25:40.560147] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:25:40.563474] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:25:40.596549] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:25:47.926623] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4481s | 0.1825 Mbps | retrans=9
+[01:25:47.930260] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4625s
+[01:25:50.068432] [HTTP-RUDP-CLI] === Exec 5 | Cenario A | /arquivo_500kb.bin ===
+[01:25:50.093502] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.99ms, 1 tent)
+[01:25:50.121635] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:25:50.189350] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:25:53.195877] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:25:53.199418] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:25:53.233529] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:25:56.203623] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:25:59.208165] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:25:59.211809] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:25:59.246498] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:26:02.218735] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:26:05.224158] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:26:05.227741] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:26:05.262428] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:26:12.599255] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4595s | 0.1824 Mbps | retrans=9
+[01:26:12.602694] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4735s
+[01:26:14.738003] [HTTP-RUDP-CLI] === Exec 6 | Cenario A | /arquivo_500kb.bin ===
+[01:26:14.761988] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.18ms, 1 tent)
+[01:26:14.796508] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:26:14.864229] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:26:17.870175] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:26:17.873569] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:26:17.906791] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:26:20.879359] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:26:23.885778] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:26:23.890169] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:26:23.925466] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:26:26.896450] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:26:29.904201] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:26:32.910972] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:26:32.914905] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:26:37.290473] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4722s | 0.1823 Mbps | retrans=9
+[01:26:37.294036] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4863s
+[01:26:39.431989] [HTTP-RUDP-CLI] === Exec 7 | Cenario A | /arquivo_500kb.bin ===
+[01:26:39.460148] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.86ms, 1 tent)
+[01:26:39.490136] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:26:39.563880] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:26:42.568266] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:26:42.572517] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:26:42.608097] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:26:45.577299] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:26:48.584225] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:26:48.587609] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:26:48.621595] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:26:51.591570] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:26:54.598174] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:26:54.602120] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:26:54.638040] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:27:01.978135] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4682s | 0.1823 Mbps | retrans=9
+[01:27:01.981619] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4821s
+[01:27:04.126043] [HTTP-RUDP-CLI] === Exec 8 | Cenario A | /arquivo_500kb.bin ===
+[01:27:04.151710] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.79ms, 1 tent)
+[01:27:04.178014] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:27:04.244900] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:27:07.251624] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:27:07.255015] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:27:07.288558] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:27:10.257183] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:27:13.260911] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:27:13.265544] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:27:13.298962] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:27:16.272667] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:27:19.278239] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:27:19.281615] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:27:19.314983] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:27:26.671953] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4683s | 0.1823 Mbps | retrans=9
+[01:27:26.676074] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4821s
+[01:27:28.822553] [HTTP-RUDP-CLI] === Exec 9 | Cenario A | /arquivo_500kb.bin ===
+[01:27:28.847901] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.48ms, 1 tent)
+[01:27:28.881541] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:27:28.947579] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:27:31.953998] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:27:31.958645] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:27:31.995146] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:27:34.962540] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:27:37.966992] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:27:37.970412] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:27:38.003911] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:27:40.975068] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:27:43.981524] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:27:43.985243] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:27:44.018094] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:27:51.356372] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4581s | 0.1824 Mbps | retrans=9
+[01:27:51.359759] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4725s
+[01:27:53.509319] [HTTP-RUDP-CLI] === Exec 10 | Cenario A | /arquivo_500kb.bin ===
+[01:27:53.534868] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.70ms, 1 tent)
+[01:27:53.571514] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:27:53.665471] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:27:56.671991] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:27:56.675536] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:27:56.709763] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:27:59.681170] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:28:02.687961] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:28:02.691550] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:28:02.725934] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:28:05.696149] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:28:08.702759] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:28:08.706543] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:28:08.739080] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:28:16.072449] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 22.4755s | 0.1822 Mbps | retrans=9
+[01:28:16.075860] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4902s
+[01:28:38.741002] [HTTP-RUDP-CLI] === Exec 1 | Cenario A | /arquivo_1mb.bin ===
+[01:28:38.763571] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.58ms, 1 tent)
+[01:28:38.790800] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:28:38.859497] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:28:41.863541] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:28:41.868456] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:28:41.913447] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:28:44.875316] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:28:47.880112] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:28:47.895296] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:28:48.015916] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:28:50.897548] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:28:53.903542] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:28:53.908001] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:28:53.951393] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:29:02.810311] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 24.0006s | 0.3495 Mbps | retrans=9
+[01:29:02.814574] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 24.0142s
+[01:29:04.978900] [HTTP-RUDP-CLI] === Exec 2 | Cenario A | /arquivo_1mb.bin ===
+[01:29:05.003861] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.92ms, 1 tent)
+[01:29:05.033222] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:29:05.112484] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:29:08.119636] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:29:08.123552] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:29:08.157299] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:29:11.126187] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:29:14.133092] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:29:14.136569] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:29:14.169591] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:29:17.140825] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:29:20.145614] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:29:20.149307] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:29:20.199969] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:29:29.031153] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9769s | 0.3499 Mbps | retrans=9
+[01:29:29.034652] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9908s
+[01:29:31.192203] [HTTP-RUDP-CLI] === Exec 3 | Cenario A | /arquivo_1mb.bin ===
+[01:29:31.217631] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.01ms, 1 tent)
+[01:29:31.248238] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:29:31.320587] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:29:34.325567] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:29:34.329302] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:29:34.365481] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:29:37.336399] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:29:40.341432] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:29:40.345223] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:29:40.379230] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:29:43.348855] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:29:46.355780] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:29:46.359549] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:29:46.400093] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:29:55.246485] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9750s | 0.3499 Mbps | retrans=9
+[01:29:55.249762] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9890s
+[01:29:57.395111] [HTTP-RUDP-CLI] === Exec 4 | Cenario A | /arquivo_1mb.bin ===
+[01:29:57.419803] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.25ms, 1 tent)
+[01:29:57.448417] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:29:57.522378] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:30:00.527822] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:30:00.533972] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:30:00.584745] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:30:03.538200] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:30:06.543753] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:30:06.547384] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:30:06.581080] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:30:09.554221] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:30:12.558020] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:30:12.561861] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:30:12.599194] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:30:21.442202] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9748s | 0.3499 Mbps | retrans=9
+[01:30:21.446073] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9890s
+[01:30:23.601026] [HTTP-RUDP-CLI] === Exec 5 | Cenario A | /arquivo_1mb.bin ===
+[01:30:23.635695] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.89ms, 1 tent)
+[01:30:23.666743] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:30:23.742621] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:30:26.749124] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:30:26.752930] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:30:26.788424] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:30:29.758164] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:30:32.765469] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:30:35.772369] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[01:30:35.776273] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:30:35.821805] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:30:38.781101] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:30:41.785369] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:30:41.788874] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:30:47.660312] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9744s | 0.3499 Mbps | retrans=9
+[01:30:47.664302] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9893s
+[01:30:49.800186] [HTTP-RUDP-CLI] === Exec 6 | Cenario A | /arquivo_1mb.bin ===
+[01:30:49.823663] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (13.94ms, 1 tent)
+[01:30:49.852076] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:30:49.920415] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:30:52.926497] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:30:52.930077] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:30:52.968465] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:30:55.936225] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:30:58.942317] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:30:58.945723] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:30:58.979773] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:31:01.952085] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:31:04.956446] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:31:04.960231] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:31:04.994916] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:31:13.854701] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9769s | 0.3499 Mbps | retrans=9
+[01:31:13.858300] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9908s
+[01:31:16.002145] [HTTP-RUDP-CLI] === Exec 7 | Cenario A | /arquivo_1mb.bin ===
+[01:31:16.025818] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.00ms, 1 tent)
+[01:31:16.062392] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:31:16.130947] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:31:19.137560] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:31:19.141041] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:31:19.177554] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:31:22.145026] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:31:25.151817] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:31:25.155102] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:31:25.200116] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:31:28.160296] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:31:31.165749] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:31:31.169729] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:31:31.208144] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:31:40.047401] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9741s | 0.3499 Mbps | retrans=9
+[01:31:40.051027] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9881s
+[01:31:42.204281] [HTTP-RUDP-CLI] === Exec 8 | Cenario A | /arquivo_1mb.bin ===
+[01:31:42.229081] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.05ms, 1 tent)
+[01:31:42.259394] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:31:42.326147] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:31:45.332622] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:31:45.336969] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:31:45.372727] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:31:48.340823] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:31:51.347244] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:31:51.351923] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:31:51.385099] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:31:54.356443] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:31:57.363088] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:31:57.366853] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:31:57.400903] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:32:06.246512] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9579s | 0.3501 Mbps | retrans=9
+[01:32:06.249832] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9719s
+[01:32:08.392184] [HTTP-RUDP-CLI] === Exec 9 | Cenario A | /arquivo_1mb.bin ===
+[01:32:08.415762] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.35ms, 1 tent)
+[01:32:08.444796] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:32:08.518923] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:32:11.521809] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:32:11.525539] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:32:11.561790] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:32:14.532685] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:32:17.537836] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:32:17.541881] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:32:17.574873] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:32:20.547130] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:32:23.551202] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:32:23.555276] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:32:23.595256] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:32:32.433129] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9673s | 0.3500 Mbps | retrans=9
+[01:32:32.436688] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9817s
+[01:32:34.589623] [HTTP-RUDP-CLI] === Exec 10 | Cenario A | /arquivo_1mb.bin ===
+[01:32:34.622355] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (14.37ms, 1 tent)
+[01:32:34.662565] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:32:34.749093] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:32:37.753876] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:32:37.757690] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:32:37.792266] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:32:40.762974] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:32:43.767650] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:32:43.771169] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:32:43.806290] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:32:46.776230] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:32:49.783321] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:32:49.786975] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:32:49.822210] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:32:58.669054] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 23.9839s | 0.3498 Mbps | retrans=9
+[01:32:58.672717] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.9982s
+[01:33:27.388618] [HTTP-RUDP-CLI] === Exec 1 | Cenario B | /arquivo_100kb.bin ===
+[01:33:27.451260] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.15ms, 1 tent)
+[01:33:27.510004] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:33:27.579416] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:33:30.586622] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:33:33.593880] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:33:36.600594] [HTTP-RUDP-CLI]   Timeout seq=2 tent 4/10
+[01:33:36.604050] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:33:36.639344] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:33:39.608524] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:33:42.610445] [HTTP-RUDP-CLI]   Timeout seq=2 tent 7/10
+[01:33:42.614135] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:33:42.653181] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:33:45.621080] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:33:48.626422] [HTTP-RUDP-CLI]   Timeout seq=2 tent 10/10
+[01:33:58.976974] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 31.4652s | 0.0260 Mbps | retrans=9
+[01:33:58.980350] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 31.5194s
+[01:34:01.127239] [HTTP-RUDP-CLI] === Exec 2 | Cenario B | /arquivo_100kb.bin ===
+[01:34:01.196307] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (61.08ms, 1 tent)
+[01:34:01.259626] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:34:01.342901] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:34:04.349946] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:34:04.353542] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:34:04.394769] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:34:07.357225] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:34:10.361270] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:34:10.364806] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:34:10.399127] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:34:13.372233] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:34:16.377261] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:34:16.381814] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:34:16.436130] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:34:26.726994] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 25.4632s | 0.0322 Mbps | retrans=9
+[01:34:26.730388] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 25.5243s
+[01:34:28.881928] [HTTP-RUDP-CLI] === Exec 3 | Cenario B | /arquivo_100kb.bin ===
+[01:34:28.944868] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.88ms, 1 tent)
+[01:34:31.951682] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[01:34:34.958799] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[01:34:37.965712] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[01:34:40.970219] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[01:34:43.977461] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[01:34:46.984773] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[01:34:49.991975] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[01:34:52.998907] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[01:34:56.005679] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[01:34:59.012702] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[01:34:59.016201] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[01:35:01.166574] [HTTP-RUDP-CLI] === Exec 4 | Cenario B | /arquivo_100kb.bin ===
+[01:35:01.229062] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.37ms, 1 tent)
+[01:35:04.236252] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[01:35:04.323309] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 2
+[01:35:04.392642] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:35:07.398909] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:35:07.402546] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:35:07.439945] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:35:10.405581] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:35:13.412372] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:35:13.416030] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:35:13.467608] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:35:16.420197] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:35:19.425192] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:35:19.428691] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:35:19.463506] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:35:29.775214] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 25.4491s | 0.0322 Mbps | retrans=9
+[01:35:29.778872] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 25.5035s
+[01:35:31.923496] [HTTP-RUDP-CLI] === Exec 5 | Cenario B | /arquivo_100kb.bin ===
+[01:35:31.986179] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.57ms, 1 tent)
+[01:35:32.057703] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:35:35.065323] [HTTP-RUDP-CLI]   Timeout seq=1 tent 1/10
+[01:35:35.069192] [HTTP-RUDP-CLI]   Retransmissao seq=1 tent 2/10
+[01:35:35.126141] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:35:38.133362] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:35:41.137753] [HTTP-RUDP-CLI]   Timeout seq=2 tent 3/10
+[01:35:41.141402] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:35:41.176192] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:35:44.145232] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:35:47.150559] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[01:35:47.154165] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:35:47.194868] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:35:50.159286] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:35:53.165931] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:35:53.169770] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:36:03.512810] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 31.4532s | 0.0260 Mbps | retrans=10
+[01:36:03.516487] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 31.5077s
+[01:36:05.661936] [HTTP-RUDP-CLI] === Exec 6 | Cenario B | /arquivo_100kb.bin ===
+[01:36:05.723661] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.01ms, 1 tent)
+[01:36:05.781634] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:36:05.849113] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:36:08.854558] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:36:08.858395] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:36:08.892580] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:36:11.862064] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:36:14.868414] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:36:14.871936] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:36:14.907872] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:36:17.877263] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:36:20.882226] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:36:20.886115] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:36:20.925958] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:36:37.258498] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 31.4744s | 0.0260 Mbps | retrans=9
+[01:36:37.261918] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 31.5284s
+[01:36:39.405417] [HTTP-RUDP-CLI] === Exec 7 | Cenario B | /arquivo_100kb.bin ===
+[01:36:39.467719] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.26ms, 1 tent)
+[01:36:39.525836] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:36:39.593514] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:36:42.596902] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:36:42.600506] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:36:42.634921] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:36:45.606499] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:36:48.610737] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:36:48.614656] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:36:48.648098] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:36:51.622222] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:36:54.629210] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:36:54.632623] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:36:54.666394] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:37:07.986062] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 28.4576s | 0.0288 Mbps | retrans=9
+[01:37:07.990459] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 28.5118s
+[01:37:10.140316] [HTTP-RUDP-CLI] === Exec 8 | Cenario B | /arquivo_100kb.bin ===
+[01:37:10.202942] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.43ms, 1 tent)
+[01:37:10.261647] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:37:10.329957] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:37:13.336360] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:37:13.340270] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:37:13.380524] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:37:16.344898] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:37:19.348622] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:37:19.352927] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:37:19.391439] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:37:22.359598] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:37:25.364684] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:37:25.368365] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:37:25.403826] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:37:35.714390] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 25.4480s | 0.0322 Mbps | retrans=9
+[01:37:35.718106] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 25.5024s
+[01:37:37.865354] [HTTP-RUDP-CLI] === Exec 9 | Cenario B | /arquivo_100kb.bin ===
+[01:37:37.928218] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.71ms, 1 tent)
+[01:37:37.986332] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:37:38.068447] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:37:41.069675] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:37:41.073306] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:37:41.110621] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:37:44.077966] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:37:47.083524] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:37:47.087710] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:37:47.122354] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:37:50.094188] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:37:53.101117] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:37:53.105135] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:37:53.143231] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:38:06.455854] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 28.4699s | 0.0288 Mbps | retrans=9
+[01:38:06.459401] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 28.5246s
+[01:38:08.600610] [HTTP-RUDP-CLI] === Exec 10 | Cenario B | /arquivo_100kb.bin ===
+[01:38:08.663087] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.94ms, 1 tent)
+[01:38:08.721341] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:38:08.789829] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:38:11.793029] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:38:11.796710] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:38:11.831823] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:38:14.802800] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:38:17.809094] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:38:20.815270] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[01:38:20.819759] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:38:20.857037] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:38:23.824788] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:38:26.832400] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:38:26.835747] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:38:31.163884] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 22.4402s | 0.0365 Mbps | retrans=9
+[01:38:31.167264] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 22.4951s
+[01:38:59.861003] [HTTP-RUDP-CLI] === Exec 1 | Cenario B | /arquivo_500kb.bin ===
+[01:38:59.923580] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.81ms, 1 tent)
+[01:38:59.981731] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:39:00.051973] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:39:03.058423] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:39:03.061981] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:39:03.096340] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:39:06.066565] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:39:09.071949] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:39:09.075497] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:39:09.110240] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:39:12.079494] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:39:15.085799] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:39:15.089289] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:39:15.123851] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:39:39.546438] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 39.5614s | 0.1035 Mbps | retrans=9
+[01:39:39.550088] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 39.6162s
+[01:39:41.698166] [HTTP-RUDP-CLI] === Exec 2 | Cenario B | /arquivo_500kb.bin ===
+[01:39:41.760164] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.68ms, 1 tent)
+[01:39:41.818065] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:39:41.886473] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:39:44.892791] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:39:44.896266] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:39:44.934267] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:39:47.901382] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:39:50.908225] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:39:50.911979] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:39:50.947963] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:39:53.916623] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:39:56.923696] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:39:56.927394] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:39:56.970874] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:40:27.410771] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 45.5898s | 0.0898 Mbps | retrans=9
+[01:40:27.414869] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 45.6445s
+[01:40:29.559896] [HTTP-RUDP-CLI] === Exec 3 | Cenario B | /arquivo_500kb.bin ===
+[01:40:29.622403] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.14ms, 1 tent)
+[01:40:29.681157] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:40:29.762572] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:40:32.769707] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:40:35.776376] [HTTP-RUDP-CLI]   Timeout seq=2 tent 3/10
+[01:40:35.779887] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:40:35.822032] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:40:38.785627] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:40:41.789632] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[01:40:41.793082] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:40:41.826639] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:40:44.798152] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:40:47.805151] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:40:47.809505] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:41:09.262519] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 39.5782s | 0.1035 Mbps | retrans=9
+[01:41:09.265953] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 39.6323s
+[01:41:11.415338] [HTTP-RUDP-CLI] === Exec 4 | Cenario B | /arquivo_500kb.bin ===
+[01:41:11.477228] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.51ms, 1 tent)
+[01:41:11.549172] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:41:11.621583] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:41:14.628613] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:41:14.633212] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:41:14.669590] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:41:17.637387] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:41:20.644535] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:41:20.648404] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:41:20.687925] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:41:23.652747] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:41:26.660244] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:41:29.667094] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:41:29.670594] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:42:03.140453] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 51.5883s | 0.0794 Mbps | retrans=9
+[01:42:03.143908] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 51.6428s
+[01:42:05.284594] [HTTP-RUDP-CLI] === Exec 5 | Cenario B | /arquivo_500kb.bin ===
+[01:42:05.347712] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.50ms, 1 tent)
+[01:42:08.354565] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[01:42:11.359262] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[01:42:14.366118] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[01:42:17.372927] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[01:42:20.380120] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[01:42:23.387640] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[01:42:26.394550] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[01:42:29.401452] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[01:42:32.408577] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[01:42:35.415658] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[01:42:35.419093] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[01:42:37.567024] [HTTP-RUDP-CLI] === Exec 6 | Cenario B | /arquivo_500kb.bin ===
+[01:42:37.629993] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.66ms, 1 tent)
+[01:42:40.634138] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[01:42:40.723033] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 2
+[01:42:40.793283] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:42:43.799851] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:42:43.803389] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:42:43.849721] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:42:46.807958] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:42:49.815000] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:42:52.821687] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[01:42:52.824951] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:42:52.859157] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:42:55.829697] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:42:58.837014] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:43:26.303329] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 45.5777s | 0.0899 Mbps | retrans=9
+[01:43:26.306761] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 45.6324s
+[01:43:28.447936] [HTTP-RUDP-CLI] === Exec 7 | Cenario B | /arquivo_500kb.bin ===
+[01:43:28.510035] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.61ms, 1 tent)
+[01:43:28.568632] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:43:28.643955] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:43:31.650597] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:43:31.654058] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:43:31.689870] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:43:34.658225] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:43:37.665087] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:43:37.669214] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:43:37.709447] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:43:40.670562] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:43:43.677143] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:43:43.680434] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:43:43.713549] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:44:23.171692] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 54.6029s | 0.0750 Mbps | retrans=9
+[01:44:23.175335] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 54.6575s
+[01:44:25.326963] [HTTP-RUDP-CLI] === Exec 8 | Cenario B | /arquivo_500kb.bin ===
+[01:44:25.389073] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.46ms, 1 tent)
+[01:44:25.447088] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:44:25.517612] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:44:28.522413] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:44:28.526041] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:44:28.560873] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:44:31.532429] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:44:34.538799] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:44:34.542404] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:44:34.578359] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:44:37.546846] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:44:40.550983] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:44:40.555929] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:44:40.600796] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:45:26.059309] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 60.6118s | 0.0676 Mbps | retrans=9
+[01:45:26.062928] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 60.6663s
+[01:45:28.223340] [HTTP-RUDP-CLI] === Exec 9 | Cenario B | /arquivo_500kb.bin ===
+[01:45:28.285789] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.44ms, 1 tent)
+[01:45:28.343827] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:45:28.413205] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:45:31.419677] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:45:31.423386] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:45:31.461766] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:45:34.427790] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:45:37.434007] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:45:37.438168] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:45:37.475395] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:45:40.440525] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:45:43.447138] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:45:43.450715] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:45:43.491946] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:46:10.914994] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 42.5707s | 0.0962 Mbps | retrans=9
+[01:46:10.918483] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 42.6251s
+[01:46:13.065629] [HTTP-RUDP-CLI] === Exec 10 | Cenario B | /arquivo_500kb.bin ===
+[01:46:15.138182] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (2063.88ms, 2 tent)
+[01:46:15.195664] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:46:15.273945] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:46:18.280464] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:46:18.284410] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:46:18.319942] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:46:21.288221] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:46:24.293456] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:46:24.299151] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:46:24.346512] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:46:27.305779] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:46:30.309822] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:46:30.314579] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:46:30.351825] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:47:09.808478] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 54.6100s | 0.0750 Mbps | retrans=9
+[01:47:09.812058] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 56.6738s
+[01:47:37.371015] [HTTP-RUDP-CLI] === Exec 1 | Cenario B | /arquivo_1mb.bin ===
+[01:47:37.434991] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.56ms, 1 tent)
+[01:47:37.493450] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:47:37.565562] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:47:40.569978] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:47:40.573986] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:47:40.608482] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:47:43.578676] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:47:46.582855] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:47:46.587082] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:47:46.621545] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:47:49.593923] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:47:52.598830] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:47:52.602491] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:47:52.636751] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:49:20.926682] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 103.4357s | 0.0811 Mbps | retrans=9
+[01:49:20.930332] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 103.4902s
+[01:49:23.071450] [HTTP-RUDP-CLI] === Exec 2 | Cenario B | /arquivo_1mb.bin ===
+[01:49:23.133148] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.60ms, 1 tent)
+[01:49:23.191126] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:49:23.265449] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:49:26.271848] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:49:26.275224] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:49:26.309045] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:49:29.279054] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:49:32.284182] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:49:32.287945] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:49:32.323829] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:49:35.294400] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:49:38.300756] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:49:38.304412] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:49:38.337846] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:50:21.526321] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 58.3336s | 0.1438 Mbps | retrans=9
+[01:50:21.529829] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 58.3882s
+[01:50:23.669845] [HTTP-RUDP-CLI] === Exec 3 | Cenario B | /arquivo_1mb.bin ===
+[01:50:23.732070] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.70ms, 1 tent)
+[01:50:23.789808] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:50:23.859572] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:50:26.863541] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:50:26.867899] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:50:26.902174] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:50:29.874313] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:50:32.881011] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:50:32.884378] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:50:32.919197] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:50:35.888433] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:50:38.894877] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:50:38.898471] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:50:38.932359] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:51:25.139117] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 61.3477s | 0.1367 Mbps | retrans=9
+[01:51:25.142616] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 61.4024s
+[01:51:27.288551] [HTTP-RUDP-CLI] === Exec 4 | Cenario B | /arquivo_1mb.bin ===
+[01:51:27.350922] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.87ms, 1 tent)
+[01:51:27.408986] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:51:27.481517] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:51:30.488104] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:51:30.491431] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:51:30.525199] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:51:33.495034] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:51:36.501484] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:51:36.505030] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:51:36.538403] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:51:39.510324] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:51:42.515093] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:51:42.518526] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:51:42.552268] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:52:40.772297] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 73.3638s | 0.1143 Mbps | retrans=9
+[01:52:40.775681] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 73.4187s
+[01:52:42.913448] [HTTP-RUDP-CLI] === Exec 5 | Cenario B | /arquivo_1mb.bin ===
+[01:52:42.975890] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.18ms, 1 tent)
+[01:52:43.034071] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:52:43.100468] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:52:46.106988] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:52:46.110613] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:52:46.154326] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:52:49.115310] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:52:52.120063] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:52:52.123655] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:52:52.156976] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:52:55.129903] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:52:58.136068] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:52:58.139485] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:52:58.174857] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:53:53.381385] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 70.3456s | 0.1192 Mbps | retrans=9
+[01:53:53.384774] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 70.3998s
+[01:53:55.522557] [HTTP-RUDP-CLI] === Exec 6 | Cenario B | /arquivo_1mb.bin ===
+[01:53:55.585312] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.80ms, 1 tent)
+[01:53:58.592132] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[01:54:01.596358] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[01:54:04.603491] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[01:54:07.610790] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[01:54:10.615825] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[01:54:13.622845] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[01:54:16.629890] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[01:54:19.636884] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[01:54:22.643903] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[01:54:25.650945] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[01:54:25.654402] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[01:54:27.809738] [HTTP-RUDP-CLI] === Exec 7 | Cenario B | /arquivo_1mb.bin ===
+[01:54:27.871978] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.74ms, 1 tent)
+[01:54:27.929339] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:54:27.997363] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:54:31.004024] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:54:31.007893] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:54:31.042558] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:54:34.012325] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:54:37.017776] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:54:37.021965] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:54:37.063021] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:54:40.025379] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:54:43.031976] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:54:43.036066] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:54:43.071323] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:55:44.311628] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 76.3830s | 0.1098 Mbps | retrans=9
+[01:55:44.315051] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 76.4377s
+[01:55:46.458359] [HTTP-RUDP-CLI] === Exec 8 | Cenario B | /arquivo_1mb.bin ===
+[01:55:46.520329] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.27ms, 1 tent)
+[01:55:46.578232] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:55:46.650405] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:55:49.655859] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:55:49.659462] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:55:49.692316] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:55:52.665672] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:55:55.672674] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:55:55.676528] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:55:55.722158] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:55:58.680413] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:56:01.687938] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:56:01.692004] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:56:01.726987] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:56:59.954741] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 73.3761s | 0.1143 Mbps | retrans=9
+[01:56:59.958346] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 73.4303s
+[01:57:02.104495] [HTTP-RUDP-CLI] === Exec 9 | Cenario B | /arquivo_1mb.bin ===
+[01:57:02.167041] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.66ms, 1 tent)
+[01:57:02.232657] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:57:02.303580] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:57:05.310081] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:57:05.314404] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:57:05.349235] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:57:08.318327] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:57:11.320051] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:57:11.324572] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:57:11.359686] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:57:14.330835] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:57:17.336323] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[01:57:17.339681] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:57:17.381309] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[01:58:36.635570] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 94.4029s | 0.0889 Mbps | retrans=9
+[01:58:36.638957] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 94.4576s
+[01:58:38.785946] [HTTP-RUDP-CLI] === Exec 10 | Cenario B | /arquivo_1mb.bin ===
+[01:58:38.848279] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (54.64ms, 1 tent)
+[01:58:38.916698] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[01:58:38.981897] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[01:58:41.985753] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[01:58:41.989211] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[01:58:42.022735] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[01:58:44.992523] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[01:58:47.997709] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[01:58:48.001301] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[01:58:48.032967] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[01:58:51.008151] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[01:58:54.015557] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[01:58:57.022362] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[01:58:57.025915] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:00:16.315623] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 97.4014s | 0.0861 Mbps | retrans=9
+[02:00:16.320135] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 97.4561s
+[02:00:47.379443] [HTTP-RUDP-CLI] === Exec 1 | Cenario C | /arquivo_100kb.bin ===
+[02:00:47.491643] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.23ms, 1 tent)
+[02:00:47.600541] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:00:47.712249] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:00:50.717065] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:00:50.721154] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:00:50.761266] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:00:53.727739] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:00:56.733028] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:00:56.737120] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:00:56.773266] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:00:59.741699] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:01:02.748448] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:01:02.751937] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:01:02.792849] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:01:11.386161] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 23.7827s | 0.0344 Mbps | retrans=9
+[02:01:11.389813] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 23.8869s
+[02:01:13.535566] [HTTP-RUDP-CLI] === Exec 2 | Cenario C | /arquivo_100kb.bin ===
+[02:01:13.648328] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (105.04ms, 1 tent)
+[02:01:13.755841] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:01:16.763626] [HTTP-RUDP-CLI]   Timeout seq=1 tent 1/10
+[02:01:16.767299] [HTTP-RUDP-CLI]   Retransmissao seq=1 tent 2/10
+[02:01:16.874639] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:01:19.879055] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:01:19.882538] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:01:19.925998] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:01:22.889295] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:01:25.896035] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:01:25.899756] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:01:25.934397] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:01:28.903953] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:01:31.911084] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:01:31.914870] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:01:31.951123] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:01:46.564189] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 32.8059s | 0.0250 Mbps | retrans=10
+[02:01:46.567919] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 32.9109s
+[02:01:48.710343] [HTTP-RUDP-CLI] === Exec 3 | Cenario C | /arquivo_100kb.bin ===
+[02:01:48.847594] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (129.29ms, 1 tent)
+[02:01:48.955435] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:01:49.067879] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:01:52.074964] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:01:55.080871] [HTTP-RUDP-CLI]   Timeout seq=2 tent 3/10
+[02:01:55.086031] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:01:55.134311] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:01:58.089718] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:02:01.096516] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[02:02:01.100270] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:02:01.134442] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:02:04.105171] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:02:07.109409] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[02:02:07.114120] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:02:24.770538] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 35.8125s | 0.0229 Mbps | retrans=9
+[02:02:24.774040] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 35.9418s
+[02:02:26.917932] [HTTP-RUDP-CLI] === Exec 4 | Cenario C | /arquivo_100kb.bin ===
+[02:02:27.030589] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.59ms, 1 tent)
+[02:02:27.140262] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:02:27.254061] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:02:30.261214] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:02:33.267713] [HTTP-RUDP-CLI]   Timeout seq=2 tent 3/10
+[02:02:33.271681] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:02:33.317130] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:02:36.275016] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:02:39.281798] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[02:02:39.286244] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:02:39.319290] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:02:42.286996] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:02:45.294109] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:02:48.301035] [HTTP-RUDP-CLI]   Timeout seq=2 tent 10/10
+[02:03:05.964572] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 38.8214s | 0.0211 Mbps | retrans=9
+[02:03:05.968343] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 38.9260s
+[02:03:08.117690] [HTTP-RUDP-CLI] === Exec 5 | Cenario C | /arquivo_100kb.bin ===
+[02:03:08.231624] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (105.73ms, 1 tent)
+[02:03:08.342224] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:03:08.454493] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:03:11.458012] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:03:11.461292] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:03:11.502390] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:03:14.466310] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:03:17.470028] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:03:17.475107] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:03:17.522370] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:03:20.482596] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:03:23.490168] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:03:23.493510] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:03:23.532035] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:03:38.145373] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 29.8004s | 0.0275 Mbps | retrans=9
+[02:03:38.150719] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 29.9062s
+[02:03:40.307364] [HTTP-RUDP-CLI] === Exec 6 | Cenario C | /arquivo_100kb.bin ===
+[02:03:40.418647] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (103.88ms, 1 tent)
+[02:03:40.526871] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:03:40.638414] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:03:43.645540] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:03:46.652075] [HTTP-RUDP-CLI]   Timeout seq=2 tent 3/10
+[02:03:46.655614] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:03:46.690044] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:03:49.660491] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:03:52.667452] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[02:03:52.671288] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:03:52.718245] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:03:55.674654] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:03:58.680142] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[02:03:58.685150] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:04:13.339428] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 32.8100s | 0.0250 Mbps | retrans=9
+[02:04:13.343409] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 32.9139s
+[02:04:15.493575] [HTTP-RUDP-CLI] === Exec 7 | Cenario C | /arquivo_100kb.bin ===
+[02:04:15.606023] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.36ms, 1 tent)
+[02:04:18.613232] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[02:04:21.620200] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[02:04:24.627592] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[02:04:27.634532] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[02:04:30.641733] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[02:04:33.648740] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[02:04:36.653210] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[02:04:39.657979] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[02:04:42.662367] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[02:04:45.669108] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[02:04:45.672882] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[02:04:47.816174] [HTTP-RUDP-CLI] === Exec 8 | Cenario C | /arquivo_100kb.bin ===
+[02:04:47.928019] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.26ms, 1 tent)
+[02:04:48.036160] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:04:48.165373] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:04:51.171709] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:04:51.175661] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:04:51.213182] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:04:54.180168] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:04:57.184542] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:04:57.188590] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:04:57.244374] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:05:00.194526] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:05:03.200312] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:05:06.207288] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:05:09.211636] [HTTP-RUDP-CLI]   Timeout seq=2 tent 10/10
+[02:05:17.854541] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 29.8154s | 0.0275 Mbps | retrans=9
+[02:05:17.858133] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 29.9197s
+[02:05:20.001584] [HTTP-RUDP-CLI] === Exec 9 | Cenario C | /arquivo_100kb.bin ===
+[02:05:20.113982] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.73ms, 1 tent)
+[02:05:23.120874] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[02:05:26.128192] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[02:05:29.136638] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[02:05:32.143654] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[02:05:35.151081] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[02:05:38.159444] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[02:05:41.164854] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[02:05:44.171998] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[02:05:47.178960] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[02:05:50.186210] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[02:05:50.189896] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[02:05:52.332004] [HTTP-RUDP-CLI] === Exec 10 | Cenario C | /arquivo_100kb.bin ===
+[02:05:52.443977] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.39ms, 1 tent)
+[02:05:52.552576] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:05:52.666922] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:05:55.674256] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:05:58.679392] [HTTP-RUDP-CLI]   Timeout seq=2 tent 3/10
+[02:05:58.682715] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:05:58.716222] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:06:01.688573] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:06:04.695236] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[02:06:04.698756] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:06:04.736557] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:06:07.702613] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:06:10.705064] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[02:06:10.708659] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:06:25.367065] [HTTP-RUDP-CLI] HTTP: 200 | 102400B | 32.8110s | 0.0250 Mbps | retrans=9
+[02:06:25.370562] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 32.9154s
+[02:06:56.749376] [HTTP-RUDP-CLI] === Exec 1 | Cenario C | /arquivo_500kb.bin ===
+[02:06:56.860778] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (103.86ms, 1 tent)
+[02:06:56.969048] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:06:57.081771] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:07:00.088719] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:07:00.092110] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:07:00.126247] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:07:03.096793] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:07:06.103789] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:07:06.107467] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:07:06.144939] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:07:09.112102] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:07:12.116212] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:07:12.119970] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:07:12.159019] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:08:03.930068] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 66.9612s | 0.0612 Mbps | retrans=9
+[02:08:03.934277] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 67.0651s
+[02:08:06.077921] [HTTP-RUDP-CLI] === Exec 2 | Cenario C | /arquivo_500kb.bin ===
+[02:08:06.191389] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.75ms, 1 tent)
+[02:08:06.299209] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:08:06.410372] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:08:09.416899] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:08:09.420695] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:08:09.460491] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:08:12.423241] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:08:15.428311] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:08:15.431759] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:08:15.478510] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:08:18.435696] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:08:21.440235] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:08:21.443608] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:08:21.476265] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:09:25.275063] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 78.9765s | 0.0519 Mbps | retrans=9
+[02:09:25.279421] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 79.0812s
+[02:09:27.443700] [HTTP-RUDP-CLI] === Exec 3 | Cenario C | /arquivo_500kb.bin ===
+[02:09:27.559952] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (105.33ms, 1 tent)
+[02:09:27.670502] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:09:27.781462] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:09:30.787723] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:09:30.790944] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:09:30.823683] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:09:33.796617] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:09:36.802906] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:09:36.806405] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:09:36.839895] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:09:39.809471] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:09:42.814117] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:09:42.817337] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:09:42.849880] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:10:19.583384] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 51.9131s | 0.0789 Mbps | retrans=9
+[02:10:19.586692] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 52.0185s
+[02:10:21.723473] [HTTP-RUDP-CLI] === Exec 4 | Cenario C | /arquivo_500kb.bin ===
+[02:10:21.836077] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (105.06ms, 1 tent)
+[02:10:21.943528] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:10:22.054370] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:10:25.060460] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:10:25.063802] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:10:25.098811] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:10:28.069342] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:10:31.075977] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:10:31.079252] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:10:31.113013] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:10:34.084021] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:10:37.090473] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:10:37.094079] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:10:37.126219] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:11:16.872817] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 54.9280s | 0.0746 Mbps | retrans=9
+[02:11:16.876087] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 55.0331s
+[02:11:19.018900] [HTTP-RUDP-CLI] === Exec 5 | Cenario C | /arquivo_500kb.bin ===
+[02:11:19.131272] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (105.15ms, 1 tent)
+[02:11:19.238858] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:11:19.349107] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:11:22.355441] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:11:22.358731] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:11:22.392746] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:11:25.363748] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:11:28.370735] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:11:28.374180] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:11:28.406398] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:11:31.378764] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:11:34.383717] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:11:37.390237] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[02:11:37.393577] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:12:38.213723] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 78.9748s | 0.0519 Mbps | retrans=9
+[02:12:38.217055] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 79.0799s
+[02:12:40.351756] [HTTP-RUDP-CLI] === Exec 6 | Cenario C | /arquivo_500kb.bin ===
+[02:12:40.464744] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.81ms, 1 tent)
+[02:12:40.572313] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:12:40.684975] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:12:43.691518] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:12:43.694860] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:12:43.728680] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:12:46.699105] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:12:49.704806] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:12:49.708073] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:12:49.741178] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:12:52.713810] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:12:55.720022] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:12:55.723352] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:12:55.756067] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:13:50.531008] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 69.9585s | 0.0585 Mbps | retrans=9
+[02:13:50.534433] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 70.0633s
+[02:13:52.672456] [HTTP-RUDP-CLI] === Exec 7 | Cenario C | /arquivo_500kb.bin ===
+[02:13:52.784422] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.75ms, 1 tent)
+[02:13:52.891759] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:13:53.003130] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:13:56.006501] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:13:56.010271] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:13:56.044744] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:13:59.018795] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:14:02.025183] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:14:02.028606] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:14:02.062459] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:14:05.033912] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:14:08.040170] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:14:08.043487] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:14:08.076990] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:15:11.865151] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 78.9743s | 0.0519 Mbps | retrans=9
+[02:15:11.868723] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 79.0791s
+[02:15:14.010382] [HTTP-RUDP-CLI] === Exec 8 | Cenario C | /arquivo_500kb.bin ===
+[02:15:14.122681] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.77ms, 1 tent)
+[02:15:14.244692] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:15:14.356015] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:15:17.362488] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:15:17.365842] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:15:17.400238] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:15:20.370259] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:15:23.376608] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:15:23.379734] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:15:23.418882] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:15:26.385054] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:15:29.391523] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:15:29.395022] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:15:29.430084] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:16:09.167172] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 54.9199s | 0.0746 Mbps | retrans=9
+[02:16:09.170494] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 55.0247s
+[02:16:11.306184] [HTTP-RUDP-CLI] === Exec 9 | Cenario C | /arquivo_500kb.bin ===
+[02:16:11.418815] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.56ms, 1 tent)
+[02:16:11.526386] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:16:11.637735] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:16:14.641922] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:16:14.645916] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:16:14.680219] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:16:17.652528] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:16:20.657897] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:16:20.661447] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:16:20.694647] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:16:23.666820] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:16:26.673259] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:16:26.676709] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:16:26.711229] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:17:39.519636] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 87.9924s | 0.0465 Mbps | retrans=9
+[02:17:39.523093] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 88.0969s
+[02:17:41.659984] [HTTP-RUDP-CLI] === Exec 10 | Cenario C | /arquivo_500kb.bin ===
+[02:17:41.772443] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.78ms, 1 tent)
+[02:17:41.879688] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:17:41.990409] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:17:44.996682] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:17:44.999883] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:17:45.033553] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:17:48.005045] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:17:51.011448] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:17:51.014770] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:17:51.048414] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:17:54.019491] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:17:57.023496] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:17:57.027465] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:17:57.061227] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:18:42.817745] [HTTP-RUDP-CLI] HTTP: 200 | 512000B | 60.9373s | 0.0672 Mbps | retrans=9
+[02:18:42.821235] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 61.0421s
+[02:19:15.111515] [HTTP-RUDP-CLI] === Exec 1 | Cenario C | /arquivo_1mb.bin ===
+[02:19:15.223602] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.72ms, 1 tent)
+[02:19:15.347595] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:19:15.458335] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:19:18.462688] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:19:21.469371] [HTTP-RUDP-CLI]   Timeout seq=2 tent 3/10
+[02:19:21.472541] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:19:21.506703] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:19:24.476909] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:19:27.481176] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[02:19:27.484731] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:19:27.518130] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:19:30.490974] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:19:33.497385] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[02:19:33.500447] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:21:41.703861] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 146.3612s | 0.0573 Mbps | retrans=9
+[02:21:41.707109] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 146.4659s
+[02:21:43.847450] [HTTP-RUDP-CLI] === Exec 2 | Cenario C | /arquivo_1mb.bin ===
+[02:21:43.959548] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.66ms, 1 tent)
+[02:21:44.066948] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:21:47.074396] [HTTP-RUDP-CLI]   Timeout seq=1 tent 1/10
+[02:21:47.078396] [HTTP-RUDP-CLI]   Retransmissao seq=1 tent 2/10
+[02:21:50.115548] [HTTP-RUDP-CLI]   Timeout seq=1 tent 2/10
+[02:21:50.119645] [HTTP-RUDP-CLI]   Retransmissao seq=1 tent 3/10
+[02:21:50.244523] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:21:53.250566] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:21:53.254091] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:21:53.293442] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:21:56.259579] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:21:59.266069] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:21:59.269359] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:21:59.303785] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:22:02.273792] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:22:05.278916] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:22:08.285409] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[02:22:08.288885] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:24:04.473252] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 140.4092s | 0.0597 Mbps | retrans=11
+[02:24:04.476761] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 140.5138s
+[02:24:06.620690] [HTTP-RUDP-CLI] === Exec 3 | Cenario C | /arquivo_1mb.bin ===
+[02:24:06.733329] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (105.03ms, 1 tent)
+[02:24:09.739802] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[02:24:12.745106] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[02:24:15.752209] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[02:24:18.759097] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[02:24:21.765916] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[02:24:24.773108] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[02:24:27.780210] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[02:24:30.786809] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[02:24:33.794061] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[02:24:36.801026] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[02:24:36.804633] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[02:24:38.948929] [HTTP-RUDP-CLI] === Exec 4 | Cenario C | /arquivo_1mb.bin ===
+[02:24:39.060637] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.55ms, 1 tent)
+[02:24:39.168182] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:24:42.173270] [HTTP-RUDP-CLI]   Timeout seq=1 tent 1/10
+[02:24:42.176906] [HTTP-RUDP-CLI]   Retransmissao seq=1 tent 2/10
+[02:24:42.283748] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:24:45.289755] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:24:45.293420] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:24:45.326668] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:24:48.298718] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:24:51.304949] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:24:51.308378] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:24:51.341040] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:24:54.313085] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:24:57.319379] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:24:57.322909] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:24:57.357110] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:26:53.492052] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 134.3285s | 0.0624 Mbps | retrans=10
+[02:26:53.495187] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 134.4330s
+[02:26:55.639592] [HTTP-RUDP-CLI] === Exec 5 | Cenario C | /arquivo_1mb.bin ===
+[02:26:55.752297] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.95ms, 1 tent)
+[02:26:58.770157] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[02:27:01.777029] [HTTP-RUDP-CLI]   SYN timeout tentativa 2/10
+[02:27:04.783817] [HTTP-RUDP-CLI]   SYN timeout tentativa 3/10
+[02:27:07.790567] [HTTP-RUDP-CLI]   SYN timeout tentativa 4/10
+[02:27:10.795041] [HTTP-RUDP-CLI]   SYN timeout tentativa 5/10
+[02:27:13.801846] [HTTP-RUDP-CLI]   SYN timeout tentativa 6/10
+[02:27:16.808512] [HTTP-RUDP-CLI]   SYN timeout tentativa 7/10
+[02:27:19.815391] [HTTP-RUDP-CLI]   SYN timeout tentativa 8/10
+[02:27:22.822640] [HTTP-RUDP-CLI]   SYN timeout tentativa 9/10
+[02:27:25.829652] [HTTP-RUDP-CLI]   SYN timeout tentativa 10/10
+[02:27:25.833804] [HTTP-RUDP-CLI] ERRO: Sem SYN-ACK
+[02:27:27.975210] [HTTP-RUDP-CLI] === Exec 6 | Cenario C | /arquivo_1mb.bin ===
+[02:27:28.087873] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (105.47ms, 1 tent)
+[02:27:28.196236] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:27:28.306967] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:27:31.313799] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:27:34.320214] [HTTP-RUDP-CLI]   Timeout seq=2 tent 3/10
+[02:27:34.323429] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:27:34.355549] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:27:37.328837] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:27:40.333706] [HTTP-RUDP-CLI]   Timeout seq=2 tent 6/10
+[02:27:40.337436] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:27:40.370770] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:27:43.340895] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:27:46.345236] [HTTP-RUDP-CLI]   Timeout seq=2 tent 9/10
+[02:27:46.348530] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:30:09.606617] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 161.4149s | 0.0520 Mbps | retrans=9
+[02:30:09.610088] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 161.5204s
+[02:30:11.751330] [HTTP-RUDP-CLI] === Exec 7 | Cenario C | /arquivo_1mb.bin ===
+[02:30:11.862866] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.00ms, 1 tent)
+[02:30:11.970764] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:30:12.082959] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:30:15.089516] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:30:15.092913] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:30:15.137143] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:30:18.097235] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:30:21.103223] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:30:21.106765] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:30:21.139013] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:30:24.111912] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:30:27.118619] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:30:27.122117] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:30:27.155298] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:32:26.334635] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 134.3661s | 0.0624 Mbps | retrans=9
+[02:32:26.338796] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 134.4701s
+[02:32:28.491855] [HTTP-RUDP-CLI] === Exec 8 | Cenario C | /arquivo_1mb.bin ===
+[02:32:28.604589] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.47ms, 1 tent)
+[02:32:31.611912] [HTTP-RUDP-CLI]   SYN timeout tentativa 1/10
+[02:32:31.719776] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 2
+[02:32:31.831221] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:32:34.837911] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:32:34.841540] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:32:34.886929] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:32:37.845497] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:32:40.850141] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:32:40.853763] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:32:40.886263] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:32:43.858431] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:32:46.864993] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:32:46.868526] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:32:46.901475] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:35:16.132029] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 164.4183s | 0.0510 Mbps | retrans=9
+[02:35:16.135328] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 164.5227s
+[02:35:18.271494] [HTTP-RUDP-CLI] === Exec 9 | Cenario C | /arquivo_1mb.bin ===
+[02:35:20.393733] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (2114.75ms, 2 tent)
+[02:35:20.501569] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:35:20.612677] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:35:23.618686] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:35:23.621949] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:35:23.654275] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:35:26.627052] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:35:29.633484] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:35:29.637073] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:35:29.670480] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:35:32.641542] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:35:35.648130] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:35:35.651512] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:35:35.690726] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:37:19.819123] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 119.3205s | 0.0703 Mbps | retrans=9
+[02:37:19.822568] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 121.4352s
+[02:37:21.961338] [HTTP-RUDP-CLI] === Exec 10 | Cenario C | /arquivo_1mb.bin ===
+[02:37:22.073493] [HTTP-RUDP-CLI] DNS: webserver.local -> 172.20.0.10 (104.71ms, 1 tent)
+[02:37:22.181124] [HTTP-RUDP-CLI]   SYN-ACK recebido na tentativa 1
+[02:37:25.188323] [HTTP-RUDP-CLI]   Timeout seq=1 tent 1/10
+[02:37:25.192269] [HTTP-RUDP-CLI]   Retransmissao seq=1 tent 2/10
+[02:37:25.299202] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 2/10
+[02:37:28.305502] [HTTP-RUDP-CLI]   Timeout seq=2 tent 2/10
+[02:37:28.308943] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 3/10
+[02:37:28.343171] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 4/10
+[02:37:31.313346] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 5/10
+[02:37:34.318253] [HTTP-RUDP-CLI]   Timeout seq=2 tent 5/10
+[02:37:34.321896] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 6/10
+[02:37:34.355539] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 7/10
+[02:37:37.328183] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 8/10
+[02:37:40.331878] [HTTP-RUDP-CLI]   Timeout seq=2 tent 8/10
+[02:37:40.336173] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 9/10
+[02:37:40.376769] [HTTP-RUDP-CLI]   Retransmissao seq=2 tent 10/10
+[02:39:48.564477] [HTTP-RUDP-CLI] HTTP: 200 | 1048576B | 146.3875s | 0.0573 Mbps | retrans=10
+[02:39:48.567896] [HTTP-RUDP-CLI] Tempo total (DNS+HTTP): 146.4922s
